@@ -2,18 +2,14 @@
 
 <!-- _navbar.md -->
 * [:house:](/)
-* [docsify](https://docsify.js.org/#/quickstart)
 
-* Getting started
+* API 速查
+  * [docsify 教程](https://docsify.js.org/#/quickstart)
+  <!-- * [docsify emjo](https://docsify.js.org/#/emoji?id=emoji) -->
+  <!-- * [🐺 emojicopy 查询](https://emojicopy.com/) -->
+  * [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)
+  * [GitHub Docs](https://docs.github.com/en "github docs 文档")
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
-
-* Configuration
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [Using plugins](plugins.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+* 学习笔记
+  * [docsify](/pages/notes/docsify.md "docsify 学习笔记")
+  * [docsify emjo natvie](/pages/notes/emoji.md)

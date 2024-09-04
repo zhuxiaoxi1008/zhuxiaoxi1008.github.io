@@ -1,4 +1,8 @@
-### guide page
+
+<!-- docsify-ignore -->
+学习笔记
+
+# docsify 快速开始
 
 ```
 1. docsify init ./docs

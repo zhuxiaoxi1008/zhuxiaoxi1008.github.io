@@ -1,0 +1,27 @@
+
+# 官网地址
+
+- [Vue.js 官方文档](https://vuejs.org/) - Vue.js 的官方文档，提供详细的 Vue 3 指南和 API 参考。
+- [Vite 官方文档](https://vitejs.dev/) - Vite 的官方文档，介绍如何使用 Vite 构建现代 Web 应用。
+- [Element Plus 官方文档](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
+- [ECharts 官方文档](https://echarts.apache.org/) - ECharts 的官方文档，提供强大的数据可视化图表库。
+- [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/# 教程官网
+- [Node.js 官方文档](https://nodejs.org/en/docs/) - Node.js 的官方文档，提供详细的 Node.js 开发指南和 API 参考。
+- [Webpack 官方文档](https://webpack.js.org/) - Webpack 的官方文档，介绍如何使用 Webpack 进行模块打包和构建。
+- [Babel 官方文档](https://babeljs.io/) - Babel 的官方文档，提供将现代 JavaScript 转换为向后兼容代码的工具。
+- [Express 官方文档](https://expressjs.com/) - Express 的官方文档，介绍如何使用 Express 构建 Node.js Web 应用。
+- [NPM 官方文档](https://docs.npmjs.com/) - NPM 的官方文档，提供 Node.js 包管理器的详细使用指南。cheat-sheet.html/
+- [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/cheat-sheet.html/
+
+# CSS 样式相关网站
+
+- [Sass 官方文档](https://sass-lang.com/) - Sass 是最成熟、最稳定且最强大的专业级 CSS 扩展语言。
+- [Less 官方文档](http://lesscss.org/) - Less 是一种 CSS 预处理器，支持使用变量、嵌套规则、混合、函数等特性。
+- [Stylus 官方文档](http://styluslang.com/) - Stylus 是一种动态 CSS 语言，提供了丰富的功能和灵活性。
+- [PostCSS 官方文档](https://postcss.org/) - PostCSS 是一个使用插件来转换 CSS 的工具，可以实现未来 CSS 规范。
+- [Tailwind CSS 官方文档](https://tailwindcss.com/) - Tailwind CSS 是一个实用优先的 CSS 框架，支持高度定制化的样式生成。
+- [CodePen](https://codepen.io/) - 一个免费的社区代码编辑器，用户可以在其中编写 HTML、CSS 和 JavaScript 代码，并将其实时预览。
+- [CSS Tricks](https://css-tricks.com/) - 提供大量的 CSS 技巧、教程和示例，对于深入理解 CSS 非常有帮助。
+- [CSS Zen Garden](http://www.csszengarden.com/) - 通过相同的 HTML 结构展示不同设计师使用 CSS 所创建的不同风格和外观。
+- [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
+- [CSS Gradient](https://cssgradient.io/) - 用于创建渐变背景的在线工具，提供各种渐变样式的代码生成器。
