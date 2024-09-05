@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="shortcut icon" href="_media/favicon.ico">
+  
 </head>
 <body>
   <div data-app id="main">Please wait...</div>
@@ -16,18 +17,25 @@
       el: '#main',
       loadNavbar: true,
       loadSidebar: true,
+      // subMaxLevel: 2,
+      // sidebarDisplayLevel: 1,
       alias: {
         '/_media/(.*)': '/_media/$1',
         '/.*/_sidebar.md': '/_sidebar.md'
       },
       coverpage: false,
       onlyCover: true,
-      // subMaxLevel: 0,
       name: '',
-      repo: ''
+      repo: '',
+      notFoundPage: 'my404.md',
+      repo: 'https://github.com/zhuxiaoxi1008/zhuxiaoxi1008.github.io',
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- plugins -->
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" /> -->
 </body>
 </html>

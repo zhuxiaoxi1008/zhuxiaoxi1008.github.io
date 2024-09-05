@@ -1,4 +1,6 @@
-# 在线工具
+# 软件
+- [Vmware](http://www.downcc.com/k/vmware/) 下载地址
+- [软件下载地址]（https://www.updatestar.com/zh-cn/） 
 
 # 开源镜像站
 
@@ -8,6 +10,9 @@
 - [首都在线开源镜像站](https://mirrors.capitalonline.net/) - 首都在线提供的开源软件镜像服务，提供快速稳定的开源软件下载。
 - [清华大学 TUNA 协会镜像站](https://mirrors.tuna.tsinghua.edu.cn/) - 清华大学 TUNA 协会提供的开源软件镜像服务，覆盖了广泛的开源项目。
 - [:+1:荆楚理工学院开源镜像站](https://mirrors.jcut.edu.cn/) - 荆楚理工学院提供的开源软件镜像服务，包含多个软件版本的镜像。
+- [清华大学镜像站](https://mirrors.tuna.tsinghua.edu.cn/help/centos/?after=base&branch=7&arch=x86_64)
+- [阿里镜像](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
+- [阿里云](https://edu.aliyun.com/)
 
 # Java JDK
 - [JAVA JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) Java JDK 下载地址
@@ -24,4 +29,8 @@
 - [Microsoft Virtual Machine Converter](https://www.microsoft.com/en-us/download/details.aspx?id=42095) - Microsoft 提供的虚拟机转换工具，支持多种虚拟机格式。
 - [QEMU](https://www.qemu.org/download/) - QEMU 是一个开源的虚拟机监视器，提供多种操作系统镜像下载。
 - [Ubuntu Desktop ISO](https://ubuntu.com/download/desktop) - Ubuntu 官方提供的桌面版 ISO 镜像，可用于虚拟机安装。
-
+- [centos download](http://centos.mirror.liquidtelecom.com/7/isos/x86_64/)
+- [win ISO](https://msdn.itellyou.cn/) - ISO 镜像，可用于虚拟机安装。
+-[有道灵动]https://microsoftedge.microsoft.com/addons/search/%E7%81%B5%E5%8A%A8%E7%BF%BB%E8%AF%91
+- [Chrome 插件](https://chrome.google.com/webstore/category/extensions) - Google Chrome 插件商店，提供各种功能扩展。https://extensiondock.com/cn
+- [免费kimi接口]https://juejin.cn/post/7357546247848427558?searchId=202408101404484888A391A6B1AC7D2DBC

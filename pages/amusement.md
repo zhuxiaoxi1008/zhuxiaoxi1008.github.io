@@ -3,10 +3,13 @@
 - [时代音乐](http://www.78497.com/)  免费音乐网站
 - [youtube](https://www.youtube.com)  油管
 - [facebook](https://www.facebook.com/)  社交平台
-
+- [twitter](https://twitter.com/)  推特
+- [instagram](https://www.instagram.com/)  社交平台
+- [tiktok](https://www.tiktok.com/)  抖音
+- [web GAME](https://itch.io/)  游戏
 
 ## 新闻站
-
+- [msn 新闻](https://www.msn.cn/zh-cn)
 - [The New York Times](https://www.nytimes.com) - 美国最具声誉的报纸之一，以其深入的报道和高质量的新闻分析而闻名。
 - [CNN](https://www.cnn.com) - 美国第一个提供24小时新闻报道的电视频道，以其快速报道重大新闻事件而著称。
 - [Reuters](https://www.reuters.com) - 全球最大的国际新闻机构之一，提供广播新闻和印刷报纸，以迅速和准确享誉国际。

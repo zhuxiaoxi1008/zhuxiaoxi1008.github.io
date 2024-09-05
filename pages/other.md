@@ -11,8 +11,40 @@
 
 [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/) 免费服务器
 
+[sockets](https://github.com/shadowso/Shadowsocks)https://github.com/shadowso/Shadowsocks
+[sockets 下载地址](https://rixiacloud.github.io/blog/downloads.html)
+
 ---
 
 # 其他资料
+- [roadmap](https://roadmap.sh/ai/explore)
 
-[awesome-bookmarks](https://panjiachen.github.io/awesome-bookmarks/repository/#%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8)  github 上一个很赞的收藏夹博客
+-[awesome-bookmarks](https://panjiachen.github.io/awesome-bookmarks/repository/#%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8)  github 上一个很赞的收藏夹博客
+- [notebook](https://notebook.js.org/#/README) 资料分析
+- [source-code-hunter](https://github.com/doocs/source-code-hunter) 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
+
+doocs.github.io/source-co
+-[侠客岛](https://bytesfly.github.io/island/#/guide/use-tips)https://bytesfly.github.io/island/#/guide/use-tips
+
+- [腾讯项目](https://github.com/tencentmusic/cube-studio) cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式
+- [securiyt list](https://security-list.js.org/#/README)
+- [github tend](https://github.com/trending?since=monthly)
+- [deep learn roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [awesome-bookmark](https://github.com/sindresorhus/awesome)Awesome lists about all kinds of interesting topics
+- [DevOps Roadmap for 2024. with learning resources](https://github.com/milanm/DevOps-Roadmap?tab=readme-ov-file#3-learn-linux--scripting)
+
+# 素材网
+- [pexels](https://www.pexels.com/zh-CN/license/)
+- [天空](https://pixabay.com/zh/images/search/%E5%A4%A9%E7%A9%BA%E8%83%8C%E6%99%AF/)
+- [unsplash](https://unsplash.com/)
+- [pixabay]((https://pixabay.com/))
+
+
+
+
+
+
+
+
+
+
