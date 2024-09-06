@@ -1,6 +1,7 @@
 # 软件
 - [Vmware](http://www.downcc.com/k/vmware/) 下载地址
-- [软件下载地址]（https://www.updatestar.com/zh-cn/） 
+- [软件下载地址](https://www.updatestar.com/zh-cn/ )
+- [绿色软件下载](http://www.downcc.com/)
 
 # 开源镜像站
 

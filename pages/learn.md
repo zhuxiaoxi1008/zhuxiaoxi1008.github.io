@@ -16,15 +16,16 @@
 - [W3Schools](https://www.w3schools.com) - 提供详细的 HTML、CSS、JavaScript 等 Web 技术教程和实例。
 - [GitHub Learning Lab](https://lab.github.com) - GitHub 提供的互动式 Git 和 GitHub 教程。
 - [freeCodeCamp](https://www.freecodecamp.org) - 免费的编程课程和项目实践平台。
+- [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 让您轻松地了解所有与重构、设计模式、SOLID 原则以及其他智能编程主题相关的知识。
 
 # docker
-IT Tools - Handy online tools for developers
-Memos
-Jellyfin
-Excalidraw | Hand-drawn look & feel • Collaborative • Secure
-Hello 算法
-DockerDesktop使用指南_笔记大全_设计学院
-Overview of Docker Desktop | Docker Documentation
-docker 命令
-Docker: Accelerated Container Application Development
+- [IT Tools - Handy online tools for developers](http://192.168.16.128:8010/)
+- [Memos](http://192.168.16.128:8011/)
+- [Jellyfin](http://192.168.16.128:8012/web/)
+- [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](http://192.168.16.128:8013/)
+- [Hello 算法](https://www.hello-algo.com/)
+- [DockerDesktop使用指南_笔记大全_设计学院](https://www.python100.com/html/99002.html)
+- [Overview of Docker Desktop | Docker Documentation](https://docs.docker.com/desktop/)
+- [docker 命令](https://docs.docker.com/engine/reference/commandline/rmi/)
+- [Docker: Accelerated Container Application Development](https://www.docker.com/)
 
