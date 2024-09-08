@@ -1,4 +1,9 @@
 # 软件
+- [nvm](https://github.com/coreybutler/nvm-windows/releases) nvm 下载地址
+- [choco](https://community.chocolatey.org/) choco 包管理工具 
+- [andorid studio](https://developer.android.com/studio?hl=zh-cn) android studio 下载地址
+
+
 - [Vmware](http://www.downcc.com/k/vmware/) 下载地址
 - [软件下载地址](https://www.updatestar.com/zh-cn/ )
 - [绿色软件下载](http://www.downcc.com/)
