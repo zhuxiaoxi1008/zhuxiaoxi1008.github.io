@@ -24,3 +24,8 @@ choto -v
 
 # 新建项目
 npx create-expo-app@latest
+
+## 问题 adb devices not found ？
+或者换一个数据线 
+https://developer.android.com/studio/run/win-usb 
+
