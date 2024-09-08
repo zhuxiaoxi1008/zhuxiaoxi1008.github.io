@@ -2,6 +2,8 @@
 
 ## 1. React-native 简介
 
+> https://reactnative.dev/docs/environment-setup
+
 React Native 是一个用 JavaScript 编写的框架，使开发者能够为 iOS 和 Android 构建原生应用。React Native 使用 JavaScript 和 React 来构建移动应用，同时使用原生 UI 组件来提供更好的用户体验。
 
 React Native 的主要特点包括：
