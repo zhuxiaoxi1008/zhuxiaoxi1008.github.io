@@ -3,6 +3,9 @@
 - [AI 工具推荐](https://openi.cn/)  https://openi.cn/
 - [kimi](https://kimi.moonshot.cn/)  https://kimi.moonshot.cn
 - [秘塔搜索](https://metaso.cn/)  https://metaso.cn/
+- [豆包](https://www.doubao.com/) https://www.doubao.com/
+
+-[文心一言](https://yiyan.baidu.com/)
 ---
 ## 搜索引擎
 - [Google](https://www.google.com/)  https://www.google.com/
@@ -15,6 +18,7 @@
 - [facebook](https://www.facebook.com/)  https://www.facebook.com/
 ---
 ## 博客软件
+- [TED](https://www.ted.com/) https://www.ted.com/
 - [有道翻译](https://mobile.youdao.com/)  https://mobile.youdao.com/
 - [有道云](https://note.youdao.com/web)  https://note.youdao.com/web
 - [掘金](https://juejin.cn/)  https://juejin.cn/

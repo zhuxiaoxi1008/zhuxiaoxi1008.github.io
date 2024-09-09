@@ -7,8 +7,13 @@
 - [instagram](https://www.instagram.com/)  社交平台
 - [tiktok](https://www.tiktok.com/)  抖音
 - [web GAME](https://itch.io/)  游戏
+- [bilibili](https://www.bilibili.com/)  哔哩哔哩
+- [电影天堂](https://www.dygod.net//)  电影
 
 ## 新闻站
+- [自由亚洲电台](https://www.rfa.org/) 自由亚洲电台
+- [google-news](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) - Google 新闻
+- [latest-news](https://therealnews.com/latest-news) - 最新新闻
 - [msn 新闻](https://www.msn.cn/zh-cn)
 - [The New York Times](https://www.nytimes.com) - 美国最具声誉的报纸之一，以其深入的报道和高质量的新闻分析而闻名。
 - [CNN](https://www.cnn.com) - 美国第一个提供24小时新闻报道的电视频道，以其快速报道重大新闻事件而著称。
