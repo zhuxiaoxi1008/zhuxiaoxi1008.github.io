@@ -12,7 +12,7 @@
 - [番茄小说](https://fanqienovel.com/) 
 
 ## 新闻站
--[法广](https://www.rfi.fr/cn/)
+- [法广](https://www.rfi.fr/cn/)
 
 
 - [自由亚洲电台](https://www.rfa.org/) 自由亚洲电台
