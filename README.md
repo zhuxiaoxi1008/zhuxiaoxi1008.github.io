@@ -10,6 +10,7 @@
 ## 搜索引擎
 - [Google](https://www.google.com/)  https://www.google.com/
 - [百度](https://www.baidu.com/)  https://www.baidu.com/
+- [抖音搜索](https://www.douyin.com/search)
 
 ---
 ## 娱乐
@@ -30,6 +31,12 @@
 ## 代码
 - [Github](https://github.com/)  https://github.com/
 - [Gitee](https://gitee.com/zhuxiaoxi1008)  https://gitee.com/
+- [npm](www.npmjs.com) npm
+
+## 出版社
+ 
+机械工业出版社
+[高等教育出版社](https://xuanshu.hep.com.cn/)
 
 
 

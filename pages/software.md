@@ -1,3 +1,6 @@
+# js 插件
+- [轮播图](https://www.swiper.com.cn/)
+
 # 软件
 - [Vmware](http://www.downcc.com/k/vmware/) 下载地址
 - [软件下载地址](https://www.updatestar.com/zh-cn/ )

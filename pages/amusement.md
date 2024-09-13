@@ -9,8 +9,12 @@
 - [web GAME](https://itch.io/)  游戏
 - [bilibili](https://www.bilibili.com/)  哔哩哔哩
 - [电影天堂](https://www.dygod.net//)  电影
+- [番茄小说](https://fanqienovel.com/) 
 
 ## 新闻站
+-[法广](https://www.rfi.fr/cn/)
+
+
 - [自由亚洲电台](https://www.rfa.org/) 自由亚洲电台
 - [google-news](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) - Google 新闻
 - [latest-news](https://therealnews.com/latest-news) - 最新新闻
