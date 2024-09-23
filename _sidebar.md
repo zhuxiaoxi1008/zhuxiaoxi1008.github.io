@@ -6,3 +6,4 @@
 - [其他资料](/pages/other.md "惟贤惟德，可以服人")
 - [设计模式](/pages/notes/design-pattern.md "凡有血气，必有争心")
 - [电子书](/pages/ebook.md '阅读，是交流的起点')
+- [笔记](pages/notes.md '知识，是交流的终点')
