@@ -4,8 +4,14 @@
 - [kimi](https://kimi.moonshot.cn/)  https://kimi.moonshot.cn
 - [秘塔搜索](https://metaso.cn/)  https://metaso.cn/
 - [豆包](https://www.doubao.com/) https://www.doubao.com/
+- [文心一言](https://yiyan.baidu.com/)
+---
 
--[文心一言](https://yiyan.baidu.com/)
+## 代码
+- [Github](https://github.com/)  https://github.com/
+- [Gitee](https://gitee.com/zhuxiaoxi1008)  https://gitee.com/
+- [npm](www.npmjs.com) npm
+
 ---
 ## 搜索引擎
 - [Google](https://www.google.com/)  https://www.google.com/
@@ -37,10 +43,7 @@
 - [163邮箱](https://mail.163.com/)  https://mail.163.com/
 - [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/)  https://dash.infinityfree.com/accounts/if0_37076589
 ---
-## 代码
-- [Github](https://github.com/)  https://github.com/
-- [Gitee](https://gitee.com/zhuxiaoxi1008)  https://gitee.com/
-- [npm](www.npmjs.com) npm
+
 
 
 

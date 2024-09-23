@@ -31,3 +31,17 @@ npx create-expo-app@latest
 或者换一个数据线 
 https://developer.android.com/studio/run/win-usb 
 
+
+https://developer.android.com/studio/run/managing-avds?hl=zh-cn
+
+## Here is the list of top free Android emulators for Windows 7, 8.1, 10, 11 PCs and MAC?
+
+Bluestacks
+Andy
+droid4x
+Windroy
+Genymotion
+Ko Player
+Memu
+NOX
+

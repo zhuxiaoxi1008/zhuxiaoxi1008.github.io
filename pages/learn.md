@@ -6,7 +6,7 @@
 - [开源中国](https://www.oschina.net/) 中文开源技术交流社区
 - [掘金](https://juejin.cn/)  https://juejin.cn/
 - [Dev.to](https://dev.to/) - Dev.to 是一个开发者社区，提供大量关于 CSS 和其他技术的文章和教程。
-
+- [v2ex](https://www.v2ex.com/) v2ex 是一个开放、活跃的、分享和交流的社区
 
 # 教程网站
 - [laracasts](https://laracasts.com/) Laravel的教学视频和文章

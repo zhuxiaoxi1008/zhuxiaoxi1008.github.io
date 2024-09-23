@@ -1,5 +1,4 @@
 # 娱乐网站
-
 - [时代音乐](http://www.78497.com/)  免费音乐网站
 - [youtube](https://www.youtube.com)  油管
 - [facebook](https://www.facebook.com/)  社交平台
@@ -10,6 +9,7 @@
 - [bilibili](https://www.bilibili.com/)  哔哩哔哩
 - [电影天堂](https://www.dygod.net//)  电影
 - [番茄小说](https://fanqienovel.com/) 
+- [nsc music](https://ncs.io/artists)
 
 ## 新闻站
 - [法广](https://www.rfi.fr/cn/)
