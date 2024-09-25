@@ -10,6 +10,9 @@
 - [Vmware](http://www.downcc.com/k/vmware/) 下载地址
 - [软件下载地址](https://www.updatestar.com/zh-cn/ )
 - [绿色软件下载](http://www.downcc.com/)
+- [everything search](https://www.voidtools.com/zh-cn/downloads/)
+- [openui](https://openui.fly.dev/ai/new)
+- [vsocode 配置](https://vscode.github.net.cn/docs/terminal/profiles)
 
 # 开源镜像站
 
