@@ -1,12 +1,10 @@
 # js 插件
-- [轮播图](https://www.swiper.com.cn/)
+- [轮播图](https://www.swiper.com.cn/) vue-awesome-swiper 封装工具
 
 # 软件
 - [nvm](https://github.com/coreybutler/nvm-windows/releases) nvm 下载地址
 - [choco](https://community.chocolatey.org/) choco 包管理工具 
 - [andorid studio](https://developer.android.com/studio?hl=zh-cn) android studio 下载地址
-
-
 - [Vmware](http://www.downcc.com/k/vmware/) 下载地址
 - [软件下载地址](https://www.updatestar.com/zh-cn/ )
 - [绿色软件下载](http://www.downcc.com/)
@@ -15,7 +13,6 @@
 - [vsocode 配置](https://vscode.github.net.cn/docs/terminal/profiles)
 
 # 开源镜像站
-
 - [阿里云开源镜像站](https://mirrors.aliyun.com/) - 阿里云提供的开源软件镜像服务，包括各种编程语言、库和工具。
 - [网易开源镜像站](http://mirrors.163.com/) - 网易提供的开源软件镜像服务，涵盖了多种开源项目和工具。
 - [搜狐开源镜像站](http://mirrors.sohu.com/) - 搜狐提供的开源软件镜像服务，加速下载各种开源软件。
@@ -35,7 +32,6 @@
 - [OpenJDK](https://openjdk.java.net/) - 开源的 Java 开发工具包，提供多个版本的 JDK。
 
 # 虚拟机镜像下载地址
-
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox 是一款免费的虚拟机软件，提供多种操作系统镜像下载。
 - [VMware Workstation](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_pro/18_0) - VMware Workstation 是一款功能强大的桌面虚拟化软件，提供多种操作系统镜像下载。
 - [Microsoft Virtual Machine Converter](https://www.microsoft.com/en-us/download/details.aspx?id=42095) - Microsoft 提供的虚拟机转换工具，支持多种虚拟机格式。

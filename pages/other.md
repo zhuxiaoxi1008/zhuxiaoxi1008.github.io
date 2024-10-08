@@ -23,6 +23,8 @@
 [sockets](https://github.com/shadowso/Shadowsocks)https://github.com/shadowso/Shadowsocks
 [sockets 下载地址](https://rixiacloud.github.io/blog/downloads.html)
 
+[Lantern](https://github.com/getlantern/download) 科学上网
+
 ---
 
 # 其他资料
@@ -46,7 +48,8 @@ doocs.github.io/source-co
 - [pexels](https://www.pexels.com/zh-CN/license/)
 - [天空](https://pixabay.com/zh/images/search/%E5%A4%A9%E7%A9%BA%E8%83%8C%E6%99%AF/)
 - [unsplash](https://unsplash.com/)
-- [pixabay]((https://pixabay.com/))
+- [pixabay](https://pixabay.com/)
+- [unsplash](https://unsplash.com/) 图片素材
 
 
 # 电子书
