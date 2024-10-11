@@ -1,5 +1,8 @@
 # React-native 学习笔记
 
+## laern mircosoft
+>https://learn.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-windows
+
 ## 1. React-native 简介
 > https://reactnative.dev/docs/environment-setup
 > https://reactnative.dev/docs/set-up-your-environment
@@ -17,7 +20,11 @@
 > https://learn.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-android
 
 ## 打包 [expo](https://expo.dev/)
+
+### 教程 https://docs.expo.dev/tutorial/introduction/
 > blog https://www.cnblogs.com/xutongbao/p/18161478
+> expo router https://docs.expo.dev/router/introduction/
+> expo icon https://icons.expo.fyi/Index
 
 ```
 eas build --platform android

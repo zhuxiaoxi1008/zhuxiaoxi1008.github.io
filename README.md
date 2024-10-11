@@ -23,7 +23,6 @@
 - [捷克:Seznam:](https://www.seznam.cz) 
 - [法国:Qwant:](https://www.qwant.com) 
 - [德国:Ecosia:](https://www.ecosia.org) 
-- [加拿大:AOL:](https://www.aol.com) 
 - [印度:Bing:](https://www.bing.com)
 
 ---
@@ -41,6 +40,7 @@
 - [Gmail](https://mail.google.com/mail/u/0/#inbox)  https://mail.google.com/mail/u/0/#inbox
 - [163邮箱](https://mail.163.com/)  https://mail.163.com/
 - [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/)  https://dash.infinityfree.com/accounts/if0_37076589
+- [10web](https://10web.io/blog/)
 ---
 
 

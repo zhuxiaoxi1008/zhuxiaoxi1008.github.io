@@ -1,10 +1,11 @@
 # 前言
 
 免费书籍汇总。
-
 没有注明语种的，都为英语资源。
-
 能下载到全网99% PDF电子书的方法 → http://www.chendianrong.com/pdf#IT
+
+github 仓库地址：https://github.com/AndBird/books
+https://github.com/AndBird/books/blob/master/books/quality%20other/%E4%BC%91%E6%81%AF%E9%98%85%E8%AF%BB/%E7%BB%8F%E6%B5%8E/%E5%9F%BA%E7%A1%80(1)/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86%E3%80%8A%E5%9B%BD%E5%AF%8C%E8%AE%BA%E3%80%8B%E5%95%86%E5%8A%A1%E5%8D%B0%E4%B9%A6%E9%A6%86.pdf
 
 ## 目录
 
