@@ -1,11 +1,10 @@
 
 # 官网地址
-
-- [NPM 官方文档](https://docs.npmjs.com/) - NPM 的官方文档，提供 Node.js 包管理器的详细使用指南。https://www.npmjs.com/
 - [Vue.js 官方文档](https://vuejs.org/) - Vue.js 的官方文档，提供详细的 Vue 3 指南和 API 参考。
+- [vue-router](https://router.vuejs.org/zh/introduction)
+- [Vuex](https://vuex.vuejs.org/zh/introduction.html) - Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式和库。
 - [Vite 官方文档](https://vitejs.dev/) - Vite 的官方文档，介绍如何使用 Vite 构建现代 Web 应用。
-- [Element Plus 官方文档](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
-- [ECharts 官方文档](https://echarts.apache.org/) - ECharts 的官方文档，提供强大的数据可视化图表库。
+
 - [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/# 教程官网
 - [Node.js 官方文档](https://nodejs.org/en/docs/) - Node.js 的官方文档，提供详细的 Node.js 开发指南和 API 参考。
 - [Webpack 官方文档](https://webpack.js.org/) - Webpack 的官方文档，介绍如何使用 Webpack 进行模块打包和构建。

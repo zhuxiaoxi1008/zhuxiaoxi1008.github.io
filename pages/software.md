@@ -1,5 +1,11 @@
 # js 插件
+- [Element Plus 官方文档](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
+- [ECharts 官方文档](https://echarts.apache.org/) - ECharts 的官方文档，提供强大的数据可视化图表库。
 - [轮播图](https://www.swiper.com.cn/) vue-awesome-swiper 封装工具
+- [xicon](https://xicons.org/#/zh-CN)   图标库
+- [fontawesome](https://fontawesome.com.cn/) fontawesome 图标库
+- [vue 插件](https://madewith.cn/157) vue 插件库搜索
+- pulsar.gitbooks.io/vue-tour/content vue-tour
 
 # 软件
 - [nvm](https://github.com/coreybutler/nvm-windows/releases) nvm 下载地址

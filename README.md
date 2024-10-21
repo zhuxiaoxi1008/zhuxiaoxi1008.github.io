@@ -11,6 +11,7 @@
 - [Github](https://github.com/)  https://github.com/
 - [Gitee](https://gitee.com/zhuxiaoxi1008)  https://gitee.com/
 - [npm](www.npmjs.com) npm
+- [NPM 官方文档](https://docs.npmjs.com/) - NPM 的官方文档，提供 Node.js 包管理器的详细使用指南。
 
 ---
 ## 搜索引擎
@@ -30,8 +31,10 @@
 - [时代音乐](http://www.78497.com/)  http://www.78497.com/
 - [youtube](https://www.youtube.com)  https://www.youtube.com/
 - [facebook](https://www.facebook.com/)  https://www.facebook.com/
+- [reddit](https://www.reddit.com/?rdt=52024)
 ---
 ## 博客软件
+- [bookstack](https://www.bookstack.cn/)
 - [TED](https://www.ted.com/) https://www.ted.com/
 - [有道翻译](https://mobile.youdao.com/)  https://mobile.youdao.com/
 - [有道云](https://note.youdao.com/web)  https://note.youdao.com/web
