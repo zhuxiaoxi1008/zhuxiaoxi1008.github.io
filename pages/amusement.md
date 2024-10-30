@@ -10,6 +10,7 @@
 - [电影天堂](https://www.dygod.net//)  电影
 - [番茄小说](https://fanqienovel.com/) 
 - [nsc music](https://ncs.io/artists)
+- [movie]https://www.4kvm.pro/seasons/tacguyishil
 
 ## 新闻站
 - [生意网](https://www.100ppi.com/ppi/)  - 专注于提供中国和国际市场行情的网站，提供各种商品的价格、库存、交易量等信息。
