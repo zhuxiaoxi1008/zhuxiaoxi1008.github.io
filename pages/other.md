@@ -25,6 +25,8 @@
 
 [Lantern](https://github.com/getlantern/download) 科学上网
 
+[freeNode](https://www.gaofumei.net/) 免费节点
+
 ---
 
 # 其他资料
