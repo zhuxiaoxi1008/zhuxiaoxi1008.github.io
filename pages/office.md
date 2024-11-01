@@ -1,5 +1,6 @@
 
 # 官网地址
+- [qiankun 官网](https://qiankun.umijs.org/zh) qiankun 官网
 - [Vue.js 官方文档](https://vuejs.org/) - Vue.js 的官方文档，提供详细的 Vue 3 指南和 API 参考。
 - [vue-router](https://router.vuejs.org/zh/introduction)
 - [Vuex](https://vuex.vuejs.org/zh/introduction.html) - Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式和库。
