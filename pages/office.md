@@ -1,10 +1,10 @@
 
 # 官网地址
 - [qiankun 官网](https://qiankun.umijs.org/zh) qiankun 官网
-- [Vue.js 官方文档](https://vuejs.org/) - Vue.js 的官方文档，提供详细的 Vue 3 指南和 API 参考。
+- [Vue.js 官方文档](https://cn.vuejs.org/guide/quick-start.html) - Vue.js 的官方文档，提供详细的 Vue 3 指南和 API 参考。
 - [vue-router](https://router.vuejs.org/zh/introduction)
 - [Vuex](https://vuex.vuejs.org/zh/introduction.html) - Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式和库。
-- [Vite 官方文档](https://vitejs.dev/) - Vite 的官方文档，介绍如何使用 Vite 构建现代 Web 应用。
+- [Vite 官方文档](https://cn.vite.dev/config/) - Vite 的官方文档，介绍如何使用 Vite 构建现代 Web 应用。
 - [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/# 教程官网
 - [Node.js 官方文档](https://nodejs.org/en/docs/) - Node.js 的官方文档，提供详细的 Node.js 开发指南和 API 参考。
 - [Webpack 官方文档](https://webpack.js.org/) - Webpack 的官方文档，介绍如何使用 Webpack 进行模块打包和构建。
