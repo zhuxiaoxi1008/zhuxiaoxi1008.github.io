@@ -1,5 +1,5 @@
 # 常用推荐
-## 搜索
+## AI
 - [AI 工具推荐](https://openi.cn/)  
 - [kimi](https://kimi.moonshot.cn/) 
 - [秘塔搜索](https://metaso.cn/)  
