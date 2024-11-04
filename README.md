@@ -6,23 +6,12 @@
 - [豆包](https://www.doubao.com/)
 - [文心一言](https://yiyan.baidu.com/)
 - [Google](https://www.google.com/) 
-- [百度](https://www.baidu.com/) 
-- [抖音搜索](https://www.douyin.com/search)
-- [俄罗斯:Yandex:](https://yandex.com) 
-- [韩国:Naver:](https://www.naver.com) 
-- [日本:Yahoo](https://www.yahoo.co.jp) 
-- [捷克:Seznam:](https://www.seznam.cz) 
-- [法国:Qwant:](https://www.qwant.com) 
-- [德国:Ecosia:](https://www.ecosia.org) 
-- [印度:Bing:](https://www.bing.com)
----
 
 ## 代码
 - [Github](https://github.com/)  
 - [Gitee](https://gitee.com/zhuxiaoxi1008) 
 - [npm](www.npmjs.com) 
 - [NPM 官方文档](https://docs.npmjs.com/)
----
 
 ## 社区
 - [掘金](https://juejin.cn/) 
@@ -34,7 +23,6 @@
 - [youtube](https://www.youtube.com) 
 - [facebook](https://www.facebook.com/)  
 - [reddit](https://www.reddit.com/?rdt=52024)
----
 
 ## 工具
 - [163邮箱](https://mail.163.com/)
@@ -46,7 +34,17 @@
 - [Gmail](https://mail.google.com/mail/u/0/#inbox)
 - [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/) 
 - [10web](https://10web.io/blog/)
----
+
+## 搜索
+- [百度](https://www.baidu.com/) 
+- [抖音搜索](https://www.douyin.com/search)
+- [俄罗斯:Yandex:](https://yandex.com) 
+- [韩国:Naver:](https://www.naver.com) 
+- [日本:Yahoo](https://www.yahoo.co.jp) 
+- [捷克:Seznam:](https://www.seznam.cz) 
+- [法国:Qwant:](https://www.qwant.com) 
+- [德国:Ecosia:](https://www.ecosia.org) 
+- [印度:Bing:](https://www.bing.com)
 
 
 
