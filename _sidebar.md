@@ -2,7 +2,7 @@
 - [:musical_note:新闻娱乐](/pages/amusement.md "青云衣兮白霓裳，举长矢兮射天狼")
 - [:classical_building:官网地址](/pages/office.md "天行健，君子以自强不息")
 - [:hammer_and_wrench:软件工具](/pages/software.md "桃李不言，下自成蹊")
-- [:people_holding_hands社区教程](/pages/learn.md "飞鸟尽，良弓藏，狡兔死，走狗烹")
+- [:people_holding_hands:社区教程](/pages/learn.md "飞鸟尽，良弓藏，狡兔死，走狗烹")
 - [:books:其他资料](/pages/other.md "惟贤惟德，可以服人")
 - [:art:设计模式](/pages/notes/design-pattern.md "凡有血气，必有争心")
 - [:open_book:电子书](/pages/ebook.md '阅读，是交流的起点')
