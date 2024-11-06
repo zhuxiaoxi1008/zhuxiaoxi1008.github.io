@@ -5,6 +5,9 @@
 - [Vue](https://cn.vuejs.org/guide/quick-start.html) - Vue.js 的，提供详细的 Vue 3 指南和 API 参考。
 - [vue-router](https://router.vuejs.org/zh/introduction)
 - [Vuex](https://vuex.vuejs.org/zh/introduction.html) - Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式和库。
+- [pinia](https://pinia.web3doc.top/)
+- [vuepress](https://vuepress.vuejs.org/zh/guide/introduction.html#vitepress) - 静态网站生成器，专为 Vue.js 项目设计。
+- [vuepress markdown 插件](https://marketplace.vuejs.press/zh/plugins/markdown) markdown 插件
 - [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/# 教程官网
 - [Node.js ](https://nodejs.org/en/docs/) - Node.js 的，提供详细的 Node.js 开发指南和 API 参考。
 - [Webpack ](https://webpack.js.org/) - Webpack 的，介绍如何使用 Webpack 进行模块打包和构建。
