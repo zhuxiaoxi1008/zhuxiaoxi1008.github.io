@@ -1,6 +1,7 @@
 # js 插件
 - [Element Plus 官方文档](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
 - [Element 2](https://element.eleme.io/#/zh-CN)
+- [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn) Ant Design of Vue 的官方文档，提供基于 Vue 3 的 UI 组件库。
 - [ECharts 官方文档](https://echarts.apache.org/) - ECharts 的官方文档，提供强大的数据可视化图表库。
 - [轮播图](https://www.swiper.com.cn/) vue-awesome-swiper 封装工具
 - [xicon](https://xicons.org/#/zh-CN)   图标库
