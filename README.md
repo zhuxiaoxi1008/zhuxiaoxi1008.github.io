@@ -6,6 +6,7 @@
 - [豆包](https://www.doubao.com/)
 - [文心一言](https://yiyan.baidu.com/)
 - [Google](https://www.google.com/) 
+- [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 
 ## 代码
 - [Github](https://github.com/)  https://github.com/search 
