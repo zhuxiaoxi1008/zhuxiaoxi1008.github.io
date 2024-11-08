@@ -9,10 +9,10 @@
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 
 ## 代码
+- [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
 - [Github](https://github.com/)  https://github.com/search 
 - [Gitee](https://gitee.com/zhuxiaoxi1008) 
-- [npm](www.npmjs.com) 
-- [NPM 官方文档](https://docs.npmjs.com/)
+- [npm](www.npmjs.com) [NPM 官方文档](https://docs.npmjs.com/)
 
 ## 社区
 - [掘金](https://juejin.cn/) 

@@ -1,5 +1,12 @@
+# 前端好逛的网站
+-[CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
+-[Excalidraw](https://excalidraw.com/)  在线绘图工具，支持导出为图片或 SVG 格式。
+-[ucharts](https://www.ucharts.cn/) 高性能的前端应用图表库，部分图表和可视化效果是通过 canvas 实现的，具有良好的性能和视觉效果。
+
 
 # 官网地址
+- [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
+- [Element 2](https://element.eleme.io/#/zh-CN)
 - [qiankun](https://qiankun.umijs.org/zh) qiankun 官网
 - [Vite ](https://cn.vite.dev/config/) - Vite 的，介绍如何使用 Vite 构建现代 Web 应用。
 - [Vue](https://cn.vuejs.org/guide/quick-start.html) - Vue.js 的，提供详细的 Vue 3 指南和 API 参考。
@@ -8,19 +15,19 @@
 - [pinia](https://pinia.web3doc.top/)
 - [vuepress](https://vuepress.vuejs.org/zh/guide/introduction.html#vitepress) - 静态网站生成器，专为 Vue.js 项目设计。
 - [vuepress markdown 插件](https://marketplace.vuejs.press/zh/plugins/markdown) markdown 插件
+- [markdown-it](https://markdown-it.github.io/) - Markdown-it 是一个快速、灵活的 Markdown 解析器。
 - [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/# 教程官网
-- [Node.js ](https://nodejs.org/en/docs/) - Node.js 的，提供详细的 Node.js 开发指南和 API 参考。
+- [nodeJs](https://nodejs.org/en/docs/) - Node.js 的，提供详细的 Node.js 开发指南和 API 参考。
 - [Webpack ](https://webpack.js.org/) - Webpack 的，介绍如何使用 Webpack 进行模块打包和构建。
 - [Babel ](https://babeljs.io/) - Babel 的，提供将现代 JavaScript 转换为向后兼容代码的工具。
 - [Express ](https://expressjs.com/) - Express 的，介绍如何使用 Express 构建 Node.js Web 应用。
 - [kotlinlang ](https://kotlinlang.org/docs/multiplatform.html#android-and-ios-applications) kotlinlang 官网
 - [LayaAir](https://layaair.layabox.com/#/) LayaAir 官网 游戏引擎
-- [unpkg CDN 依赖库](https://unpkg.com/） CDN 依赖库
-- [cdn.jsdelivr.net/npm](cdn.jsdelivr.net/npm) CDN 依赖库 cdn.jsdelivr.net/npm/docsify@4
-- 
+- [unpkg](https://unpkg.com/） CDN 依赖库
+- [cdn.jsdelivr.net/npm](https://cdn.jsdelivr.net/npm) CDN 依赖库 cdn.jsdelivr.net/npm/docsify@4
+
 
 # CSS 样式相关网站
-
 - [Sass ](https://sass-lang.com/) - Sass 是最成熟、最稳定且最强大的专业级 CSS 扩展语言。
 - [Less ](http://lesscss.org/) - Less 是一种 CSS 预处理器，支持使用变量、嵌套规则、混合、函数等特性。
 - [Stylus ](http://styluslang.com/) - Stylus 是一种动态 CSS 语言，提供了丰富的功能和灵活性。
@@ -32,9 +39,5 @@
 - [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
 - [CSS Gradient](https://cssgradient.io/) - 用于创建渐变背景的在线工具，提供各种渐变样式的代码生成器。
 
-# code Website
--[CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
--[Excalidraw](https://excalidraw.com/)  在线绘图工具，支持导出为图片或 SVG 格式。
--[ucharts](https://www.ucharts.cn/) 高性能的前端应用图表库，部分图表和可视化效果是通过 canvas 实现的，具有良好的性能和视觉效果。
 # 爬虫
 - [scrapy](https://docs.scrapy.org/en/latest/)
