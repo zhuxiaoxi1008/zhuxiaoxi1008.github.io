@@ -7,6 +7,7 @@
 - [文心一言](https://yiyan.baidu.com/)
 - [Google](https://www.google.com/) 
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
+- [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
 
 ## 代码
 - [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
@@ -15,6 +16,7 @@
 - [npm](www.npmjs.com) [NPM 官方文档](https://docs.npmjs.com/)
 
 ## 社区
+
 - [掘金](https://juejin.cn/) 
 - [语雀](https://www.yuque.com/dashboard)  
 ---
