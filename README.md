@@ -15,8 +15,18 @@
 - [Gitee](https://gitee.com/zhuxiaoxi1008) 
 - [npm](www.npmjs.com) [NPM 官方文档](https://docs.npmjs.com/)
 
-## 社区
+## 教程网站
+- [design](https://design.dev/) - 设计师和开发者的设计资源、教程和灵感。
+- [laracasts](https://laracasts.com/) Laravel的教学视频和文章
+- [MDN Web Docs](https://developer.mozilla.org) - Mozilla 提供的全面的 Web 开发文档。
+- [W3Schools](https://www.w3schools.com) - 提供 HTML、CSS 和 JavaScript 等 Web 技术的教程和实例。
+- [菜鸟教程](https://www.runoob.com) - 包含多种编程语言和技术的入门教程。
+- [W3Schools](https://www.w3schools.com) - 提供详细的 HTML、CSS、JavaScript 等 Web 技术教程和实例。
+- [GitHub Learning Lab](https://lab.github.com) - GitHub 提供的互动式 Git 和 GitHub 教程。
+- [freeCodeCamp](https://www.freecodecamp.org) - 免费的编程课程和项目实践平台。
+- [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 让您轻松地了解所有与重构、设计模式、SOLID 原则以及其他智能编程主题相关的知识。
 
+## 文档社区
 - [掘金](https://juejin.cn/) 
 - [语雀](https://www.yuque.com/dashboard)  
 ---

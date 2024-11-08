@@ -1,12 +1,15 @@
 # js 插件
 - [xicon](https://xicons.org/#/zh-CN)   图标库
 - [fontawesome](https://fontawesome.com.cn/) fontawesome 图标库
-
 - [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn) Ant Design of Vue 的官方文档
 - [ECharts 官方文档](https://echarts.apache.org/) - ECharts 的官方文档，提供强大的数据可视化图表库。
 - [轮播图](https://www.swiper.com.cn/) vue-awesome-swiper 封装工具
 - [vue-tour](https://pulsar.gitbooks.io/vue-tour/content/) vue-tour 用户指引
 - [vue 插件](https://madewith.cn/157) vue 插件库搜索
+
+# 在线工具
+- [emoji](https://emoji6.com/emojiall/) emoji 表情
+- [Vector Magic](https://vectormagic.com/) png 2 svg    
 - [png-ico](https://cdkm.com/cn/png-to-ico) png 转ico
 
 # 软件
