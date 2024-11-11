@@ -1,5 +1,6 @@
 # 科学上网
 [v2ray](https://github.com/githubvpn007/v2rayNvpn) v2rayNvpn 加速器
+[玉豆分享](https://www.yudou66.com/)
 
 [免费节点更新地址](https://github.com/Barabama/FreeNodes?tab=readme-ov-file) 
 
