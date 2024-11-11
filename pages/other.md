@@ -68,6 +68,9 @@ https://codepen.io/AlainBarrios/pen/xeLjKx   rain simulation
 https://codepen.io/PavelDoGreat/pen/zdWzEL  fluid simulation
 https://codepen.io/zhuxiaoxi1008/pen/vYoQKEO?editors=1010  fluid simulation
 
+#### blog
+https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411
+
 
 
 
