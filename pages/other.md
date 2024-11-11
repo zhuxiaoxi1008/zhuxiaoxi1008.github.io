@@ -63,9 +63,9 @@ https://javabetter.cn/xuexiluxian/android.html
 
 ### 比较好的项目
 https://gitee.com/Z568_568
-## WebGL Fluid Simulation
-https://codepen.io/PavelDoGreat/pen/zdWzEL
-https://codepen.io/AlainBarrios/pen/xeLjKx   rain
+https://codepen.io/AlainBarrios/pen/xeLjKx   rain simulation
+https://codepen.io/PavelDoGreat/pen/zdWzEL  fluid simulation
+https://codepen.io/zhuxiaoxi1008/pen/vYoQKEO?editors=1010  fluid simulation
 
 
 

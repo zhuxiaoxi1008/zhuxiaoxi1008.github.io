@@ -53,3 +53,65 @@
 -[有道灵动]https://microsoftedge.microsoft.com/addons/search/%E7%81%B5%E5%8A%A8%E7%BF%BB%E8%AF%91
 - [Chrome 插件](https://chrome.google.com/webstore/category/extensions) - Google Chrome 插件商店，提供各种功能扩展。https://extensiondock.com/cn
 - [免费kimi接口]https://juejin.cn/post/7357546247848427558?searchId=202408101404484888A391A6B1AC7D2DBC
+
+
+# vscode 插件
+## 功能强化
+    驼峰翻译助手
+    change-case
+    Codelf
+    Surround
+    Duplicate Action
+    CSS Peek
+    Regex Previewer
+    Code Spell Checker
+    Markdown Preview Enhanced
+    Markdown All in One
+    i18n-ally
+    GitHub Repositories
+    Turbo Console Log
+    indent-rainbow
+    Remote-SSH
+## 前端框架
+    ES7+ React/Redux/React-Native snippets
+    Typescript React Code Snippets
+    Vue - Official
+    Vue 3 Snippets
+    Vue VSCode Snippets
+    React Native Tools
+    JavaScript (ES6) code snippets
+    Tailwind CSS IntelliSense
+## Git 集成
+    GitLens
+    Git History
+    Git Graph
+## 统计分析
+    Import Cost
+    Time Master
+    VS Code Counter
+## AI 编程辅助
+    GitHub Copilot
+    Tabnine
+    Codeium
+    TONGYI Lingma
+    CodeGeeX
+## 代码美化
+    Highlight Matching Tag
+    TODO Highlight
+    Todo Tree
+    Better comments
+    Colorize
+    Image preview
+    CodeSnap
+    Error Lens
+    Pretty TypeScript Errors
+## 编辑器美化
+    Power Mode
+    One Dark Pro
+    Dracula Official
+    GitHub Theme
+    Winter Is Coming Theme
+    Ayu
+    vscode-icons
+    Material Icon Theme
+    Peacock
