@@ -1,5 +1,4 @@
 # 娱乐网站
-
 - [时代音乐](http://www.78497.com/)  免费音乐网站
 - [youtube](https://www.youtube.com)  油管
 - [facebook](https://www.facebook.com/)  社交平台
@@ -11,14 +10,15 @@
 - [电影天堂](https://www.dygod.net//)  电影
 - [番茄小说](https://fanqienovel.com/) 
 - [起点中文网](https://www.qidian.com/)  小说
-- [电影](https://xunlei8.top/movie/32309352.html)  迅雷
-https://xunlei8.top/
-
+- [电影](https://xunlei8.top/movie/32309352.html)
+- [迅雷]( https://xunlei8.top/) 
+- [nsc music](https://ncs.io/artists)
+- [movie](https://www.4kvm.pro/seasons/tacguyishil)
+- 小霸王游戏合集
 
 ## 新闻站
+- [生意网](https://www.100ppi.com/ppi/)  - 专注于提供中国和国际市场行情的网站，提供各种商品的价格、库存、交易量等信息。
 - [法广](https://www.rfi.fr/cn/)
-
-
 - [自由亚洲电台](https://www.rfa.org/) 自由亚洲电台
 - [google-news](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) - Google 新闻
 - [latest-news](https://therealnews.com/latest-news) - 最新新闻

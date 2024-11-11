@@ -2,6 +2,10 @@
 [v2ray](https://github.com/githubvpn007/v2rayNvpn) v2rayNvpn 加速器
 [玉豆分享](https://www.yudou66.com/)
 
+-[玉豆分享](https://www.yudou66.com/2024/09/20240920211-1080p4k-v2rayclash-vpn.html) v2rayNvpn
+-[lovetoshare](https://lovetoshare.top/archives/5.html) v2rayNvpn
+
+
 [免费节点更新地址](https://github.com/Barabama/FreeNodes?tab=readme-ov-file) 
 
 
@@ -19,6 +23,10 @@
 
 [sockets](https://github.com/shadowso/Shadowsocks)https://github.com/shadowso/Shadowsocks
 [sockets 下载地址](https://rixiacloud.github.io/blog/downloads.html)
+
+[Lantern](https://github.com/getlantern/download) 科学上网
+
+[freeNode](https://www.gaofumei.net/) 免费节点
 
 ---
 
@@ -43,7 +51,22 @@ doocs.github.io/source-co
 - [pexels](https://www.pexels.com/zh-CN/license/)
 - [天空](https://pixabay.com/zh/images/search/%E5%A4%A9%E7%A9%BA%E8%83%8C%E6%99%AF/)
 - [unsplash](https://unsplash.com/)
-- [pixabay]((https://pixabay.com/))
+- [pixabay](https://pixabay.com/)
+- [unsplash](https://unsplash.com/) 图片素材
+
+
+# 电子书
+https://github.com/lTbgykio/Books-Free-Books
+https://github.com/Dujltqzv/Some-Many-Books
+https://github.com/0voice/linux_kernel_wiki
+https://javabetter.cn/xuexiluxian/android.html
+
+
+### 比较好的项目
+https://gitee.com/Z568_568
+https://codepen.io/AlainBarrios/pen/xeLjKx   rain simulation
+https://codepen.io/PavelDoGreat/pen/zdWzEL  fluid simulation
+https://codepen.io/zhuxiaoxi1008/pen/vYoQKEO?editors=1010  fluid simulation
 
 
 
