@@ -12,6 +12,7 @@
 ## 代码
 - [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
 - [Github](https://github.com/)  https://github.com/search 
+- [emoji](https://emojicopy.com/) emoji 表情
 - [Gitee](https://gitee.com/zhuxiaoxi1008) 
 - [npm](www.npmjs.com) [NPM 官方文档](https://docs.npmjs.com/)
 

@@ -46,7 +46,7 @@
 - [CSS Gradient](https://cssgradient.io/) - 用于创建渐变背景的在线工具，提供各种渐变样式的代码生成器。
   
 # 字体特殊属性
-mix-blend-mode 艺术字效果
--webkit-box-reflect 倒影效果
+    mix-blend-mode 艺术字效果
+    -webkit-box-reflect 倒影效果
 # 爬虫
 - [scrapy](https://docs.scrapy.org/en/latest/)

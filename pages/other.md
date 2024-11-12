@@ -56,20 +56,21 @@ doocs.github.io/source-co
 
 
 # 电子书
-https://github.com/lTbgykio/Books-Free-Books
-https://github.com/Dujltqzv/Some-Many-Books
-https://github.com/0voice/linux_kernel_wiki
-https://javabetter.cn/xuexiluxian/android.html
+    https://github.com/lTbgykio/Books-Free-Books
+    https://github.com/Dujltqzv/Some-Many-Books
+    https://github.com/0voice/linux_kernel_wiki
+    https://javabetter.cn/xuexiluxian/android.html
 
 
 ### 比较好的项目
-https://gitee.com/Z568_568
-https://codepen.io/AlainBarrios/pen/xeLjKx   rain simulation
-https://codepen.io/PavelDoGreat/pen/zdWzEL  fluid simulation
-https://codepen.io/zhuxiaoxi1008/pen/vYoQKEO?editors=1010  fluid simulation
+    https://gitee.com/Z568_568 [Demo online](https://www.zhouyi.run/)
+    https://codepen.io/AlainBarrios/pen/xeLjKx   rain simulation
+    https://codepen.io/PavelDoGreat/pen/zdWzEL  fluid simulation
+    https://codepen.io/zhuxiaoxi1008/pen/vYoQKEO?editors=1010  fluid simulation
+    https://github.com/iptv-org/iptv?utm_source=gold_browser_extension iptv
 
 #### blog
-https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411
+    https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411  
 
 
 
