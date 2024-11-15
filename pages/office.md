@@ -43,8 +43,8 @@
 - [CSS Zen Garden](http://www.csszengarden.com/) - 通过相同的 HTML 结构展示不同设计师使用 CSS 所创建的不同风格和外观。
 - [CSS Gradient](https://cssgradient.io/) - 用于创建渐变背景的在线工具，提供各种渐变样式的代码生成器。
 - [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
-- [菜鸟 css](https://www.runoob.com/cssref/css-selectors.html) - 提供大量的 Web 技术教程和参考手册，包括 CSS、HTML、JavaScript 等。
-- [菜鸟 html](https://www.runoob.com/tags/tag-figcaption.html) 
+- [菜鸟 css](https://www.runoob.com/cssref/css-selectors.html) 菜鸟 css api
+- [菜鸟 html](https://www.runoob.com/tags/tag-figcaption.html) 菜鸟 html api
 ---
 
 # 字体特殊属性
