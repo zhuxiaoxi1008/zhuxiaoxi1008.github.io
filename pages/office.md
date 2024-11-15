@@ -41,11 +41,15 @@
 - [Tailwind CSS ](https://tailwindcss.com/) - Tailwind CSS 是一个实用优先的 CSS 框架，支持高度定制化的样式生成。
 - [CSS Tricks](https://css-tricks.com/) - 提供大量的 CSS 技巧、教程和示例，对于深入理解 CSS 非常有帮助。
 - [CSS Zen Garden](http://www.csszengarden.com/) - 通过相同的 HTML 结构展示不同设计师使用 CSS 所创建的不同风格和外观。
-- [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
 - [CSS Gradient](https://cssgradient.io/) - 用于创建渐变背景的在线工具，提供各种渐变样式的代码生成器。
+- [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
+- [菜鸟教程](https://www.runoob.com/cssref/css-selectors.html) - 提供大量的 Web 技术教程和参考手册，包括 CSS、HTML、JavaScript 等。
   
 # 字体特殊属性
+```
     mix-blend-mode 艺术字效果
-    -webkit-box-reflect 倒影效果
+    -webkit-box-reflect 倒影效果(chrome)
+    transition 过渡效果属性
+```
 # 爬虫
 - [scrapy](https://docs.scrapy.org/en/latest/)
