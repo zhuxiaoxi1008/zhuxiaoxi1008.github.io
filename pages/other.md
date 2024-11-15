@@ -1,33 +1,18 @@
 # 科学上网
-[v2ray](https://github.com/githubvpn007/v2rayNvpn) v2rayNvpn 加速器
-[玉豆分享](https://www.yudou66.com/)
-
--[玉豆分享](https://www.yudou66.com/2024/09/20240920211-1080p4k-v2rayclash-vpn.html) v2rayNvpn
--[lovetoshare](https://lovetoshare.top/archives/5.html) v2rayNvpn
-
-
+- [v2ray](https://github.com/githubvpn007/v2rayNvpn) v2rayNvpn 加速器
+- [玉豆分享](https://www.yudou66.com/)
+- [玉豆分享](https://www.yudou66.com/2024/09/20240920211-1080p4k-v2rayclash-vpn.html) v2rayNvpn
+- [lovetoshare](https://lovetoshare.top/archives/5.html) v2rayNvpn
 [免费节点更新地址](https://github.com/Barabama/FreeNodes?tab=readme-ov-file) 
-
-
-
-
-[Free server](https://github.com/Pawdroid/Free-servers) 免费服务订阅地址
-
+- [Free server](https://github.com/Pawdroid/Free-servers) 免费服务订阅地址
 >上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-
 >上方节点（部分）永久订阅地址2：https://mirror.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
-
-[serv00](https://www.serv00.com/offer) 免费服务器
-
-[infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/) 免费服务器
-
-[sockets](https://github.com/shadowso/Shadowsocks)https://github.com/shadowso/Shadowsocks
-[sockets 下载地址](https://rixiacloud.github.io/blog/downloads.html)
-
-[Lantern](https://github.com/getlantern/download) 科学上网
-
-[freeNode](https://www.gaofumei.net/) 免费节点
-
+- [serv00](https://www.serv00.com/offer) 免费服务器
+- [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/) 免费服务器
+- [sockets](https://github.com/shadowso/Shadowsocks)https://github.com/shadowso/Shadowsocks
+- [sockets 下载地址](https://rixiacloud.github.io/blog/downloads.html)
+- [Lantern](https://github.com/getlantern/download) 科学上网
+- [freeNode](https://www.gaofumei.net/) 免费节点
 ---
 
 # 其他资料
@@ -62,6 +47,11 @@ doocs.github.io/source-co
     https://javabetter.cn/xuexiluxian/android.html
 
 ### 比较好的项目
+  - [CodePen](https://codepen.io/) - 一个免费的社区代码编辑器，用户可以在其中编写 HTML、CSS 和 JavaScript 代码，并将其实时预览。
+  - [uiverse](https://uiverse.io/) - 网站专注于 CSS 技术和技巧分享，有很多实用的 CSS 示例和教程
+  - [dribbble](https://dribbble.com/) - 一个设计灵感社区，用户可以分享和发现各种设计作品，包括 UI 设计、图标设计、插图设计等。
+  - [stackblitz](https://stackblitz.com/) - 一个在线代码编辑器，支持多种编程语言，包括 HTML、CSS 和 JavaScript。
+  - [JSFiddle](https://jsfiddle.net/) - 在线代码编辑器，支持多种编程语言，包括 HTML、CSS 和 JavaScript。
   - [PersonSite](https://gitee.com/Z568_568) 
   - [Demo online](https://www.zhouyi.run/)
   - [rain simulation](https://codepen.io/AlainBarrios/pen/xeLjKx)     
@@ -72,6 +62,11 @@ doocs.github.io/source-co
 #### blog
     https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411  
 
+
+### code pen
+- search text: Effect animation overlayer text
+- CodePen Home
+Image Hover Effect Animation Part
 
 
 

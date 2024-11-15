@@ -11,6 +11,7 @@
 
 - [Vector Magic](https://vectormagic.com/) png 2 svg    
 - [png-ico](https://cdkm.com/cn/png-to-ico) png 转ico
+- [pdf 编辑](https://smallpdf.com/cn/edit-pdf)pdf 编辑
 
 # 软件
 - [nvm](https://github.com/coreybutler/nvm-windows/releases) nvm 下载地址

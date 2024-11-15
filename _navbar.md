@@ -17,4 +17,5 @@
   * [react-native](/pages/notes/react-native.md)
   * [ai tools](/pages/notes/ai-tools.md)
   * [docker](/pages/notes/docker.md)
+  * [vscod-plugins](/pages/notes/vscode-plugin.md)
 

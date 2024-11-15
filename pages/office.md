@@ -39,7 +39,6 @@
 - [Stylus ](http://styluslang.com/) - Stylus 是一种动态 CSS 语言，提供了丰富的功能和灵活性。
 - [PostCSS ](https://postcss.org/) - PostCSS 是一个使用插件来转换 CSS 的工具，可以实现未来 CSS 规范。
 - [Tailwind CSS ](https://tailwindcss.com/) - Tailwind CSS 是一个实用优先的 CSS 框架，支持高度定制化的样式生成。
-- [CodePen](https://codepen.io/) - 一个免费的社区代码编辑器，用户可以在其中编写 HTML、CSS 和 JavaScript 代码，并将其实时预览。
 - [CSS Tricks](https://css-tricks.com/) - 提供大量的 CSS 技巧、教程和示例，对于深入理解 CSS 非常有帮助。
 - [CSS Zen Garden](http://www.csszengarden.com/) - 通过相同的 HTML 结构展示不同设计师使用 CSS 所创建的不同风格和外观。
 - [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。

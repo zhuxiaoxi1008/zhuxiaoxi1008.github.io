@@ -1,4 +1,5 @@
 # 娱乐网站
+- [nianyin](https://www.nianyin.com/) 有声小说在线听
 - [时代音乐](http://www.78497.com/)  免费音乐网站
 - [youtube](https://www.youtube.com)  油管
 - [facebook](https://www.facebook.com/)  社交平台
@@ -17,6 +18,13 @@
 - 小霸王游戏合集
 
 ## 新闻站
+- [美联社（Associated Press)](http://www.ap.org/)
+- [路透社（Reuters)](https://www.reuters.com/)
+- [法新社（Agence France-Presse, AFP)](http://www.afp.com/)
+- [英国广播公司（British Broadcasting Corporation, BBC)](https://www.bbc.com/)
+- [纽约时报（The New York Times)](https://www.nytimes.com/)
+- [华盛顿邮报（The Washington Post)](https://www.washingtonpost.com/)
+- [卫报（The Guardian)](https://www.theguardian.com/)
 - [生意网](https://www.100ppi.com/ppi/)  - 专注于提供中国和国际市场行情的网站，提供各种商品的价格、库存、交易量等信息。
 - [法广](https://www.rfi.fr/cn/)
 - [自由亚洲电台](https://www.rfa.org/) 自由亚洲电台
@@ -53,14 +61,10 @@
 https://byxatab.com/games/torrent_igry/decepticon/warcraft-iii-reforged-v-136120719-2020-repack-ot-decepticon/38-1-0-3224
 https://byxatab.com/games/torrent_igry/3rd_person/europa-2024/4-1-0-3493
 
+## Game
 3DMGAME：提供游戏新闻、攻略、下载等服务，以及游戏论坛供玩家交流。
-
 游侠网：主要提供游戏下载、补丁、攻略等资源，也有游戏资讯和论坛。
-
-多玩（Duowan）：提供游戏资讯、攻略、视频等内容，覆盖多种游戏平台。
-
+多玩（Duowan)：提供游戏资讯、攻略、视频等内容，覆盖多种游戏平台。
 电玩巴士：提供游戏资讯、攻略、下载资源，以及游戏机和PC游戏的相关内容。
-
 A9VG：主要面向家用游戏机玩家，提供游戏资讯、攻略、评测等内容。
-
 NGA玩家社区：虽然不是一个游戏下载网站，但NGA拥有非常活跃的游戏论坛，玩家可以在这里找到大量的游戏攻略和讨论。

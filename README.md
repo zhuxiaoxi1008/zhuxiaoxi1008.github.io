@@ -9,6 +9,7 @@
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
 
+
 ## 代码
 - [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
 - [Github](https://github.com/)  https://github.com/search 
@@ -33,7 +34,7 @@
 ---
 
 ## 娱乐
-- [时代音乐](http://www.78497.com/)  
+- [时代音乐](http://www.78497.com/) or (http://music.2t58.com/)
 - [youtube](https://www.youtube.com) 
 - [facebook](https://www.facebook.com/)  
 - [reddit](https://www.reddit.com/?rdt=52024)
