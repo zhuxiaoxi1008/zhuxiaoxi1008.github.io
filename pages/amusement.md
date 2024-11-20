@@ -14,10 +14,11 @@
 - [电影](https://xunlei8.top/movie/32309352.html)
 - [迅雷]( https://xunlei8.top/) 
 - [nsc music](https://ncs.io/artists)
-- [movie](https://www.4kvm.pro/seasons/tacguyishil)
-- 小霸王游戏合集
+- [唐朝诡事2](https://www.4kvm.pro/seasons/tacguyishil)
+- [小霸王游戏合集]()
 
 ## 新闻站
+- [热搜榜](https://www.rebang.today/) 
 - [美联社（Associated Press)](http://www.ap.org/)
 - [路透社（Reuters)](https://www.reuters.com/)
 - [法新社（Agence France-Presse, AFP)](http://www.afp.com/)

@@ -1,6 +1,7 @@
 # 常用推荐
 ## AI
-- [AI 工具推荐](https://openi.cn/)  
+- [AI 工具推荐](https://openi.cn/) 
+- [biemoyu ai 工具](https://biemoyu.com/)
 - [kimi](https://kimi.moonshot.cn/) 
 - [秘塔搜索](https://metaso.cn/)  
 - [豆包](https://www.doubao.com/)
