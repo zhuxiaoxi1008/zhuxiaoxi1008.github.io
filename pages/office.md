@@ -3,7 +3,17 @@
 - [Excalidraw](https://excalidraw.com/)  在线绘图工具，支持导出为图片或 SVG 格式。
 - [ucharts](https://www.ucharts.cn/) 高性能的前端应用图表库，部分图表和可视化效果是通过 canvas 实现的，具有良好的性能和视觉效果。
 - [design](https://design.dev/)
+- [素材](https://www.meigong8.com/) 美工素材
 
+# 前端开发框架
+- [vuetifyjs](http://www.vuetifyjs.cn/) Vuetify 3版本 是一个无需设计技能的开源 UI 库，具有精美的手工制作的 Vue 组件。
+- [vuetifyjs - v2](https://v2.vuetifyjs.com/) Vuetify 2版本
+- [vant](https://vant-ui.github.io/vant/#/zh-CN) Vant 轻量、可定制的移动端 Vue 组件库
+- [Bootstrap 5](https://v5.bootcss.com/docs/getting-started/introduction/) Bootstrap 构建快速、响应式布局的网站
+- [naiveui](https://www.naiveui.com/zh-CN/light/docs/introduction) Naive UI 是一个 Vue3 的组件库。
+- [nestjs](https://nextjs.org/docs) 一个 React 的服务端渲染应用框架
+- [nuxtjs](https://www.nuxtjs.cn/) [英文官网](https://nuxtjs.org/) Nuxt.js 是一个基于 Vue.js 的框架，用于构建服务器端渲染的应用程序。
+- [Netlify]() 静态网站托管服务
 
 # 官网地址
 - [unpkg](https://unpkg.com/) CDN 依赖库
@@ -26,6 +36,9 @@
 - [Express ](https://expressjs.com/) - Express 的，介绍如何使用 Express 构建 Node.js Web 应用。
 - [kotlinlang](https://kotlinlang.org/docs/multiplatform.html#android-and-ios-applications) kotlinlang 官网
 - [LayaAir](https://layaair.layabox.com/#/) LayaAir 官网 游戏引擎
+  
+# 组件库
+- [echarts](https://echarts.apache.org/examples/zh/index.html) ECharts 官网
 
 # react 相关
 - [react](https://reactjs.org/) react 官网（https://react.dev/reference/react/useActionState）

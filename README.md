@@ -9,6 +9,11 @@
 - [Google](https://www.google.com/) 
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
+  
+## 近期常用网站
+- [Fine report](https://www.fanruan.com/finereport/success?key=6eae3841-ac321eef3-313c-66e66cc60721) 
+- [Fine report 文档](https://help.fanruan.com/finereport/)
+- [fine local](http://localhost:8075/webroot/decision#?activeTab=171aa67f-f564-4812-a43e-c951a0add595)
 
 
 ## 代码
@@ -36,7 +41,7 @@
 
 ## 娱乐
 - [时代音乐](http://www.78497.com/) or (http://music.2t58.com/)
-- [youtube](https://www.youtube.com) 
+- [youtube](https://www.youtube.com/results?search_query=%E7%8E%89%E8%B1%86) 
 - [facebook](https://www.facebook.com/)  
 - [reddit](https://www.reddit.com/?rdt=52024)
 

@@ -1,3 +1,70 @@
+# Docker 安装
+
+## 卸载旧版本
+``` shell
+sudo yum remove docker \
+    docker-client \
+    docker-client-latest \
+    docker-common \
+    docker-latest \
+    docker-latest-logrotate \
+    docker-logrotate \
+    docker-engine \
+    docker-selinux
+sudo rm -rf /var/lib/docker
+sudo rm -rf /etc/docker
+# sudo rm -rf /etc/yum.repos.d/*        
+
+sudo yum install docker \
+                  docker-client \
+                  docker-client-latest \
+                  docker-common \
+                  docker-latest \
+                  docker-latest-logrotate \
+                  docker-logrotate \
+                  docker-engine
+                
+```
+## yum 安装
+```shell
+sudo yum-config-manager \
+    --add-repo \
+    https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum-config-manager \
+    --add-repo
+    http://mirrors.aliyun.com/repo/Centos-7.repo
+sudo yum install -y yum-utils \
+  device-mapper-persistent-data \
+  lvm2
+# sudo yum install docker-ce docker-ce-cli containerd.io
+# sudo systemctl start docker
+# sudo docker run hello-world
+```
+
+## Docker 镜像加速器 
+也可以加载国内其他镜像源，部分国内镜像源地址如下：
+- [阿里云](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
+- [DaoCloud](https://www.daocloud.io/mirror#accelerator-doc)
+- [网易云](https://hub-mirror.c.163.com)
+- [腾讯云](https://cloud.tencent.com/document/product/457/9107)
+- [七牛云](https://kcrm.ksserver.cn:8443/#/image-repo)
+- [中科大](https://mirrors.ustc.edu.cn/help/dockerhub.html)
+- [阿里云](https://www.aliyun.com/product/acr?source=5176.11533457&userCode=8lx5zmtu)
+部分镜像源已经下线，无法使用，请使用其他镜像源。
+
+```shell
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": ["https://register.liberx.info"]
+}
+EOF
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+```
+
+- [register search](https://register.liberx.info/)
+
 Docker 是一个开源的应用容器引擎，它允许开发者打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。
 
 启动 Docker 服务通常取决于你使用的操作系统。以下是一些常见操作系统上启动 Docker 服务的方法：
