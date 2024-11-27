@@ -56,6 +56,7 @@ doocs.github.io/source-co
   - 
 ### 比较好的项目
   - [PersonSite](https://gitee.com/Z568_568) 
+  - [ruoyi](https://gitee.com/y_project/RuoYi-Vue)
   - [Demo online](https://www.zhouyi.run/)
   - [rain simulation](https://codepen.io/AlainBarrios/pen/xeLjKx)     
   - [fluid simulation](https://codepen.io/PavelDoGreat/pen/zdWzEL)  
