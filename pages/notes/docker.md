@@ -65,6 +65,40 @@ sudo systemctl restart docker
 
 - [register search](https://register.liberx.info/)
 
+
+## 运行 mysql
+```shell
+docker run -d -p 3306:3306 --name mysql -v /data/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=123456 mysql
+```
+
+docker run --name=mysql -it  \
+-p 3306:3306  \
+-e MYSQL_ROOT_PASSWORD=123456  \
+-e MYSQL_ROOT_HOST=%  \
+-v /data/mysql:/var/lib/mysql  \
+-d 56a8c14e1404
+
+## 运行 redis
+下一步就是使用run命令创建并启动镜像，但在启动镜像之前，我们需要去官网下载redis的配置文件redis.conf文件。注意不同版本的redis配置文件内容不一样
+- [redis-conf](https://redis.io/docs/latest/operate/oss_and_stack/management/config/) redis config 配置文件
+```shell
+docker run -d -p 6379:6379 --name redis -v /data/redis/redis.conf:/usr/local/etc/redis/redis.conf -v /data/redis/data:/data redis:latest redis-server /usr/local/etc/redis/redis.conf
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 其他
+
 Docker 是一个开源的应用容器引擎，它允许开发者打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。
 
 启动 Docker 服务通常取决于你使用的操作系统。以下是一些常见操作系统上启动 Docker 服务的方法：
