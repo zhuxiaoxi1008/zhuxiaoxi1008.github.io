@@ -6,6 +6,10 @@
 - [掘金](https://juejin.cn/)  https://juejin.cn/
 - [Dev.to](https://dev.to/) - Dev.to 是一个开发者社区，提供大量关于 CSS 和其他技术的文章和教程。
 - [v2ex](https://www.v2ex.com/) v2ex 是一个开放、活跃的、分享和交流的社区
+- [阿里开发者社区](https://developer.aliyun.com/mvn/guide)
+
+# 后端开发
+- [mybatisFlex](https://mybatis-flex.com/zh/intro/getting-started.html) - MyBatis-Flex 是 MyBatis 的增强工具，它提供了许多便捷的功能，如分页、多租户、字段权限、数据权限等。
 
 # docker
 - [IT Tools - Handy online tools for developers](http://192.168.16.128:8010/)
