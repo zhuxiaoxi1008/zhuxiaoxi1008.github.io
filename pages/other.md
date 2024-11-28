@@ -71,3 +71,10 @@ doocs.github.io/source-co
 - search text: Effect animation overlayer text
 - CodePen Home
 Image Hover Effect Animation Part
+
+### idea 反复验证
+```
+Host Name：localhost
+
+No proxy for: *.github.com,plugins.jetbrains.com
+```

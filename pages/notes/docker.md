@@ -1,4 +1,49 @@
 # Docker 安装
+```
+https://www.jb51.net/server/326814ypd.htm
+VM 配置网络NET 模式
+
+https://mirrors.aliyun.com/docker-ce/linux/centos/
+
+https://developer.aliyun.com/article/1639724?spm=a2c6h.14164896.0.0.618547c5uGDss3&scm=20140722.S_community@@%E6%96%87%E7%AB%A0@@1639724._.ID_1639724-RL_%E5%AE%89%E8%A3%85docker-LOC_search~UND~community~UND~item-OR_ser-V_4-P0_1
+
+http://mirrors.aliyun.com/repo/Centos-7.repo
+https://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+
+
+{
+    "registry-mirrors": [
+        "http://hub-mirror.c.163.com",
+        "https://mirrors.tuna.tsinghua.edu.cn",
+        "http://mirrors.sohu.com",
+        "https://ustc-edu-cn.mirror.aliyuncs.com",
+        "https://ccr.ccs.tencentyun.com",
+        "https://docker.m.daocloud.io",
+        "https://docker.awsl9527.cn"
+    ]
+}
+
+在Search是使用命令：docker search register.liberx.info/[imageName]
+而不是直接docker search [imageName]
+
+工具
+
+dig @114.114.114.114 registry-1.docker.io
+
+https://register.liberx.info/
+
+## 五、启动并设置开机自启
+1. **启动 Docker 服务**
+   - 安装完成后，启动 Docker 服务。
+     ```bash
+     sudo systemctl start docker
+          ```
+2. **设置开机自启**
+   - 并设置 Docker 服务在开机时自动启动。
+     ```bash
+     sudo systemctl enable docker
+     ```
+```
 # docker
 - [IT Tools - Handy online tools for developers](http://192.168.16.128:8010/)
 - [Memos](http://192.168.16.128:8011/)

@@ -19,4 +19,5 @@
   * [docker](/pages/notes/docker.md)
   * [vscod-plugins](/pages/notes/vscode-plugin.md)
   * [ai reference](/pages/notes/ai-reference.md)
+  * [mybatis](/pages/notes/mybatis.md)
 
