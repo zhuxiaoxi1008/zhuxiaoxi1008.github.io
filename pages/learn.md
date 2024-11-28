@@ -11,14 +11,5 @@
 # 后端开发
 - [mybatisFlex](https://mybatis-flex.com/zh/intro/getting-started.html) - MyBatis-Flex 是 MyBatis 的增强工具，它提供了许多便捷的功能，如分页、多租户、字段权限、数据权限等。
 
-# docker
-- [IT Tools - Handy online tools for developers](http://192.168.16.128:8010/)
-- [Memos](http://192.168.16.128:8011/)
-- [Jellyfin](http://192.168.16.128:8012/web/)
-- [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](http://192.168.16.128:8013/)
-- [Hello 算法](https://www.hello-algo.com/)
-- [DockerDesktop使用指南_笔记大全_设计学院](https://www.python100.com/html/99002.html)
-- [Overview of Docker Desktop | Docker Documentation](https://docs.docker.com/desktop/)
-- [docker 命令](https://docs.docker.com/engine/reference/commandline/rmi/)
-- [Docker: Accelerated Container Application Development](https://www.docker.com/)
+
 

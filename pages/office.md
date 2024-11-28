@@ -36,7 +36,7 @@
 - [Express ](https://expressjs.com/) - Express 的，介绍如何使用 Express 构建 Node.js Web 应用。
 - [kotlinlang](https://kotlinlang.org/docs/multiplatform.html#android-and-ios-applications) kotlinlang 官网
 - [LayaAir](https://layaair.layabox.com/#/) LayaAir 官网 游戏引擎
-  
+
 # 组件库
 - [echarts](https://echarts.apache.org/examples/zh/index.html) ECharts 官网
 
@@ -58,13 +58,12 @@
 - [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
 - [菜鸟 css](https://www.runoob.com/cssref/css-selectors.html) 菜鸟 css api
 - [菜鸟 html](https://www.runoob.com/tags/tag-figcaption.html) 菜鸟 html api
----
 
 # 字体特殊属性
 ```
-    mix-blend-mode 艺术字效果
-    -webkit-box-reflect 倒影效果(chrome)
-    transition 过渡效果属性
+mix-blend-mode 艺术字效果
+-webkit-box-reflect 倒影效果(chrome)
+transition 过渡效果属性
 ```
 # 爬虫
 - [scrapy](https://docs.scrapy.org/en/latest/)
