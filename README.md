@@ -47,7 +47,7 @@
 ## 工具
 - [163邮箱](https://mail.163.com/)
 - [有道云](https://note.youdao.com/web) 
-- [印象笔记](https://app.yinxiang.com/)
+- [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [有道翻译](https://mobile.youdao.com/) 
 - [bookstack](https://www.bookstack.cn/)
 - [TED](https://www.ted.com/)

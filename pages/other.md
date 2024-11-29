@@ -1,7 +1,9 @@
 # 科学上网
-- [v2ray](https://github.com/githubvpn007/v2rayNvpn) v2rayNvpn 加速器
+- [freeNodes](https://github.com/Barabama/FreeNodes)
 - [玉豆分享](https://www.yudou66.com/)
-- [玉豆分享](https://www.yudou66.com/2024/09/20240920211-1080p4k-v2rayclash-vpn.html) v2rayNvpn
+- [由零开始分析](https://blues2022.blogspot.com/)
+  ---
+- [v2ray](https://github.com/githubvpn007/v2rayNvpn) v2rayNvpn 加速器
 - [lovetoshare](https://lovetoshare.top/archives/5.html) v2rayNvpn
 [免费节点更新地址](https://github.com/Barabama/FreeNodes?tab=readme-ov-file) 
 - [Free server](https://github.com/Pawdroid/Free-servers) 免费服务订阅地址
