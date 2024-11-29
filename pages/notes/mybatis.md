@@ -50,8 +50,8 @@ https://blog.csdn.net/weixin_43004044/article/details/120253014
 
 		<dependency>
 			<groupId>com.baomidou</groupId>
-			<artifactId>mybatis-plus-boot-starter</artifactId>
-			<version>3.4.3.4</version>
+			<artifactId>mybatis-plus-spring-boot3-starter</artifactId>
+			<version>3.5.9</version>
 		</dependency>
 
 		<!-- 数据库驱动，根据你的数据库选择相应的驱动 -->
@@ -80,6 +80,12 @@ https://blog.csdn.net/weixin_43004044/article/details/120253014
 			<scope>test</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
 	</dependencies>
 
 	<build>
@@ -91,7 +97,6 @@ https://blog.csdn.net/weixin_43004044/article/details/120253014
 		</plugins>
 	</build>
 </project>
-
 ```
 ### application.yml
 ``` yaml
@@ -107,3 +112,51 @@ mybatis:
   mapper-locations: classpath:mapper/*.xml
   type-aliases-package: com.demo.mybatis.entity
 ```
+
+### [mybatis-plus](https://baomidou.com/getting-started/)
+https://baomidou.com/getting-started/
+
+#### 处理类属性与数据库字段不一致
+方法一：在实体类上使用`@TableField`注解，指定数据库字段名
+``` java
+package com.demo.mybatis.entity;
+
+import com.baomidou.mybatisplus.annotation.TableField;
+import com.baomidou.mybatisplus.annotation.TableName;
+import lombok.Data;
+
+@Data
+@TableName("`user`")
+public class User {
+    private Long id;
+    private String name;
+    private Integer age;
+    private String email;
+    @TableField("class_name")
+    private String className;
+    private String bbb;
+}
+```
+	方法二：在mapper.xml中，使用`<resultMap>`标签，指定数据库字段名和实体类属性名之间的映射关系
+``` xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.demo.mybatis.mapper.AccountMapper">
+    <resultMap id="Account" type="com.demo.mybatis.entity.Account">
+        <result property="userName" column="user_name"/>
+    </resultMap>
+
+    <select id="selectUserById" resultMap="Account">
+        SELECT * FROM tb_account WHERE id = #{id}
+    </select>
+
+    <select id="selectList" resultMap="Account">
+        SELECT * from tb_account
+    </select>
+</mapper>
+```
+方法三：开启驼峰命名转换
+在`application.yml`中，使用`mybatis-plus: configuration: map-underscore-to-camel-case: true`，开启驼峰命名转换
+mybatis：
+  configuration:
+    map-underscore-to-camel-case: true
