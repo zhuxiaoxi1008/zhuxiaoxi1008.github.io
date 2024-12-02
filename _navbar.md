@@ -20,4 +20,5 @@
   * [vscod-plugins](/pages/notes/vscode-plugin.md)
   * [ai reference](/pages/notes/ai-reference.md)
   * [mybatis](/pages/notes/mybatis.md)
+  * [springboot 集成](/pages/notes/springboot.md)
 
