@@ -41,6 +41,7 @@
 - [Bloomberg News](https://www.bloomberg.com) - 全球最大的财经资讯公司之一，提供全球经济和商业新闻。
 - [Associated Press](https://apnews.com) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
 - [Xinhua Net](http://www.xinhuanet.com/world/) - 新华网国际版块，提供中国和世界各地的新闻报道。
+- [美国商务部]( https://www.bis.doc.gov/) - 美国商务部下属的国际贸易局，提供国际贸易相关的新闻和信息。
 
 ## 娱乐网站
 - [豆瓣](https://www.douban.com/) - 一个提供电影、音乐、图书、小组、小站、广播、东西等内容的社区网站。

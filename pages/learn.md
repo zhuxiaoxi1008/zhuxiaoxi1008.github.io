@@ -12,5 +12,13 @@
 # 后端开发
 - [mybatisFlex](https://mybatis-flex.com/zh/intro/getting-started.html) - MyBatis-Flex 是 MyBatis 的增强工具，它提供了许多便捷的功能，如分页、多租户、字段权限、数据权限等。
 
+# 学习blog
+- [芋道源码]https://www.iocoder.cn/Spring-Security/OAuth2-learning/?login=from_csdn
+- [Spring-Boot](https://www.iocoder.cn/categories/Spring-Boot/)
+- [Spring-security](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)
+
+
+
+
 
 
