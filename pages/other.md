@@ -4,7 +4,7 @@
 - [freeNodes](https://github.com/Barabama/FreeNodes)
 - [v2ray](https://github.com/githubvpn007/v2rayNvpn) v2rayNvpn 加速器
 - [lovetoshare](https://lovetoshare.top/archives/5.html) v2rayNvpn
-[免费节点更新地址](https://github.com/Barabama/FreeNodes?tab=readme-ov-file) 
+- [免费节点更新地址](https://github.com/Barabama/FreeNodes?tab=readme-ov-file) 
 - [Free server](https://github.com/Pawdroid/Free-servers) 免费服务订阅地址
 >上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 >上方节点（部分）永久订阅地址2：https://mirror.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
