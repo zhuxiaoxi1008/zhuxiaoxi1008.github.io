@@ -67,3 +67,7 @@ transition 过渡效果属性
 ```
 # 爬虫
 - [scrapy](https://docs.scrapy.org/en/latest/)
+
+## 其他
+- [python](https://www.python.org/) python 官网
+- [pandas](https://pandas.pydata.org/docs/) pandas 官网
