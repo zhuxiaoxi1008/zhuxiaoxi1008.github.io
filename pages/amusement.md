@@ -18,6 +18,10 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
+- [油管看世界](https://www.youtube.com/@LINETODAYWORLD)
+- [line](https://today.line.me/tw/v3/tab/anime)
+- [line_news](https://today.line.me/tw/v2/publisher/101508)
+- [越南](https://cn.nhandan.vn/)
 - [热搜榜](https://www.rebang.today/) 
 - [美联社（Associated Press)](http://www.ap.org/)
 - [路透社（Reuters)](https://www.reuters.com/)
