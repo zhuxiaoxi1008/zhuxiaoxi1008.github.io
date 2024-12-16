@@ -1,7 +1,7 @@
 # 常用推荐
 
 ## AI
-- [youtube](https://www.youtube.com/@yudou) - [yudou](https://www.yudou66.com/search/label/free)
+- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou66.com/search/label/free)
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
 - [kimi](https://kimi.moonshot.cn/) 
