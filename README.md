@@ -5,12 +5,12 @@
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
 - [kimi](https://kimi.moonshot.cn/) 
-- [秘塔搜索](https://metaso.cn/)  
+- [秘塔](https://metaso.cn/)  
 - [豆包](https://www.doubao.com/)
 - [文心一言](https://yiyan.baidu.com/)
 - [Google](https://www.google.com/) 
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
-- [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
+- [CodePen](https://codepen.io/) 前端开发人员大量开发者分享的各种 canvas 特效
 - [时代音乐](http://www.78497.com/) or (http://music.2t58.com/)
 
 ## 近期常用网站
