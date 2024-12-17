@@ -18,11 +18,11 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
+- [热搜榜](https://www.rebang.today/) 
+- [globaltimes](https://www.globaltimes.cn/)
 - [油管看世界](https://www.youtube.com/@LINETODAYWORLD)
 - [line](https://today.line.me/tw/v3/tab/anime)
 - [line_news](https://today.line.me/tw/v2/publisher/101508)
-- [越南](https://cn.nhandan.vn/)
-- [热搜榜](https://www.rebang.today/) 
 - [美联社（Associated Press)](http://www.ap.org/)
 - [路透社（Reuters)](https://www.reuters.com/)
 - [法新社（Agence France-Presse, AFP)](http://www.afp.com/)
@@ -46,6 +46,7 @@
 - [Associated Press](https://apnews.com) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
 - [Xinhua Net](http://www.xinhuanet.com/world/) - 新华网国际版块，提供中国和世界各地的新闻报道。
 - [美国商务部]( https://www.bis.doc.gov/) - 美国商务部下属的国际贸易局，提供国际贸易相关的新闻和信息。
+- [越南](https://cn.nhandan.vn/)
 
 
 ## 娱乐网站
