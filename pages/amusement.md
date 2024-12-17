@@ -47,19 +47,6 @@
 - [Xinhua Net](http://www.xinhuanet.com/world/) - 新华网国际版块，提供中国和世界各地的新闻报道。
 - [美国商务部]( https://www.bis.doc.gov/) - 美国商务部下属的国际贸易局，提供国际贸易相关的新闻和信息。
 
-## 娱乐网站
-- [豆瓣](https://www.douban.com/) - 一个提供电影、音乐、图书、小组、小站、广播、东西等内容的社区网站。
-- [豆瓣电影](https://movie.douban.com/) - 豆瓣电影频道，提供电影信息、影评、评分、预告片等。
-- [豆瓣音乐](https://music.douban.com/) - 豆瓣音乐频道，提供音乐信息、评论、评分、专辑、单曲等。
-- [豆瓣读书](https://book.douban.com/) - 豆瓣读书频道，提供图书信息、评论、评分、作者、出版社等。
-- [豆瓣小组](https://www.douban.com/group/) - 豆瓣小组频道，提供各种兴趣小组，包括文学、电影、音乐、摄影、旅行等。
-- [豆瓣小站](https://www.douban.com/site/) - 豆瓣小站频道，提供各种个人小站，包括博客、日记、相册等。
-- [豆瓣广播](https://www.douban.com/people/) - 豆瓣广播频道，提供各种个人广播，包括音乐、电影、读书等。
-- [豆瓣东西](https://www.douban.com/doulist/4253/) - 豆瓣东西频道，提供各种生活用品、电子产品、家居用品等。
-- [豆瓣FM](https://douban.fm/) - 豆瓣FM频道，提供各种音乐推荐，包括流行、摇滚、古典、电子等。
-- [豆瓣电影TOP250](https://movie.douban.com/top250) - 豆瓣电影TOP250频道，提供豆瓣评分最高的250部电影。
-- [豆瓣音乐TOP250](https://music.douban.com/top250) - 豆瓣音乐TOP250频道，提供豆瓣评分最高的250张音乐专辑。
-- [豆瓣读书TOP250](https://book.douban.com/top250) - 豆瓣读书TOP250频道，提供豆瓣评分最高的250本书。
 
 ## 娱乐网站
 - [gamer520游戏](https://www.gamer520.com/switchyouxi)
