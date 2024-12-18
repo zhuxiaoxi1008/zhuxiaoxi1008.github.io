@@ -18,6 +18,10 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
+- [Google 新闻](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) 
+- [法广](https://www.rfi.fr/cn/)
+- [自由亚洲电台](https://www.rfa.org/)
+- [BBC News](http://www.bbc.com/news) - 英国广播公司旗下负责播报新闻节目的部门，关注英国和世界各地的新闻报道。
 - [热搜榜](https://www.rebang.today/) 
 - [globaltimes](https://www.globaltimes.cn/)
 - [chinadaily](https://www.chinadaily.com.cn/)
@@ -35,16 +39,12 @@
 - [华盛顿邮报（The Washington Post)](https://www.washingtonpost.com/)
 - [卫报（The Guardian)](https://www.theguardian.com/)
 - [生意网](https://www.100ppi.com/ppi/)  - 专注于提供中国和国际市场行情的网站，提供各种商品的价格、库存、交易量等信息。
-- [法广](https://www.rfi.fr/cn/)
-- [自由亚洲电台](https://www.rfa.org/) 自由亚洲电台
-- [google-news](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) - Google 新闻
 - [latest-news](https://therealnews.com/latest-news) - 最新新闻
 - [msn 新闻](https://www.msn.cn/zh-cn)
 - [The New York Times](https://www.nytimes.com) - 美国最具声誉的报纸之一，以其深入的报道和高质量的新闻分析而闻名。
 - [CNN](https://www.cnn.com) - 美国第一个提供24小时新闻报道的电视频道，以其快速报道重大新闻事件而著称。
 - [Reuters](https://www.reuters.com) - 全球最大的国际新闻机构之一，提供广播新闻和印刷报纸，以迅速和准确享誉国际。
 - [The Wall Street Journal](https://www.wsj.com) - 美国一家报道商业和经济新闻的国际日报，以其深入的财经报道和分析而知名。
-- [BBC News](http://www.bbc.com/news) - 英国广播公司旗下负责播报新闻节目的部门，关注英国和世界各地的新闻报道。
 - [The Guardian](https://www.theguardian.com) - 英国全国性综合报纸，以严肃、可信、独立著称，读者多是知识分子和年轻人。
 - [Bloomberg News](https://www.bloomberg.com) - 全球最大的财经资讯公司之一，提供全球经济和商业新闻。
 - [Associated Press](https://apnews.com) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
