@@ -20,9 +20,13 @@
 ## 新闻站
 - [热搜榜](https://www.rebang.today/) 
 - [globaltimes](https://www.globaltimes.cn/)
+- [chinadaily](https://www.chinadaily.com.cn/)
 - [油管看世界](https://www.youtube.com/@LINETODAYWORLD)
 - [line](https://today.line.me/tw/v3/tab/anime)
 - [line_news](https://today.line.me/tw/v2/publisher/101508)
+- [韩联社](https://cn.yna.co.kr/) or [韩联社_韩文](https://www.yna.co.kr/)
+- [The Korea Times](https://www.koreatimes.co.kr/ )
+- [俄](https://www.rt.com/)
 - [美联社（Associated Press)](http://www.ap.org/)
 - [路透社（Reuters)](https://www.reuters.com/)
 - [法新社（Agence France-Presse, AFP)](http://www.afp.com/)
