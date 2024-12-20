@@ -17,6 +17,7 @@
 - [芋道源码]https://www.iocoder.cn/Spring-Security/OAuth2-learning/?login=from_csdn
 - [Spring-Boot](https://www.iocoder.cn/categories/Spring-Boot/)
 - [Spring-security](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)
+- [cap theorem](https://www.julianbrowne.com/article/brewers-cap-theorem/) (https://www.creativebloq.com/)
 
 
 

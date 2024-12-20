@@ -2,6 +2,7 @@
 
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou66.com/search/label/free)
+- [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [豆包](https://www.doubao.com/)
 - [Fine report](https://www.fanruan.com/finereport/success?key=6eae3841-ac321eef3-313c-66e66cc60721) 
 - [Fine report 文档](https://help.fanruan.com/finereport/)
@@ -48,7 +49,6 @@
 ## 工具
 - [163邮箱](https://mail.163.com/)
 - [有道云](https://note.youdao.com/web) 
-- [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [有道翻译](https://mobile.youdao.com/) 
 - [bookstack](https://www.bookstack.cn/)
 - [TED](https://www.ted.com/)

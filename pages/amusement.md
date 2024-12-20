@@ -11,6 +11,7 @@
 - [电影天堂](https://www.dygod.net//)  电影
 - [番茄小说](https://fanqienovel.com/) 
 - [起点中文网](https://www.qidian.com/)  小说
+- [电影天堂](https://dy2018.com/)
 - [电影](https://xunlei8.top/movie/32309352.html)
 - [迅雷]( https://xunlei8.top/) 
 - [nsc music](https://ncs.io/artists)
