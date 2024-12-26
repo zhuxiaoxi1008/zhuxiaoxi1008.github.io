@@ -7,6 +7,7 @@
 - [Fine report](https://www.fanruan.com/finereport/success?key=6eae3841-ac321eef3-313c-66e66cc60721) 
 - [Fine report 文档](https://help.fanruan.com/finereport/)
 - [fine local](http://localhost:8075/webroot/decision#?activeTab=171aa67f-f564-4812-a43e-c951a0add595)
+- [古文王](https://www.gushiwen.cn/guwen/bookv_26a847366f21.aspx)
 - [网易书-读书](https://yuedu.163.com/book)
 
 ## AI
