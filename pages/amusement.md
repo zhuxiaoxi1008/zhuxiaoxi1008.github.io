@@ -19,6 +19,7 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
+- [光明日报](https://www.gmw.cn/)
 - [Google 新闻](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) 
 - [法广](https://www.rfi.fr/cn/)
 - [自由亚洲电台](https://www.rfa.org/)
