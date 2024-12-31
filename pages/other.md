@@ -20,7 +20,7 @@
 # 其他资料
 - [roadmap](https://roadmap.sh/ai/explore)
 
--[awesome-bookmarks](https://panjiachen.github.io/awesome-bookmarks/repository/#%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8)  github 上一个很赞的收藏夹博客
+- [awesome-bookmarks](https://panjiachen.github.io/awesome-bookmarks/repository/#%E5%89%8D%E7%AB%AF%E5%B8%B8%E7%94%A8)  github 上一个很赞的收藏夹博客
 - [notebook](https://notebook.js.org/#/README) 资料分析
 - [source-code-hunter](https://github.com/doocs/source-code-hunter) 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
 
@@ -63,7 +63,8 @@ doocs.github.io/source-co
   - [rain simulation](https://codepen.io/AlainBarrios/pen/xeLjKx)     
   - [fluid simulation](https://codepen.io/PavelDoGreat/pen/zdWzEL)  
   - [fluid simulation](https://codepen.io/zhuxiaoxi1008/pen/vYoQKEO?editors=1010)  
-  - [iptv](https://github.com/iptv-org/iptv?utm_source=gold_browser_extension)  
+  - [iptv](https://github.com/iptv-org/iptv?utm_source=gold_browser_extension)
+  - [开源游戏引擎](https://github.com/4ian/GDevelop)
 
 #### blog
     https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411  
