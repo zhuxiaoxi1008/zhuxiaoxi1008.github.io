@@ -2,6 +2,7 @@
 - [书](https://github.com/caijc00/programmer_bookshelf_cn/tree/master/js/Effective%20JavaScript%20%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FJavaScript%E4%BB%A3%E7%A0%81%E7%9A%8468%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95)
 - [历史人物](https://www.lishirenwu.com/)
 - [网易书](https://yuedu.163.com/book)
+- [github resource 1](https://github.com/lancetw/ebook-1/blob/master/01_programming/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
 
 # 前言
 

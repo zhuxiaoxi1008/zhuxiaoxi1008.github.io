@@ -16,10 +16,13 @@
 - [迅雷]( https://xunlei8.top/) 
 - [nsc music](https://ncs.io/artists)
 - [唐朝诡事2](https://www.4kvm.pro/seasons/tacguyishil)
+- [千谎百计](https://m.vschang2018.cn/post/45353.html)
+- [大地永存](https://www.tianlang6.cc/vod-detail-id-431433.html)
 - [小霸王游戏合集]()
 
 ## 新闻站
 - [BBC News](http://www.bbc.com/news)
+- [VOA News](https://www.voanews.com/)
 - [光明日报](https://www.gmw.cn/)
 - [Google 新闻](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) 
 - [法广](https://www.rfi.fr/cn/)

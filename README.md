@@ -7,6 +7,7 @@
 - [Fine report](https://www.fanruan.com/finereport/success?key=6eae3841-ac321eef3-313c-66e66cc60721) 
 - [Fine report 文档](https://help.fanruan.com/finereport/)
 - [fine local](http://localhost:8075/webroot/decision#?activeTab=171aa67f-f564-4812-a43e-c951a0add595)
+- [面试题](https://www.chaojimake.cn/question_17_297.html/p4)
 
 ## 读书
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
