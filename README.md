@@ -10,6 +10,13 @@
 - [面试题](https://www.chaojimake.cn/question_17_297.html/p4)
 - [MDN](https://developer.mozilla.org/zh-CN/)
 
+## 找工作
+- [BOSS 直聘](https://www.zhipin.com/)
+- [拉勾](https://www.lagou.com/)
+- [智联招聘](https://www.zhaopin.com/)
+- [前程无忧](https://www.51job.com/)
+- [猎聘](https://www.liepin.com/)
+
 ## 读书
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
 - [文档](https://github.com/itzhanglg/java-notes/tree/master/docs/highConcurrency/redis)
