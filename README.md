@@ -3,6 +3,7 @@
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou66.com/search/label/free)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
+- [deepseek](https://chat.deepseek.com/)
 - [豆包](https://www.doubao.com/)
 - [Fine report](https://www.fanruan.com/finereport/success?key=6eae3841-ac321eef3-313c-66e66cc60721) 
 - [Fine report 文档](https://help.fanruan.com/finereport/)
