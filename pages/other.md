@@ -66,8 +66,16 @@ doocs.github.io/source-co
   - [iptv](https://github.com/iptv-org/iptv?utm_source=gold_browser_extension)
   - [开源游戏引擎](https://github.com/4ian/GDevelop)
 
+### AI 相关
+  - [AI 模型](https://github.com/CompVis/stable-diffusion)
+  - [AI 模型](https://github.com/CompVis/taming-transformers)
+  - [AI voice](https://github.com/topics/cosyvoice)
+
+
 #### blog
-    https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411  
+    https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411
+    https://gitee.com/kuangstudy/kuang_livenote/blob/master/%E3%80%90%E9%81%87%E8%A7%81%E7%8B%82%E7%A5%9E%E8%AF%B4%E3%80%91POI%E8%A7%86%E9%A2%91%E7%AC%94%E8%AE%B0/POI-EasyExcel%E7%AC%94%E8%AE%B0.pdf
+
 
 
 ### code pen
