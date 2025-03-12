@@ -67,6 +67,8 @@ https://gitee.com/Z568_568
 https://codepen.io/AlainBarrios/pen/xeLjKx   rain simulation
 https://codepen.io/PavelDoGreat/pen/zdWzEL  fluid simulation
 https://codepen.io/zhuxiaoxi1008/pen/vYoQKEO?editors=1010  fluid simulation
+https://gitee.com/zhijiantianya/ruoyi-vue-pro#https://gitee.com/yudaocode/yudao-ui-admin-vue3 ruoyi-pro
+https://gitee.com/yudaocode/SpringBoot-Labs 系统学习springboot
 
 #### blog
 https://juejin.cn/post/7384765023343394827?searchId=20241111215108355EB99EA76531275411
