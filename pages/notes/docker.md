@@ -1,3 +1,159 @@
+# Docker 安装
+```
+https://www.jb51.net/server/326814ypd.htm
+VM 配置网络NET 模式
+
+https://mirrors.aliyun.com/docker-ce/linux/centos/
+
+https://developer.aliyun.com/article/1639724?spm=a2c6h.14164896.0.0.618547c5uGDss3&scm=20140722.S_community@@%E6%96%87%E7%AB%A0@@1639724._.ID_1639724-RL_%E5%AE%89%E8%A3%85docker-LOC_search~UND~community~UND~item-OR_ser-V_4-P0_1
+
+http://mirrors.aliyun.com/repo/Centos-7.repo
+https://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+
+
+{
+    "registry-mirrors": [
+        "http://hub-mirror.c.163.com",
+        "https://mirrors.tuna.tsinghua.edu.cn",
+        "http://mirrors.sohu.com",
+        "https://ustc-edu-cn.mirror.aliyuncs.com",
+        "https://ccr.ccs.tencentyun.com",
+        "https://docker.m.daocloud.io",
+        "https://docker.awsl9527.cn"
+    ]
+}
+
+在Search是使用命令：docker search register.liberx.info/[imageName]
+而不是直接docker search [imageName]
+
+工具
+
+dig @114.114.114.114 registry-1.docker.io
+
+https://register.liberx.info/
+
+## 五、启动并设置开机自启
+1. **启动 Docker 服务**
+   - 安装完成后，启动 Docker 服务。
+     ```bash
+     sudo systemctl start docker
+          ```
+2. **设置开机自启**
+   - 并设置 Docker 服务在开机时自动启动。
+     ```bash
+     sudo systemctl enable docker
+     ```
+```
+# docker
+- [IT Tools - Handy online tools for developers](http://192.168.16.128:8010/)
+- [Memos](http://192.168.16.128:8011/)
+- [Jellyfin](http://192.168.16.128:8012/web/)
+- [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](http://192.168.16.128:8013/)
+- [Hello 算法](https://www.hello-algo.com/)
+- [DockerDesktop使用指南_笔记大全_设计学院](https://www.python100.com/html/99002.html)
+- [Overview of Docker Desktop | Docker Documentation](https://docs.docker.com/desktop/)
+- [docker 命令](https://docs.docker.com/engine/reference/commandline/rmi/)
+- [Docker: Accelerated Container Application Development](https://www.docker.com/)
+
+## 卸载旧版本
+``` shell
+sudo yum remove docker \
+    docker-client \
+    docker-client-latest \
+    docker-common \
+    docker-latest \
+    docker-latest-logrotate \
+    docker-logrotate \
+    docker-engine \
+    docker-selinux
+sudo rm -rf /var/lib/docker
+sudo rm -rf /etc/docker
+# sudo rm -rf /etc/yum.repos.d/*        
+
+sudo yum install docker \
+                  docker-client \
+                  docker-client-latest \
+                  docker-common \
+                  docker-latest \
+                  docker-latest-logrotate \
+                  docker-logrotate \
+                  docker-engine
+                
+```
+## yum 安装
+```shell
+sudo yum-config-manager \
+    --add-repo \
+    https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum-config-manager \
+    --add-repo
+    http://mirrors.aliyun.com/repo/Centos-7.repo
+sudo yum install -y yum-utils \
+  device-mapper-persistent-data \
+  lvm2
+# sudo yum install docker-ce docker-ce-cli containerd.io
+# sudo systemctl start docker
+# sudo docker run hello-world
+```
+
+## Docker 镜像加速器 
+也可以加载国内其他镜像源，部分国内镜像源地址如下：
+- [阿里云](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)
+- [DaoCloud](https://www.daocloud.io/mirror#accelerator-doc)
+- [网易云](https://hub-mirror.c.163.com)
+- [腾讯云](https://cloud.tencent.com/document/product/457/9107)
+- [七牛云](https://kcrm.ksserver.cn:8443/#/image-repo)
+- [中科大](https://mirrors.ustc.edu.cn/help/dockerhub.html)
+- [阿里云](https://www.aliyun.com/product/acr?source=5176.11533457&userCode=8lx5zmtu)
+部分镜像源已经下线，无法使用，请使用其他镜像源。
+
+```shell
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": ["https://register.liberx.info"]
+}
+EOF
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+```
+
+- [register search](https://register.liberx.info/)
+
+
+## 运行 mysql
+```shell
+docker run -d -p 3306:3306 --name mysql -v /data/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=123456 mysql
+```
+
+docker run --name=mysql -it  \
+-p 3306:3306  \
+-e MYSQL_ROOT_PASSWORD=123456  \
+-e MYSQL_ROOT_HOST=%  \
+-v /data/mysql:/var/lib/mysql  \
+-d 56a8c14e1404
+
+## 运行 redis
+下一步就是使用run命令创建并启动镜像，但在启动镜像之前，我们需要去官网下载redis的配置文件redis.conf文件。注意不同版本的redis配置文件内容不一样
+- [redis-conf](https://redis.io/docs/latest/operate/oss_and_stack/management/config/) redis config 配置文件
+```shell
+docker run -d -p 6379:6379 --name redis -v /data/redis/redis.conf:/usr/local/etc/redis/redis.conf -v /data/redis/data:/data redis:latest redis-server /usr/local/etc/redis/redis.conf
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 其他
+
 Docker 是一个开源的应用容器引擎，它允许开发者打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的 Linux 机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。
 
 启动 Docker 服务通常取决于你使用的操作系统。以下是一些常见操作系统上启动 Docker 服务的方法：

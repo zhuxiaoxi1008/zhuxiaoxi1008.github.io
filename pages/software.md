@@ -7,10 +7,12 @@
 - [vue-tour](https://pulsar.gitbooks.io/vue-tour/content/) vue-tour 用户指引
 - [vue 插件](https://madewith.cn/157) vue 插件库搜索
 
+
 # 在线工具
-- [emoji](https://emoji6.com/emojiall/) emoji 表情
+
 - [Vector Magic](https://vectormagic.com/) png 2 svg    
 - [png-ico](https://cdkm.com/cn/png-to-ico) png 转ico
+- [pdf 编辑](https://smallpdf.com/cn/edit-pdf)pdf 编辑
 
 # 软件
 - [nvm](https://github.com/coreybutler/nvm-windows/releases) nvm 下载地址
@@ -53,6 +55,7 @@
 -[有道灵动]https://microsoftedge.microsoft.com/addons/search/%E7%81%B5%E5%8A%A8%E7%BF%BB%E8%AF%91
 - [Chrome 插件](https://chrome.google.com/webstore/category/extensions) - Google Chrome 插件商店，提供各种功能扩展。https://extensiondock.com/cn
 - [免费kimi接口]https://juejin.cn/post/7357546247848427558?searchId=202408101404484888A391A6B1AC7D2DBC
+- [docker search](https://register.liberx.info/)
 
 
 # vscode 插件

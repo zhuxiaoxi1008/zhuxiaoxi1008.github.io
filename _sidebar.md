@@ -7,4 +7,4 @@
 - [:art:设计模式](/pages/notes/design-pattern.md "凡有血气，必有争心")
 - [:open_book:电子书](/pages/ebook.md '阅读，是交流的起点')
 - [:pencil:笔记](pages/note.md '知识，是交流的终点')
-- [AI](pages/ai.md '人工智能学习资料')
+- [:robot:AI](pages/ai.md '人工智能学习资料')
