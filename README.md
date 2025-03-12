@@ -13,6 +13,9 @@
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [JAVA API](https://www.matools.com/api/java8)
 - [在线工具](https://www.matools.com/)
+- [面试刷题](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=196&rp=1&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)
+- [CodePen](https://codepen.io/) 前端开发人员大量开发者分享的各种 canvas 特效
+- [时代音乐](http://www.78497.com/) or (http://music.2t58.com/)
 
 ## 找工作
 - [BOSS 直聘](https://www.zhipin.com/)
@@ -35,9 +38,7 @@
 - [Google](https://www.google.com/) 
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
-- [面试刷题](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=196&rp=1&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)
-- [CodePen](https://codepen.io/) 前端开发人员大量开发者分享的各种 canvas 特效
-- [时代音乐](http://www.78497.com/) or (http://music.2t58.com/)
+
 
 ## 代码
 - [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
