@@ -20,6 +20,7 @@
 - [智联招聘](https://www.zhaopin.com/)
 - [前程无忧](https://www.51job.com/)
 - [猎聘](https://www.liepin.com/)
+- [AWS](https://mytodo.vip/)
 
 ## 读书
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
