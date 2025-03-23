@@ -25,6 +25,7 @@
 ## 读书
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
 - [文档](https://github.com/itzhanglg/java-notes/tree/master/docs/highConcurrency/redis)
+- [码农电子书](https://www.manongbook.com/)
 
 ## AI
 - [AI 工具推荐](https://openi.cn/) 
