@@ -57,6 +57,7 @@
 - [Xinhua Net](http://www.xinhuanet.com/world/) - 新华网国际版块，提供中国和世界各地的新闻报道。
 - [美国商务部]( https://www.bis.doc.gov/) - 美国商务部下属的国际贸易局，提供国际贸易相关的新闻和信息。
 - [越南](https://cn.nhandan.vn/)
+- [git](https://github.com/Tyaoo/picker/issues/945)
 
 
 ## 娱乐网站

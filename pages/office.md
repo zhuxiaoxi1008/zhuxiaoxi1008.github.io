@@ -16,6 +16,7 @@
 - [Netlify]() 静态网站托管服务
 
 # 官网地址
+- [Cordova](https://cordova.apache.org/) Cordova 官网 Cordova是一个开源的移动应用开发框架，使得开发者可以在不同的移动平台上
 - [unpkg](https://unpkg.com/) CDN 依赖库
 - [cdn.jsdelivr.net/npm](https://cdn.jsdelivr.net/npm) CDN 依赖库 cdn.jsdelivr.net/npm/docsify@4
 - [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
@@ -43,7 +44,13 @@
 - [echarts](https://echarts.apache.org/examples/zh/index.html) ECharts 官网
 
 # react 相关
-- [react](https://reactjs.org/) react 官网（https://react.dev/reference/react/useActionState）
+- [react 中文  ](https://react.docschina.org/) react 中文官网
+- [react](https://reactjs.org/) react 官网（https://react.dev/reference/react/useActionState
+- [react-router](https://reactrouter.com/) react-router 官网
+- [react-router-dom](https://reactrouter.com/en/main) react-router-dom 官网
+- [react-query](https://react-query.tanstack.com/) react-query 官网
+- [react-query-devtools](https://react-query.tanstack.com/devtools) react-query-devtools 官网
+- [react-query-tutorial](https://www.youtube.com/watch?v=5wq2hLc7oGc) react-query-tutorial 官网 
 - [nextjs](https://nextjscn.org/docs) nextjs 中午官网
 - [material-ui](https://mui.com/material-ui)   
 
