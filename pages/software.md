@@ -15,6 +15,7 @@
 - [pdf 编辑](https://smallpdf.com/cn/edit-pdf)pdf 编辑
 
 # 软件
+- [ideaJ](https://www.jetbrains.com/zh-cn/idea/download/other.html) ideaJ 下载地址
 - [nvm](https://github.com/coreybutler/nvm-windows/releases) nvm 下载地址
 - [choco](https://community.chocolatey.org/) choco 包管理工具 
 - [andorid studio](https://developer.android.com/studio?hl=zh-cn) android studio 下载地址

@@ -1,4 +1,5 @@
 # 前端好逛的网站
+- [Can I use](https://caniuse.com/) Can I use - Web 技术兼容性查询
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
 - [Excalidraw](https://excalidraw.com/)  在线绘图工具，支持导出为图片或 SVG 格式。
 - [ucharts](https://www.ucharts.cn/) 高性能的前端应用图表库，部分图表和可视化效果是通过 canvas 实现的，具有良好的性能和视觉效果。
