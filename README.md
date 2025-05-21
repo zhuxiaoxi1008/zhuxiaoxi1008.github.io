@@ -1,7 +1,7 @@
 # 常用推荐
 
 ## 近期常用网站
-- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou66.cc)
+- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou77.top)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [deepseek](https://chat.deepseek.com/)
 - [豆包](https://www.doubao.com/)
