@@ -1,4 +1,6 @@
 # js 插件
+- [codeMirror](https://codemirror.net/docs/ref/) codeMirror代码编辑器
+- [chart.js](https://chartjs.cn/) chart.js 图表库
 - [xicon](https://xicons.org/#/zh-CN)   图标库
 - [fontawesome](https://fontawesome.com.cn/) fontawesome 图标库
 - [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn) Ant Design of Vue 的官方文档
