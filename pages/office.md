@@ -15,6 +15,7 @@
 - [nestjs](https://nextjs.org/docs) 一个 React 的服务端渲染应用框架
 - [nuxtjs](https://www.nuxtjs.cn/) [英文官网](https://nuxtjs.org/) Nuxt.js 是一个基于 Vue.js 的框架，用于构建服务器端渲染的应用程序。
 - [Netlify]() 静态网站托管服务
+- [RevealJS](https://revealjs.com/) Reveal.js 是一个用于创建演示文稿的 JavaScript 库。
 
 # 官网地址
 - [Cordova](https://cordova.apache.org/) Cordova 官网 Cordova是一个开源的移动应用开发框架，使得开发者可以在不同的移动平台上
@@ -24,6 +25,7 @@
 - [Element 2](https://element.eleme.io/#/zh-CN)
 - [qiankun](https://qiankun.umijs.org/zh) qiankun 官网
 - [Vite ](https://cn.vite.dev/config/) - Vite 的，介绍如何使用 Vite 构建现代 Web 应用。
+- [vueuse](https://vueuse.nodejs.cn/guide/) vueuse 官网
 - [Vue](https://cn.vuejs.org/guide/quick-start.html) - Vue.js 的，提供详细的 Vue 3 指南和 API 参考。
 - [vue-router](https://router.vuejs.org/zh/introduction)
 - [Vuex](https://vuex.vuejs.org/zh/introduction.html) - Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式和库。
