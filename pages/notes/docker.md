@@ -1,3 +1,13 @@
+```
+{
+    "registry-mirrors": [
+        "https://docker.1ms.run"
+    ]
+}
+```
+
+docker search docker.1ms.run/nginx    ### 搜索镜像前要加一个前缀
+
 # Docker 安装
 ```
 https://www.jb51.net/server/326814ypd.htm
@@ -271,3 +281,20 @@ sudo journalctl -u docker.service
    ```
 
 请根据你的具体需求选择合适的命令。如果你需要更详细的帮助或有特定的 Docker 镜像和配置需求，可以提供更多的信息。
+
+
+
+
+加速域名
+https://docker.sunzishaokao.com
+https://docker.xuanyuan.me/
+https://docker.1ms.run
+https://docker.1panel.live
+https://hub.rat.dev
+https://docker.wanpeng.top
+https://doublezonline.cloud
+https://docker.mrxn.net
+https://docker.anyhub.us.kg
+https://dislabaiot.xyz
+https://docker.fxxk.dedyn.io
+https://docker-mirror.aigc2d.com
