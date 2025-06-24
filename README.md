@@ -1,6 +1,7 @@
 # 常用推荐
 
 ## 近期常用网站
+- [Huggingface](https://huggingface.co/welcome)
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou123.top)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [deepseek](https://chat.deepseek.com/)
@@ -14,8 +15,11 @@
 - [JAVA API](https://www.matools.com/api/java8)
 - [在线工具](https://www.matools.com/)
 - [iecube](https://github.com/iecube-tech)
+
+```
 user.name=iecube-zhuxiaoxi
 user.email=xiaoxi.zhu@iecube.com.cn
+```
 
 ## 找工作
 - [BOSS 直聘](https://www.zhipin.com/)
