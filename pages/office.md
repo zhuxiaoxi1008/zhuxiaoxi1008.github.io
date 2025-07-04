@@ -31,6 +31,7 @@
 - [Vuex](https://vuex.vuejs.org/zh/introduction.html) - Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式和库。
 - [pinia](https://pinia.web3doc.top/)
 - [vuepress](https://vuepress.vuejs.org/zh/guide/introduction.html#vitepress) - 静态网站生成器，专为 Vue.js 项目设计。
+- [md-editor-v3](https://imzbf.github.io/md-editor-v3/en-US) md-editor-v3 官网(推荐好用的markdown vue3 插件)
 - [vuepress markdown 插件](https://marketplace.vuejs.press/zh/plugins/markdown) markdown 插件
 - [markdown-it](https://markdown-it.github.io/) - Markdown-it 是一个快速、灵活的 Markdown 解析器。
 - [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/# 教程官网
@@ -57,6 +58,7 @@
 - [菜鸟 css](https://www.runoob.com/cssref/css-selectors.html) 菜鸟 css api
 - [菜鸟 html](https://www.runoob.com/tags/tag-figcaption.html) 菜鸟 html api
 - [echarts](https://echarts.apache.org/examples/zh/index.html) ECharts 官网
+
 
 # react 相关
 - [react 中文  ](https://react.docschina.org/) react 中文官网
