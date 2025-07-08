@@ -32,6 +32,8 @@
 - [pinia](https://pinia.web3doc.top/)
 - [vuepress](https://vuepress.vuejs.org/zh/guide/introduction.html#vitepress) - 静态网站生成器，专为 Vue.js 项目设计。
 - [md-editor-v3](https://imzbf.github.io/md-editor-v3/en-US) md-editor-v3 官网(推荐好用的markdown vue3 插件)
+- [monaco-editor](https://microsoft.github.io/monaco-editor/) monaco-editor 官网
+- [codemirror](https://codemirror.net/) codemirror 官网
 - [vuepress markdown 插件](https://marketplace.vuejs.press/zh/plugins/markdown) markdown 插件
 - [markdown-it](https://markdown-it.github.io/) - Markdown-it 是一个快速、灵活的 Markdown 解析器。
 - [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)  https://markdown.com.cn/# 教程官网
