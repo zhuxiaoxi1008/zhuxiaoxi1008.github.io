@@ -12,7 +12,7 @@ https://github.com/fighting41love/funNLP
 ## 引擎
 Godot引擎
 
-```mermaid
+``` mermaid
 graph LR
 A[Godot引擎] --> B[渲染引擎]
 A --> C[物理引擎]

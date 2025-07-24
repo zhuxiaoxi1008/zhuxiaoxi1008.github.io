@@ -13,7 +13,7 @@
 * 学习笔记
   * [docsify](/pages/notes/docsify.md "docsify 学习笔记")
   * [docsify emjo natvie](/pages/notes/emoji.md)
-  * [AI学习笔记](/pages/notes/ai-note.md)
+  * [AI 笔记](/pages/notes/ai-note.md)
   * [wsl 笔记](/pages/notes/wsl-note.md)
   * [设计模式](/pages/notes/design-pattern.md)
   * [react-native](/pages/notes/react-native.md)
