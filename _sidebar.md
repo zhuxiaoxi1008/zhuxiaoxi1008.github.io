@@ -8,3 +8,4 @@
 - [:open_book:电子书](/pages/ebook.md '阅读，是交流的起点')
 - [:pencil:笔记](pages/note.md '知识，是交流的终点')
 - [:robot:AI](pages/ai.md '人工智能学习资料')
+- [:apple:工作资料](pages/work.md '工作资料')
