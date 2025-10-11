@@ -62,6 +62,10 @@
 - [echarts](https://echarts.apache.org/examples/zh/index.html) ECharts 官网
 - [makeapie](https://www.makeapie.cn/) 折线图 makeapie
 
+## 画图库
+- [Vue ECharts](https://vue-echarts.dev/)
+https://github.com/ecomfe/vue-echarts#readme
+
 
 # react 相关
 - [react 中文  ](https://react.docschina.org/) react 中文官网

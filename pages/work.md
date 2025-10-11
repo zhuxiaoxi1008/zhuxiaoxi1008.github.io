@@ -7,6 +7,7 @@ user.email=xiaoxi.zhu@iecube.com.cn
 
 - [iecube](https://github.com/iecube-tech)
 - [Huggingface](https://huggingface.co/welcome)
+- [stackblitz](https://stackblitz.com/) 
 
 ### 工作资料
 
