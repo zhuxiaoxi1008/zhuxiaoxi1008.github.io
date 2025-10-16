@@ -1,4 +1,6 @@
 ## [mybatis 官网](https://mybatis.net.cn/getting-started.html)
+### [mybatis plus 教程](https://www.baeldung.com/spring-boot-annotations)
+
 ^\s*$\n 空白行替换 点击 .*
 ### mybatis-spring-boot
 https://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/zh_CN/index.html
