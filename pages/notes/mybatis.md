@@ -1,6 +1,22 @@
 ## [mybatis 官网](https://mybatis.net.cn/getting-started.html)
 ### [mybatis plus 教程](https://www.baeldung.com/spring-boot-annotations)
 
+#### 生态圈
+
+## [mybatis-plus](https://baomidou.com/getting-started/install/)
+<dependency>
+    <groupId>com.baomidou</groupId>
+    <artifactId>mybatis-plus-spring-boot3-starter</artifactId>
+    <version>3.5.14</version>
+</dependency>
+
+#### [mybatis-generator](https://baomidou.com/guides/new-code-generator/)
+<dependency>
+    <groupId>com.baomidou</groupId>
+    <artifactId>mybatis-plus-generator</artifactId>
+    <version>3.5.14</version>
+</dependency>
+
 ^\s*$\n 空白行替换 点击 .*
 ### mybatis-spring-boot
 https://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/zh_CN/index.html
