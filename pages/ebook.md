@@ -4,6 +4,8 @@
 - [历史人物](https://www.lishirenwu.com/)
 - [网易书](https://yuedu.163.com/book)
 - [github resource 1](https://github.com/lancetw/ebook-1/blob/master/01_programming/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
+- [github resource 2 (比较好)](https://github.com/wxyzZ/olist213_Information_Security_Books)
+- [红队资源](https://xu-an.gitbook.io/sec/1/zy)
 
 # 前言
 
