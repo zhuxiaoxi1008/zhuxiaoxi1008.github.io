@@ -12,11 +12,11 @@
 - [网络安全](https://www.freebuf.com/)
 
 ## 读书
-- [金屋电子书](https://pdfs.top/)
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
 - [文档](https://github.com/itzhanglg/java-notes/tree/master/docs/highConcurrency/redis)
 - [码农电子书](https://www.manongbook.com/)
 - [白菜](https://cmsblogs.cn/?cat=&s=Kubernetes)
+- [金屋电子书](https://pdfs.top/)
 
 ## AI
 - [AI 工具推荐](https://openi.cn/) 
