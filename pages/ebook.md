@@ -1,11 +1,13 @@
 # 书
 - [码农电子书](https://www.manongbook.com/)
+- [金屋电子书](https://pdfs.top/)
 - [书](https://github.com/caijc00/programmer_bookshelf_cn/tree/master/js/Effective%20JavaScript%20%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FJavaScript%E4%BB%A3%E7%A0%81%E7%9A%8468%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95)
 - [历史人物](https://www.lishirenwu.com/)
 - [网易书](https://yuedu.163.com/book)
 - [github resource 1](https://github.com/lancetw/ebook-1/blob/master/01_programming/UNIX%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E5%8D%B71%EF%BC%9A%E5%A5%97%E6%8E%A5%E5%AD%97%E8%81%94%E7%BD%91API%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89.pdf)
 - [github resource 2 (比较好)](https://github.com/wxyzZ/olist213_Information_Security_Books)
 - [红队资源](https://xu-an.gitbook.io/sec/1/zy)
+- [疯狂创客圈总目录](https://github.com/J-doIt/SimpleCrayIM/blob/main/%E7%96%AF%E7%8B%82%E5%88%9B%E5%AE%A2%E5%9C%88%E6%80%BB%E7%9B%AE%E5%BD%95.md)
 
 # 前言
 
