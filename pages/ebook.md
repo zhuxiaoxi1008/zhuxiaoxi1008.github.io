@@ -8,6 +8,7 @@
 - [github resource 2 (比较好)](https://github.com/wxyzZ/olist213_Information_Security_Books)
 - [红队资源](https://xu-an.gitbook.io/sec/1/zy)
 - [疯狂创客圈总目录](https://github.com/J-doIt/SimpleCrayIM/blob/main/%E7%96%AF%E7%8B%82%E5%88%9B%E5%AE%A2%E5%9C%88%E6%80%BB%E7%9B%AE%E5%BD%95.md)
+- [廖雪峰](https://liaoxuefeng.com/books/java/threading/synchronize/sync-method/index.html)
 
 # 前言
 
