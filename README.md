@@ -2,9 +2,9 @@
 
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
+- [Google](https://www.google.com/) 
+- [金屋电子书](https://pdfs.top/)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
-- [deepseek](https://chat.deepseek.com/)
-- [豆包](https://www.doubao.com/)
 - [springboot](https://www.chaojimake.cn/question_1_138.html)
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [JAVA API](https://www.matools.com/api/java8)
@@ -16,16 +16,15 @@
 - [文档](https://github.com/itzhanglg/java-notes/tree/master/docs/highConcurrency/redis)
 - [码农电子书](https://www.manongbook.com/)
 - [白菜](https://cmsblogs.cn/?cat=&s=Kubernetes)
-- [金屋电子书](https://pdfs.top/)
 
 ## AI
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
+- [deepseek](https://chat.deepseek.com/)
 - [豆包](https://www.doubao.com/)
 - [kimi](https://kimi.moonshot.cn/) 
-- [秘塔](https://metaso.cn/)  
+- [秘塔](https://metaso.cn/)
 - [文心一言](https://yiyan.baidu.com/)
-- [Google](https://www.google.com/) 
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
 - [面试刷题](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=196&rp=1&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)
