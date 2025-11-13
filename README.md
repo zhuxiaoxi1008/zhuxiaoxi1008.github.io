@@ -10,6 +10,8 @@
 - [JAVA API](https://www.matools.com/api/java8)
 - [在线工具](https://www.matools.com/)
 - [网络安全](https://www.freebuf.com/)
+- [布鲁盖尔研究所](https://www.bruegel.org/)
+- [英为财情](hk.investing.com)
 
 ## 读书
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
