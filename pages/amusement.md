@@ -21,7 +21,7 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
-- [](https://www.bruegel.org/)
+- [布鲁盖尔研究所](https://www.bruegel.org/)
 - [英为财情](hk.investing.com)
 - [BBC News](http://www.bbc.com/news)
 - [VOA News](https://www.voanews.com/)
