@@ -1,5 +1,6 @@
 # 书
 - [金屋电子书](https://pdfs.top/)
+- [古登堡计划](https://www.gutenberg.org/)
 - [图灵电子书](https://www.ituring.com.cn/)
 - [码农电子书](https://www.manongbook.com/)
 - [书](https://github.com/caijc00/programmer_bookshelf_cn/tree/master/js/Effective%20JavaScript%20%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FJavaScript%E4%BB%A3%E7%A0%81%E7%9A%8468%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95)
@@ -10,6 +11,9 @@
 - [红队资源](https://xu-an.gitbook.io/sec/1/zy)
 - [疯狂创客圈总目录](https://github.com/J-doIt/SimpleCrayIM/blob/main/%E7%96%AF%E7%8B%82%E5%88%9B%E5%AE%A2%E5%9C%88%E6%80%BB%E7%9B%AE%E5%BD%95.md)
 - [廖雪峰](https://liaoxuefeng.com/books/java/threading/synchronize/sync-method/index.html)
+- [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/#_2)
+- [印大学书自动控制原理](https://mrce.in/ebooks/Feedback%20Control%20of%20Dynamic%20Systems%208th%20Ed.pdf)
+- [电子工业国外计算机教材丛书](https://github.com/apachecn/phei-cs-book)
 
 # 前言
 

@@ -20,6 +20,7 @@
 - [码农电子书](https://www.manongbook.com/)
 - [白菜](https://cmsblogs.cn/?cat=&s=Kubernetes)
 - [台词](https://www.taicishe.com/)
+- [古登堡计划](https://www.gutenberg.org/)
 
 ## AI
 - [AI 工具推荐](https://openi.cn/) 
