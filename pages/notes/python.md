@@ -37,3 +37,5 @@ python3 -m pygame.examples.aliens
 https://opengameart.org/
 
 **pygame.sprite** 是 Pygame 库中用于精灵（Sprite）管理的核心模块，提供了便捷的类和方法来处理游戏中的角色、道具、敌人等可移动 / 交互元素，简化碰撞检测、动画更新、群体管理等常见游戏开发任务
+**碰撞** 指的是游戏元素有重叠
+sprite.groupcollide() 函数将一个编组中每个元素的 rect 与另一个编组中每个元素的 rect 进行比较.
