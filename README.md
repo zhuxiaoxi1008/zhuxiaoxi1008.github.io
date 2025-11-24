@@ -1,8 +1,12 @@
 # 常用推荐
 
+
+
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
-- [Google](https://www.google.com/) 
+- [Google](https://www.google.com/)
+- [gemini](https://gemini.google.com/)
+- [aistudio](https://aistudio.google.com/)
 - [金屋电子书](https://pdfs.top/)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [springboot](https://www.chaojimake.cn/question_1_138.html)
@@ -54,6 +58,7 @@
 - [GitHub Learning Lab](https://lab.github.com) - GitHub 提供的互动式 Git 和 GitHub 教程。
 - [freeCodeCamp](https://www.freecodecamp.org) - 免费的编程课程和项目实践平台。
 - [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 让您轻松地了解所有与重构、设计模式
+- [markdown](https://markdown.com.cn/cheat-sheet.html) - Markdown 语法参考。
 
 ## 文档社区
 - [掘金](https://juejin.cn/) 
