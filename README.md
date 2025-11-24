@@ -26,6 +26,7 @@
 - [白菜](https://cmsblogs.cn/?cat=&s=Kubernetes)
 - [台词](https://www.taicishe.com/)
 - [古登堡计划](https://www.gutenberg.org/)
+- [自动控制系统](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=B803FC0277E287629E053010B0A0AD4D5000&bookPageNum=4)
 
 ## AI
 - [gemini](https://gemini.google.com/)
