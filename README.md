@@ -3,8 +3,8 @@
 
 
 ## 近期常用网站
-
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
+- [aistudio](https://aistudio.google.com/)
 - [gemini](https://gemini.google.com/)
 - [Google](https://www.google.com/)
 - [aistudio](https://aistudio.google.com/)
@@ -29,6 +29,7 @@
 
 ## AI
 - [gemini](https://gemini.google.com/)
+- [aistudio](https://aistudio.google.com/)
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
 - [deepseek](https://chat.deepseek.com/)
