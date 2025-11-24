@@ -1,5 +1,6 @@
 # 书
 - [金屋电子书](https://pdfs.top/)
+- [科学文库在线电子书](https://book.sciencereading.cn/)
 - [Z-Library](https://zh.z-lib.gd/) 
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [古登堡计划](https://www.gutenberg.org/)
@@ -21,6 +22,7 @@
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/#_2)
 - [印大学书自动控制原理](https://mrce.in/ebooks/Feedback%20Control%20of%20Dynamic%20Systems%208th%20Ed.pdf)
 - [电子工业国外计算机教材丛书](https://github.com/apachecn/phei-cs-book)
+
 
 # 前言
 
