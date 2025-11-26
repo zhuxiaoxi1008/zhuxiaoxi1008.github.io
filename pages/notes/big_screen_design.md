@@ -1,4 +1,7 @@
 # 🖥️ Vue 3 大屏等比例缩放适配笔记
+vue3-big-screen
+github: [https://github.com/dddggg123/vue3-big-screen?tab=readme-ov-file](https://github.com/dddggg123/vue3-big-screen?tab=readme-ov-file)
+
 
 ## 🚀 核心思路
 
