@@ -2,6 +2,14 @@
 vue3-big-screen
 github: [https://github.com/dddggg123/vue3-big-screen?tab=readme-ov-file](https://github.com/dddggg123/vue3-big-screen?tab=readme-ov-file)
 
+其他demo 
+[big-data-view](https://gitee.com/iGaoWei/big-data-view)
+
+组件库
+[DataV](http://datav.jiaminghi.com/guide/#%E5%AE%89%E8%A3%85)
+[vue-chartjs](https://vue-chartjs.org/guide/)
+[vue-echarts](https://vue-echarts.dev/)
+
 
 ## 🚀 核心思路
 

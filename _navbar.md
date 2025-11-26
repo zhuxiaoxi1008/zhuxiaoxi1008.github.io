@@ -22,4 +22,5 @@
   * [ai reference](/pages/notes/ai-reference.md)
   * [mybatis](/pages/notes/mybatis.md)
   * [springboot 集成](/pages/notes/springboot.md)
+  * [大屏设计](/pages/notes/big_screen_design.md)
 
