@@ -8,7 +8,9 @@ github: [https://github.com/dddggg123/vue3-big-screen?tab=readme-ov-file](https:
 组件库
 [DataV](http://datav.jiaminghi.com/guide/#%E5%AE%89%E8%A3%85)
 [vue-chartjs](https://vue-chartjs.org/guide/)
-[vue-echarts](https://vue-echarts.dev/)
+[vue-echarts option-> code 生成器](https://vue-echarts.dev/)
+vue3 文档[vue-echarts](https://github.com/ecomfe/vue-echarts/blob/main/README.zh-Hans.md)
+vue2 文档[vue-echarts](https://vue-echarts.github.io/)
 
 
 ## 🚀 核心思路
