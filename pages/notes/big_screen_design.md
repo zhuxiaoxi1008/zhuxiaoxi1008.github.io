@@ -5,12 +5,64 @@ github: [https://github.com/dddggg123/vue3-big-screen?tab=readme-ov-file](https:
 其他demo 
 [big-data-view](https://gitee.com/iGaoWei/big-data-view)
 
-组件库
+## VUE2 集成
 [DataV](http://datav.jiaminghi.com/guide/#%E5%AE%89%E8%A3%85)
 [vue-chartjs](https://vue-chartjs.org/guide/)
 [vue-echarts option-> code 生成器](https://vue-echarts.dev/)
-vue3 文档[vue-echarts](https://github.com/ecomfe/vue-echarts/blob/main/README.zh-Hans.md)
 vue2 文档[vue-echarts](https://vue-echarts.github.io/)
+
+---
+
+## VUE3集成
+[vue-echarts](https://github.com/ecomfe/vue-echarts/blob/main/README.zh-Hans.md)
+```
+npm install echarts vue-echarts
+
+<VChart class="chart" :option="option" />
+```
+
+[DATAV vue3](@kjgl77/datav-vue3)
+[DATAV VUE3 demo](https://datav-vue3.netlify.app/)
+```
+npm install @kjgl77/datav-vue3
+
+import DataVVue3 from '@kjgl77/datav-vue3'
+app.use(DataVVue3)
+```
+
+[tailwindcss 4](https://tailwindcss.com/docs/installation)
+```
+npm install tailwindcss @tailwindcss/vite
+
+
+import { defineConfig } from 'vite'
+import tailwindcss from '@tailwindcss/vite'
+export default defineConfig({
+  plugins: [
+    tailwindcss(),
+  ],
+})
+
+@import "tailwindcss";
+```
+
+[sass](https://sass-lang.com/guide/#variables)
+```
+npm install sass -D
+
+
+css: {
+    preprocessorOptions: {
+      scss: {
+		// 全局导入
+        additionalData: `@import "@/styles/variables.scss";`,
+        silenceDeprecations: ['import']
+      }
+    },
+  },
+```
+
+
 
 
 ## 🚀 核心思路
@@ -144,4 +196,3 @@ export default function windowResize() {
 		unWindowDraw,
 	};
 }
-```
