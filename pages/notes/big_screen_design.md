@@ -62,6 +62,9 @@ css: {
   },
 ```
 
+### 迁徙图
+[迁徙图](https://www.makeapie.cn/echarts_content/xYS-YtzOaf.html)
+
 
 
 
