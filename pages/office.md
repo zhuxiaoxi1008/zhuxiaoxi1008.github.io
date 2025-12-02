@@ -13,9 +13,10 @@
 - [Bootstrap 5](https://v5.bootcss.com/docs/getting-started/introduction/) Bootstrap 构建快速、响应式布局的网站
 - [naiveui](https://www.naiveui.com/zh-CN/light/docs/introduction) Naive UI 是一个 Vue3 的组件库。
 - [nestjs](https://nextjs.org/docs) 一个 React 的服务端渲染应用框架
-- [nuxtjs](https://www.nuxtjs.cn/) [英文官网](https://nuxtjs.org/) Nuxt.js 是一个基于 Vue.js 的框架，用于构建服务器端渲染的应用程序。
 - [Netlify]() 静态网站托管服务
 - [RevealJS](https://revealjs.com/) Reveal.js 是一个用于创建演示文稿的 JavaScript 库。
+- [nuxtjs](https://www.nuxtjs.cn/) [英文官网](https://nuxtjs.org/) Nuxt.js 是一个基于 Vue.js 的框架，用于构建服务器端渲染的应用程序。
+- [nuxtjs](https://nuxtjs.org.cn/docs/4.x/getting-started/introduction)
 
 # 官网地址
 - [Cordova](https://cordova.apache.org/) Cordova 官网 Cordova是一个开源的移动应用开发框架，使得开发者可以在不同的移动平台上
