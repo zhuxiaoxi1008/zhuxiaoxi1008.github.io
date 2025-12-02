@@ -15,8 +15,7 @@
 - [nestjs](https://nextjs.org/docs) 一个 React 的服务端渲染应用框架
 - [Netlify]() 静态网站托管服务
 - [RevealJS](https://revealjs.com/) Reveal.js 是一个用于创建演示文稿的 JavaScript 库。
-- [nuxtjs](https://www.nuxtjs.cn/) [英文官网](https://nuxtjs.org/) Nuxt.js 是一个基于 Vue.js 的框架，用于构建服务器端渲染的应用程序。
-- [nuxtjs](https://nuxtjs.org.cn/docs/4.x/getting-started/introduction)
+- [Nuxt.js 中文](https://nuxt.com.cn/) [英文](https://nuxt.com/)
 
 # 官网地址
 - [Cordova](https://cordova.apache.org/) Cordova 官网 Cordova是一个开源的移动应用开发框架，使得开发者可以在不同的移动平台上
@@ -60,10 +59,10 @@
 - [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
 - [菜鸟 css](https://www.runoob.com/cssref/css-selectors.html) 菜鸟 css api
 - [菜鸟 html](https://www.runoob.com/tags/tag-figcaption.html) 菜鸟 html api
-- [echarts](https://echarts.apache.org/examples/zh/index.html) ECharts 官网
-- [makeapie](https://www.makeapie.cn/) 折线图 makeapie
 
 ## 画图库
+- [makeapie](https://www.makeapie.cn/) 折线图 makeapie
+- [ECharts](https://echarts.apache.org/zh/index.html)
 - [Vue ECharts](https://vue-echarts.dev/)
 https://github.com/ecomfe/vue-echarts#readme
 
