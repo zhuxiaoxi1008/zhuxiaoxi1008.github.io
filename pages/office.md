@@ -63,8 +63,7 @@
 ## 画图库
 - [makeapie](https://www.makeapie.cn/) 折线图 makeapie
 - [ECharts](https://echarts.apache.org/zh/index.html)
-- [Vue ECharts](https://vue-echarts.dev/)
-https://github.com/ecomfe/vue-echarts#readme
+- [Vue ECharts](https://vue-echarts.dev/)https://github.com/ecomfe/vue-echarts#readme
 
 
 # react 相关
