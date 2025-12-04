@@ -15,6 +15,8 @@ vscode本身有内置js的代码提示,装一个JavaScript (ES6) code snippets�
 Vue - Official
 Vue Peek
 Vue VSCode Snippets
+### tailwind css 推荐插件
+Tailwind CSS IntelliSense
 ### React
 Simple React Snippets
 Typescript React code snippets
