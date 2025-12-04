@@ -15,7 +15,7 @@
 - [nestjs](https://nextjs.org/docs) 一个 React 的服务端渲染应用框架
 - [Netlify]() 静态网站托管服务
 - [RevealJS](https://revealjs.com/) Reveal.js 是一个用于创建演示文稿的 JavaScript 库。
-- [Nuxt.js 中文](https://nuxt.com.cn/) [英文](https://nuxt.com/)
+- [Nuxt.js 中文](https://nuxt.com.cn/) [英文](https://nuxt.com/) [Nuxtjs modules](https://nuxt.com/modules)
 
 # 官网地址
 - [Cordova](https://cordova.apache.org/) Cordova 官网 Cordova是一个开源的移动应用开发框架，使得开发者可以在不同的移动平台上
