@@ -16,11 +16,7 @@
 - [Netlify]() 静态网站托管服务
 - [RevealJS](https://revealjs.com/) Reveal.js 是一个用于创建演示文稿的 JavaScript 库。
 - [Nuxt.js 中文](https://nuxt.com.cn/) [英文](https://nuxt.com/) [Nuxtjs modules](https://nuxt.com/modules)
-- [tailwindcss for nuxtjs](https://tailwindcss.nuxtjs.org/)
-
-```
-当您通过 modules: ['@nuxtjs/tailwindcss'] 引入 Tailwind CSS 时，它会同时引入一个名为 Preflight 的样式集
-```
+- [nuxt/ui](https://ui.nuxt.com/docs/getting-started/installation/nuxt)
 
 # 官网地址
 - [Cordova](https://cordova.apache.org/) Cordova 官网 Cordova是一个开源的移动应用开发框架，使得开发者可以在不同的移动平台上
