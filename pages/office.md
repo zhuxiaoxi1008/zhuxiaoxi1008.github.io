@@ -11,6 +11,8 @@
 - [随机图片](https://picsum.photos/640/640?random=1)
 
 # 前端框架
+- [设计](https://www.uisdc.com/) uisdc 官网
+- [figma](https://www.figma.com/) [文档](https://www.uisdc.com/figma-complete-guide#)
 - [Vue](https://cn.vuejs.org/guide/introduction.html)
 - [Vueuse](https://vueuse.nodejs.cn/guide/)
 - [nuxt.js](https://nuxt.com/docs/4.x/directory-structure)

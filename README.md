@@ -1,6 +1,6 @@
 # 常用推荐
 
-
+- [kotlin](https://book.kotlincn.net/text/basic-syntax.html)
 
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
