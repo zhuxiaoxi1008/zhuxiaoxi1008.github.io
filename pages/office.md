@@ -6,6 +6,16 @@
 - [design](https://design.dev/)
 - [素材](https://www.meigong8.com/) 美工素材
 
+# 前端组件库
+- [icones](https://icones.js.org/) 图标库
+- [随机图片](https://picsum.photos/640/640?random=1)
+
+# 前端框架
+- [Vue](https://cn.vuejs.org/guide/introduction.html)
+- [Vueuse](https://vueuse.nodejs.cn/guide/)
+- [nuxt.js](https://nuxt.com/docs/4.x/directory-structure)
+- [nuxt.ui](https://ui.nuxt.com/docs/components/chat-palette)
+
 # 前端开发框架
 - [vuetifyjs](http://www.vuetifyjs.cn/) Vuetify 3版本 是一个无需设计技能的开源 UI 库，具有精美的手工制作的 Vue 组件。
 - [vuetifyjs - v2](https://v2.vuetifyjs.com/) Vuetify 2版本
