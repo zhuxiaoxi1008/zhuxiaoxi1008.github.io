@@ -1,11 +1,14 @@
 # 常用推荐
 
 - [kotlin](https://book.kotlincn.net/text/basic-syntax.html)
+- [gemini](https://gemini.google.com/)
+- [deepseek](https://chat.deepseek.com/)
+- [豆包](https://www.doubao.com/)
+- [kimi](https://kimi.moonshot.cn/) 
+- [秘塔](https://metaso.cn/)
 
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
-- [aistudio](https://aistudio.google.com/)
-- [gemini](https://gemini.google.com/)
 - [Google](https://www.google.com/)
 - [aistudio](https://aistudio.google.com/)
 - [金屋电子书](https://pdfs.top/)
@@ -33,10 +36,6 @@
 - [aistudio](https://aistudio.google.com/)
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
-- [deepseek](https://chat.deepseek.com/)
-- [豆包](https://www.doubao.com/)
-- [kimi](https://kimi.moonshot.cn/) 
-- [秘塔](https://metaso.cn/)
 - [文心一言](https://yiyan.baidu.com/)
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
