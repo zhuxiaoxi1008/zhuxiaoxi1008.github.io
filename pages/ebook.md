@@ -23,6 +23,7 @@
 - [浙江大学课程攻略共享计划](https://qsctech.github.io/zju-icicles/#_2)
 - [印大学书自动控制原理](https://mrce.in/ebooks/Feedback%20Control%20of%20Dynamic%20Systems%208th%20Ed.pdf)
 - [电子工业国外计算机教材丛书](https://github.com/apachecn/phei-cs-book)
+- [github dev book](https://github.com/daichangya/book/blob/master/android/%E7%96%AF%E7%8B%82Android%E8%AE%B2%E4%B9%89_%E6%9D%8E%E5%88%9A.pdf)
 
 
 # 前言
