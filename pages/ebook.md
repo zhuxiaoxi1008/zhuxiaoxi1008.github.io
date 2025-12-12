@@ -1,7 +1,6 @@
 # 书
 - [金屋电子书](https://pdfs.top/)
 - [鹿鸣川](https://lunarora.com/page/1)
-- [书葵网](https://www.shukui.net/)
 - [科学文库在线电子书](https://book.sciencereading.cn/)
 - [Z-Library](https://zh.z-lib.gd/) 
 - [鸠摩搜书](https://www.jiumodiary.com/)
