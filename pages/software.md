@@ -10,6 +10,7 @@
 - [轮播图](https://www.swiper.com.cn/) vue-awesome-swiper 封装工具
 - [vue-tour](https://pulsar.gitbooks.io/vue-tour/content/) vue-tour 用户指引
 - [vue 插件](https://madewith.cn/157) vue 插件库搜索
+- [floatingUi](https://floating-ui.com/) 
 
 
 # 在线工具
@@ -88,6 +89,7 @@
     React Native Tools
     JavaScript (ES6) code snippets
     Tailwind CSS IntelliSense
+    color-highlight
 ## Git 集成
     GitLens
     Git History
