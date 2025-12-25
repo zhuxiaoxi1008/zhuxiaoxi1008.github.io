@@ -2,6 +2,7 @@
 
 - [kotlin](https://book.kotlincn.net/text/basic-syntax.html)
 - [gemini](https://gemini.google.com/)
+- [grok](https://grok.com/)
 - [deepseek](https://chat.deepseek.com/)
 - [豆包](https://www.doubao.com/)
 - [kimi](https://kimi.moonshot.cn/) 
