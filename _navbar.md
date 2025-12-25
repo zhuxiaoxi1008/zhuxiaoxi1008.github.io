@@ -23,6 +23,6 @@
   * [mybatis](/pages/notes/mybatis.md)
   * [springboot 集成](/pages/notes/springboot.md)
   * [大屏设计](/pages/notes/big_screen_design.md)
-  * [github open source project](/pages/notes/gitbub_project.md)
+  * [开源github项目](/pages/notes/gitbub_project.md)
   * [ai 笔记](/pages/notes/ai-blog.md)
 
