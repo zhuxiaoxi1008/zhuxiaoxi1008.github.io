@@ -1,5 +1,6 @@
 # 常用推荐
 
+- [Google](https://www.google.com/)
 - [kotlin](https://book.kotlincn.net/text/basic-syntax.html)
 - [gemini](https://gemini.google.com/)
 - [grok](https://grok.com/)
@@ -9,8 +10,7 @@
 - [秘塔](https://metaso.cn/)
 
 ## 近期常用网站
-- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
-- [Google](https://www.google.com/)
+- [youtube](https://www.youtube.com/@yudou)
 - [aistudio](https://aistudio.google.com/)
 - [金屋电子书](https://pdfs.top/)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
