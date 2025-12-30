@@ -10,7 +10,7 @@
 - [秘塔](https://metaso.cn/)
 
 ## 近期常用网站
-- [youtube](https://www.youtube.com/@yudou)
+- [youtube](https://www.youtube.com/@yudou) [freeNodes](https://www.yudou789.top/)
 - [aistudio](https://aistudio.google.com/)
 - [金屋电子书](https://pdfs.top/)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
