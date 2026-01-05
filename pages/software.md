@@ -1,5 +1,9 @@
 
 
+## 常用软件工具
+  obsidian obsidian 笔记软件 
+  noteDiscovery 笔记软件
+
 # js 插件
 - [codeMirror](https://codemirror.net/docs/ref/) codeMirror代码编辑器
 - [chart.js](https://chartjs.cn/) chart.js 图表库

@@ -6,6 +6,9 @@
 - [design](https://design.dev/)
 - [素材](https://www.meigong8.com/) 美工素材
 
+# 库
+- [自定义主题](https://ui.shadcn.com/)
+
 # 前端组件库
 - [icones](https://icones.js.org/) 图标库
 - [随机图片](https://picsum.photos/640/640?random=1)
