@@ -8,6 +8,9 @@
 - [豆包](https://www.doubao.com/)
 - [kimi](https://kimi.moonshot.cn/) 
 - [秘塔](https://metaso.cn/)
+- [路透社](https://www.reuters.com/)
+- [AP_news](https://apnews.com/) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
+- [BBC](https://www.bbc.com/news) / [BBC 中文](https://www.bbc.com/zhongwen)
 
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [freeNodes](https://www.yudou789.top/)
