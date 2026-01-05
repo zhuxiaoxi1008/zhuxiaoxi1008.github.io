@@ -9,6 +9,9 @@
 # 库
 - [自定义主题](https://ui.shadcn.com/)
 
+# 编程语言
+- [Haskell](https://www.haskell.org/)
+
 # 前端组件库
 - [icones](https://icones.js.org/) 图标库
 - [随机图片](https://picsum.photos/640/640?random=1)
