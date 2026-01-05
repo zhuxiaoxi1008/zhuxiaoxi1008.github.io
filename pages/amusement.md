@@ -21,9 +21,11 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
+- [路透社](https://www.reuters.com/)
+- [AP_news](https://apnews.com/) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
+- [BBC](https://www.bbc.com/news) / [BBC 中文](https://www.bbc.com/zhongwen)
 - [布鲁盖尔研究所](https://www.bruegel.org/)
 - [英为财情](hk.investing.com)
-- [BBC News](http://www.bbc.com/news)
 - [VOA News](https://www.voanews.com/)
 - [光明日报](https://www.gmw.cn/)
 - [Google 新闻](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) 
@@ -40,7 +42,6 @@
 - [The Korea Times](https://www.koreatimes.co.kr/ )
 - [俄](https://www.rt.com/)
 - [美联社（Associated Press)](http://www.ap.org/)
-- [路透社（Reuters)](https://www.reuters.com/)
 - [法新社（Agence France-Presse, AFP)](http://www.afp.com/)
 - [英国广播公司（British Broadcasting Corporation, BBC)](https://www.bbc.com/)
 - [纽约时报（The New York Times)](https://www.nytimes.com/)
@@ -55,7 +56,6 @@
 - [The Wall Street Journal](https://www.wsj.com) - 美国一家报道商业和经济新闻的国际日报，以其深入的财经报道和分析而知名。
 - [The Guardian](https://www.theguardian.com) - 英国全国性综合报纸，以严肃、可信、独立著称，读者多是知识分子和年轻人。
 - [Bloomberg News](https://www.bloomberg.com) - 全球最大的财经资讯公司之一，提供全球经济和商业新闻。
-- [Associated Press](https://apnews.com) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
 - [Xinhua Net](http://www.xinhuanet.com/world/) - 新华网国际版块，提供中国和世界各地的新闻报道。
 - [美国商务部]( https://www.bis.doc.gov/) - 美国商务部下属的国际贸易局，提供国际贸易相关的新闻和信息。
 - [越南](https://cn.nhandan.vn/)
