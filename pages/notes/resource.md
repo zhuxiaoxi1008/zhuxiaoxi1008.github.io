@@ -1,0 +1,34 @@
+📚 电子书与阅读
+- [zlibrary](https://z-lib.is/) (请优先使用下方导航站)
+- [阅读指南](https://readzn.com/) (获取zlibrary可用地址和共享账号)
+- [易书](https://search.yibook.org/)
+- [古登堡计划](https://www.gutenberg.org/)
+- [鸠摩搜索](https://www.jiumodiary.com/)
+
+🎬 影音与娱乐
+- [Skyline](https://skylinewebcams.com/)
+- [tv.garden](https://tv.garden/)
+- [Radiocast](https://www.radiocast.io/)
+- [Tonzhon](https://tonzhon.com/)
+- [Retro Games](https://www.retrogames.cc/)
+- [SubHD](https://subhd.tv/)
+
+🧠 学习与知识
+- [DeepLearning.AI](https://www.deeplearning.ai/)
+- [备课网](https://www.bkewang.com/)
+- [学吧导航](https://www.xue8nav.com/)
+- [急救指南](https://www.firstaidguide.cn/)
+- [阿虚同学的储物间](https://axutongxue.com/)
+
+🔧 工具与搜索
+- [iFixit](https://www.ifixit.com/)
+- [DeepWiki](https://deepwiki.com/)
+- [虫部落快搜](https://search.chongbuluo.com/)
+- [大力盘](https://www.dalipan.com/)
+- [飞搜侠](https://www.feisoo.com/)
+- [办公资源网](https://www.bangongziyuan.com/)
+
+🎨 素材与资源
+- [Pixabay](https://pixabay.com/)
+- [100font](https://www.100font.com/)
+- [网盘资源搜索](https://www.wangpansou.cn/)
