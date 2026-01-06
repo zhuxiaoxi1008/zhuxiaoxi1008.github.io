@@ -26,4 +26,5 @@
   * [开源github项目](/pages/notes/gitbub_project.md)
   * [ai 笔记](/pages/notes/ai-blog.md)
   * [kotlin 笔记](/pages/notes/kotlin.md)]
+  * [game 笔记](/pages/notes/game.md)
 
