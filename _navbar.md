@@ -25,4 +25,5 @@
   * [大屏设计](/pages/notes/big_screen_design.md)
   * [开源github项目](/pages/notes/gitbub_project.md)
   * [ai 笔记](/pages/notes/ai-blog.md)
+  * [kotlin 笔记](/pages/notes/kotlin.md)]
 
