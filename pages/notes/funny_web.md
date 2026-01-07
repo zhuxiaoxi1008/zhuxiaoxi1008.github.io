@@ -5,16 +5,14 @@
 - [Radiocast](https://radiocast.co/) 全球实时广播电台 2
 - [tv.garden](https://famelack.com/)全球电视免费看频
 - [skyline](https://www.skylinewebcams.com/) 全球实时广播电台
-- [TV Garden](https://tv.garden/) - 3D地球仪界面随机观看全球各地免费直播电视频道，沉浸式体验无需注册  
 - [Squid TV](https://www.squidtv.net/) - 全球免费直播电视频道大全，按国家/语言/类型分类并提供节目表  
 - [Pluto TV](https://pluto.tv/) - 免费FAST线性电视平台，上百个主题频道包括电影、新闻、体育等广告支持  
-- [Tubi TV](https://tubitv.com/) - 免费观看电影、电视剧和部分直播频道，内容丰富类似广告版Netflix  
 - [TuneIn](https://tunein.com/) - 全球超过10万在线电台和播客，覆盖新闻、音乐、体育、脱口秀等  
-- [Radio Garden](http://radio.garden/) - 经典地球仪交互界面，点击国家/城市即时收听当地真实广播电台  
 - [云听](https://www.radio.cn/) - 央广系中文在线广播平台，新闻、音乐、相声、故事等电台最全免费听  
 - [铜钟音乐](https://tonzhon.com/) - 纯净无广告全网音乐聚合搜索，即搜即听支持网易/QQ/酷狗资源  
 - [种子音乐](https://zz123.com/) - 实时更新热歌榜、抖音神曲、DJ电音等排行榜，在线听歌和下载  
 - [九酷音乐](https://www.9ku.com/) - 老牌在线MP3音乐搜索站，提供试听和低音质下载，经典歌曲资源丰富
+- [Tubi TV](https://tubitv.com/) - 免费观看电影、电视剧和部分直播频道，内容丰富类似广告版Netflix  
 
 
 ## Game Site
