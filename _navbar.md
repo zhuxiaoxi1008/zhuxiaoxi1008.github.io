@@ -28,4 +28,5 @@
   * [kotlin 笔记](/pages/notes/kotlin.md)
   * [game 笔记](/pages/notes/game.md)
   * [其他资料](/pages/notes/resource.md "学习资料")
+  * [费曼学习法](/pages/notes/feiman.md "费曼学习法")
 
