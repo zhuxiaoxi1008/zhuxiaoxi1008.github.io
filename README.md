@@ -11,6 +11,7 @@
 - [路透社](https://www.reuters.com/)
 - [AP_news](https://apnews.com/) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
 - [BBC](https://www.bbc.com/news) / [BBC 中文](https://www.bbc.com/zhongwen)
+- [DeepWiki](https://deepwiki.com/) - 专注于深度学习、AI概念和技术文档的协作知识库
 
 ## 近期常用网站
 - [youtube](https://www.youtube.com/@yudou) [freeNodes](https://www.yudou789.top/)
