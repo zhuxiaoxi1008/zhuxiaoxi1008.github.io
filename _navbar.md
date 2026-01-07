@@ -10,6 +10,9 @@
   * [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)
   * [GitHub Docs](https://docs.github.com/en "github docs 文档")
 
+* 放空
+  * [休闲时间](/pages/notes/funny_web.md "freedome time") 
+
 * 学习笔记
   * [docsify](/pages/notes/docsify.md "docsify 学习笔记")
   * [docsify emjo natvie](/pages/notes/emoji.md)
