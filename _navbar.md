@@ -10,10 +10,9 @@
   * [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)
   * [GitHub Docs](https://docs.github.com/en "github docs 文档")
 
-* 放空
-  * [休闲时间](/pages/notes/funny_web.md "freedome time") 
-
 * 学习笔记
+  * [其他资料](/pages/notes/resource.md "学习资料")
+  * [kotlin 笔记](/pages/notes/kotlin.md)
   * [docsify](/pages/notes/docsify.md "docsify 学习笔记")
   * [docsify emjo natvie](/pages/notes/emoji.md)
   * [学习 笔记](/pages/notes/any-note.md)
@@ -28,8 +27,9 @@
   * [大屏设计](/pages/notes/big_screen_design.md)
   * [开源github项目](/pages/notes/gitbub_project.md)
   * [ai 笔记](/pages/notes/ai-blog.md)
-  * [kotlin 笔记](/pages/notes/kotlin.md)
   * [game 笔记](/pages/notes/game.md)
-  * [其他资料](/pages/notes/resource.md "学习资料")
   * [费曼学习法](/pages/notes/feiman.md "费曼学习法")
+  
+* 休闲时间
+  * [休闲时间](/pages/notes/funny_web.md "freedome time")   
 
