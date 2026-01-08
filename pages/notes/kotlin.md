@@ -31,21 +31,21 @@ https://github.com/VIPyinzhiwei/Eyepetizer
 
 4.lambda 表达式
     lambda 表达式是函数类型的一种特殊形式，它允许我们定义函数作为参数或返回值。
-    Lambda 表达式必须通过{}来包裹
     基本结构：Lambda 表达式必须通过 {} 来包裹
     完整语法：{ 参数1: 类型, 参数2: 类型 -> 函数体 }
     示例：val sum = { a: Int, b: Int -> a + b }
-关键特性
-    隐式参数 it：
+    如果Lambda声明了参数部分的类型，且返回值类型⽀持类型推导，那么Lambda变量就可以省
+略函数类型声明
 
-    当 Lambda 只有一个参数时，可以省略参数声明
-    使用 it 代替显式参数名
-    例如：list.filter { it > 0 } 代替 list.filter { value -> value > 0 }
-    单表达式简写：
+步骤,写法,简化点,推荐场景
+    1,{ it: Int -> println(it) },最完整，显式一切,教学、新手理解、复杂 lambda
+    2,{ it -> println(it) },省略参数类型,中间过渡
+    3,{ println(it) },使用默认 it,日常最常用
+    4,val p = { println(it) },省略函数类型声明,类型推断足够清晰时
+    5,val p = ::println,方法引用，极简,完全匹配已有函数时首选
 
-    当 Lambda 只包含一个表达式时，可以省略 -> 和 {}（仅适用于函数最后一个参数是 Lambda 的情况）
-    例如：list.forEach { println(it) }
-    尾随 Lambda 语法：
 
-    如果函数的最后一个参数是 Lambda，可以将 Lambda 放在括号外
-    例如：request { /* 网络请求配置 */ } 代替 request({ /* 网络请求配置 */ })
+1.单个参数的隐式名称  的使用条件：
+   - it 只能在有明确上下文的情况下使用
+   - 必须能够从上下文中推断出参数类型
+    
