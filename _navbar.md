@@ -11,6 +11,7 @@
   * [GitHub Docs](https://docs.github.com/en "github docs 文档")
 
 * 学习笔记
+  * [休闲时间](/pages/notes/funny_web.md "freedome time")   
   * [其他资料](/pages/notes/resource.md "学习资料")
   * [kotlin 笔记](/pages/notes/kotlin.md)
   * [docsify](/pages/notes/docsify.md "docsify 学习笔记")
@@ -29,7 +30,4 @@
   * [ai 笔记](/pages/notes/ai-blog.md)
   * [game 笔记](/pages/notes/game.md)
   * [费曼学习法](/pages/notes/feiman.md "费曼学习法")
-  
-* 休闲时间
-  * [休闲时间](/pages/notes/funny_web.md "freedome time")   
 
