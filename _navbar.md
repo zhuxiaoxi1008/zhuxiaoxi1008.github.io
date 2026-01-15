@@ -3,6 +3,7 @@
 * API 速查
   * [docsify 教程](https://docsify.js.org/#/quickstart)
   * [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)
+  * [emjoi](https://gist.github.com/rxaviers/7360908 "emoji 表情")]
   * [GitHub Docs](https://docs.github.com/en "github docs 文档")
 
 * 学习笔记
