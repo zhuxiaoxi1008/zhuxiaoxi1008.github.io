@@ -76,25 +76,25 @@ WebSocket / SSE（不严格受同源限制）
 ```javascript
 
 // 防抖（最后一次执行）
-function debounce(fn, delay = 300) {
-  let timer = null;
-  return function (...args) {
-    clearTimeout(timer);
-    timer = setTimeout(() => fn.apply(this, args), delay);
-  };
-}
+  function debounce(fn, delay = 300) {
+    let timer = null;
+    return function (...args) {
+      clearTimeout(timer);
+      timer = setTimeout(() => fn.apply(this, args), delay);
+    };
+  }
 
-// 节流（固定时间间隔）
-function throttle(fn, delay = 300) {
-  let last = 0;
-  return function (...args) {
-    const now = Date.now();
-    if (now - last >= delay) {
-      fn.apply(this, args);
-      last = now;
-    }
-  };
-}
+  // 节流（固定时间间隔）
+  function throttle(fn, delay = 300) {
+    let last = 0;
+    return function (...args) {
+      const now = Date.now();
+      if (now - last >= delay) {
+        fn.apply(this, args);
+        last = now;
+      }
+    };
+  }
 
 ```
 
