@@ -74,6 +74,7 @@ WebSocket / SSE（不严格受同源限制）
 中高级面试题
 1. 手写防抖/节流函数（至少两种实现）
 ```javascript
+
 // 防抖（最后一次执行）
 function debounce(fn, delay = 300) {
   let timer = null;
@@ -94,6 +95,7 @@ function throttle(fn, delay = 300) {
     }
   };
 }
+
 ```
 
 2. HTTPS 握手过程（详细点）
