@@ -84,7 +84,9 @@ function debounce(fn, delay = 300) {
         timer = setTimeout(() => fn.apply(this, args), delay);
     };
 }
+```
 
+```
 // 节流（固定时间间隔）
 function throttle(fn, delay = 300) {
     let last = 0;
