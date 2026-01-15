@@ -17,7 +17,7 @@ Vue2：Object.defineProperty，深度遍历、无法侦测新增/删除属性、
 Vue3：Proxy + Reflect，直接代理整个对象，支持新增/删除、Map/Set/WeakMap，更高效
 额外：Composition API、更小的打包体积、Teleport、Fragment、Suspense
 
-加分点：说说 ref / reactive 区别、effectScope、<script setup> 语法糖。
+加分点：说说 ref / reactive 区别、effectScope、script setup 语法糖。
 
 3. Vue 组件间通信有哪些方式？（至少说 6 种）
 常见回答：
