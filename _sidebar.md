@@ -10,4 +10,4 @@
 - [:robot:AI](pages/ai.md '人工智能学习资料')
 - [:apple:工作资料](pages/work.md '工作资料')
 - [:mag_right:查数据网站](pages/data.md '数据网站')
-- [:book:面试](pages/jobInterview.md '积少成多')
+- [:rice:面试](pages/jobInterview.md '积少成多')
