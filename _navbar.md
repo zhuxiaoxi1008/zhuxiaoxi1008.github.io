@@ -21,13 +21,10 @@
   * [ai reference](/pages/notes/ai-reference.md)
   * [mybatis](/pages/notes/mybatis.md)
   * [springboot 集成](/pages/notes/springboot.md)
-<<<<<<< HEAD
   * [python learn](/pages/notes/python.md)
-=======
   * [大屏设计](/pages/notes/big_screen_design.md)
   * [开源github项目](/pages/notes/gitbub_project.md)
   * [ai 笔记](/pages/notes/ai-blog.md)
   * [game 笔记](/pages/notes/game.md)
   * [费曼学习法](/pages/notes/feiman.md "费曼学习法")
->>>>>>> 4a41d1c93b84781016ac2a951d021c7e3b69f4c4
 
