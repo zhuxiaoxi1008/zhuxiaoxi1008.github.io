@@ -1,19 +1,18 @@
-<!-- _navbar.md -->
-
-<!-- _navbar.md -->
 * [:house:](/)
 
 * API 速查
   * [docsify 教程](https://docsify.js.org/#/quickstart)
-  <!-- * [docsify emjo](https://docsify.js.org/#/emoji?id=emoji) -->
-  <!-- * [🐺 emojicopy 查询](https://emojicopy.com/) -->
   * [Markdown 速查表](https://markdown.com.cn/cheat-sheet.html)
+  * [emjoi](https://gist.github.com/rxaviers/7360908 "emoji 表情")
   * [GitHub Docs](https://docs.github.com/en "github docs 文档")
 
 * 学习笔记
+  * [休闲时间](/pages/notes/funny_web.md "freedome time")   
+  * [其他资料](/pages/notes/resource.md "学习资料")
+  * [kotlin 笔记](/pages/notes/kotlin.md)
   * [docsify](/pages/notes/docsify.md "docsify 学习笔记")
   * [docsify emjo natvie](/pages/notes/emoji.md)
-  * [AI 笔记](/pages/notes/ai-note.md)
+  * [学习 笔记](/pages/notes/any-note.md)
   * [wsl 笔记](/pages/notes/wsl-note.md)
   * [设计模式](/pages/notes/design-pattern.md)
   * [react-native](/pages/notes/react-native.md)
@@ -22,5 +21,13 @@
   * [ai reference](/pages/notes/ai-reference.md)
   * [mybatis](/pages/notes/mybatis.md)
   * [springboot 集成](/pages/notes/springboot.md)
+<<<<<<< HEAD
   * [python learn](/pages/notes/python.md)
+=======
+  * [大屏设计](/pages/notes/big_screen_design.md)
+  * [开源github项目](/pages/notes/gitbub_project.md)
+  * [ai 笔记](/pages/notes/ai-blog.md)
+  * [game 笔记](/pages/notes/game.md)
+  * [费曼学习法](/pages/notes/feiman.md "费曼学习法")
+>>>>>>> 4a41d1c93b84781016ac2a951d021c7e3b69f4c4
 

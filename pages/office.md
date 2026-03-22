@@ -6,6 +6,24 @@
 - [design](https://design.dev/)
 - [素材](https://www.meigong8.com/) 美工素材
 
+# 库
+- [自定义主题](https://ui.shadcn.com/)
+
+# 编程语言
+- [Haskell](https://www.haskell.org/)
+
+# 前端组件库
+- [icones](https://icones.js.org/) 图标库
+- [随机图片](https://picsum.photos/640/640?random=1)
+
+# 前端框架
+- [设计](https://www.uisdc.com/) uisdc 官网
+- [figma](https://www.figma.com/) [文档](https://www.uisdc.com/figma-complete-guide#)
+- [Vue](https://cn.vuejs.org/guide/introduction.html)
+- [Vueuse](https://vueuse.nodejs.cn/guide/)
+- [nuxt.js](https://nuxt.com/docs/4.x/directory-structure)
+- [nuxt.ui](https://ui.nuxt.com/docs/components/chat-palette)
+
 # 前端开发框架
 - [vuetifyjs](http://www.vuetifyjs.cn/) Vuetify 3版本 是一个无需设计技能的开源 UI 库，具有精美的手工制作的 Vue 组件。
 - [vuetifyjs - v2](https://v2.vuetifyjs.com/) Vuetify 2版本
@@ -13,9 +31,10 @@
 - [Bootstrap 5](https://v5.bootcss.com/docs/getting-started/introduction/) Bootstrap 构建快速、响应式布局的网站
 - [naiveui](https://www.naiveui.com/zh-CN/light/docs/introduction) Naive UI 是一个 Vue3 的组件库。
 - [nestjs](https://nextjs.org/docs) 一个 React 的服务端渲染应用框架
-- [nuxtjs](https://www.nuxtjs.cn/) [英文官网](https://nuxtjs.org/) Nuxt.js 是一个基于 Vue.js 的框架，用于构建服务器端渲染的应用程序。
 - [Netlify]() 静态网站托管服务
 - [RevealJS](https://revealjs.com/) Reveal.js 是一个用于创建演示文稿的 JavaScript 库。
+- [Nuxt.js 中文](https://nuxt.com.cn/) [英文](https://nuxt.com/) [Nuxtjs modules](https://nuxt.com/modules)
+- [nuxt/ui](https://ui.nuxt.com/docs/getting-started/installation/nuxt)
 
 # 官网地址
 - [Cordova](https://cordova.apache.org/) Cordova 官网 Cordova是一个开源的移动应用开发框架，使得开发者可以在不同的移动平台上
@@ -59,12 +78,11 @@
 - [W3Schools CSS 教程](https://www.w3schools.com/css/) - 提供关于 CSS 和其他 Web 技术的详细教程、参考手册和示例。
 - [菜鸟 css](https://www.runoob.com/cssref/css-selectors.html) 菜鸟 css api
 - [菜鸟 html](https://www.runoob.com/tags/tag-figcaption.html) 菜鸟 html api
-- [echarts](https://echarts.apache.org/examples/zh/index.html) ECharts 官网
-- [makeapie](https://www.makeapie.cn/) 折线图 makeapie
 
 ## 画图库
-- [Vue ECharts](https://vue-echarts.dev/)
-https://github.com/ecomfe/vue-echarts#readme
+- [makeapie](https://www.makeapie.cn/) 折线图 makeapie
+- [ECharts](https://echarts.apache.org/zh/index.html)
+- [Vue ECharts](https://vue-echarts.dev/)https://github.com/ecomfe/vue-echarts#readme
 
 
 # react 相关

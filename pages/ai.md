@@ -27,3 +27,11 @@ D --> D1[GDScript]
 D --> D2[C#]
 E --> E1[.pck资源包]
 ```
+
+## Huggin face account
+xiaoxi.zhu@iecube.com.cn
+pwd: X********.**866
+
+https://beta.megamoyo.cn/
+用户名：张小龙
+密码： OdPuxQKQp/YM+Wgg

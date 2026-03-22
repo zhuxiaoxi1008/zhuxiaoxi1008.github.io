@@ -1,8 +1,21 @@
 # 常用推荐
 
+- [Google](https://www.google.com/)
+- [kotlin](https://book.kotlincn.net/text/basic-syntax.html)
+- [gemini](https://gemini.google.com/)
+- [grok](https://grok.com/)
+- [deepseek](https://chat.deepseek.com/)
+- [豆包](https://www.doubao.com/)
+- [kimi](https://kimi.moonshot.cn/) 
+- [秘塔](https://metaso.cn/)
+- [路透社](https://www.reuters.com/)
+- [AP_news](https://apnews.com/) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
+- [BBC](https://www.bbc.com/news) / [BBC 中文](https://www.bbc.com/zhongwen)
+- [DeepWiki](https://deepwiki.com/) - 专注于深度学习、AI概念和技术文档的协作知识库
+
 ## 近期常用网站
-- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
-- [Google](https://www.google.com/) 
+- [youtube](https://www.youtube.com/@yudou) [freeNodes](https://www.yudou789.top/)
+- [aistudio](https://aistudio.google.com/)
 - [金屋电子书](https://pdfs.top/)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [springboot](https://www.chaojimake.cn/question_1_138.html)
@@ -21,14 +34,13 @@
 - [白菜](https://cmsblogs.cn/?cat=&s=Kubernetes)
 - [台词](https://www.taicishe.com/)
 - [古登堡计划](https://www.gutenberg.org/)
+- [自动控制系统](https://book.sciencereading.cn/shop/book/Booksimple/onlineRead.do?id=B803FC0277E287629E053010B0A0AD4D5000&bookPageNum=4)
 
 ## AI
+- [gemini](https://gemini.google.com/)
+- [aistudio](https://aistudio.google.com/)
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
-- [deepseek](https://chat.deepseek.com/)
-- [豆包](https://www.doubao.com/)
-- [kimi](https://kimi.moonshot.cn/) 
-- [秘塔](https://metaso.cn/)
 - [文心一言](https://yiyan.baidu.com/)
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
@@ -54,6 +66,7 @@
 - [GitHub Learning Lab](https://lab.github.com) - GitHub 提供的互动式 Git 和 GitHub 教程。
 - [freeCodeCamp](https://www.freecodecamp.org) - 免费的编程课程和项目实践平台。
 - [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 让您轻松地了解所有与重构、设计模式
+- [markdown](https://markdown.com.cn/cheat-sheet.html) - Markdown 语法参考。
 
 ## 文档社区
 - [掘金](https://juejin.cn/) 
