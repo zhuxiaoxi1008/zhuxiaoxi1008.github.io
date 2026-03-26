@@ -1,7 +1,7 @@
 # 常用推荐
 
 ## 近期常用网站
-- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou6677.top/)
+- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou789.top/)
 - [小青科学网](https://www.youtube.com/@XQKXW)
 - [Google](https://www.google.com/) 
 - [金屋电子书](https://pdfs.top/)
