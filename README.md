@@ -1,6 +1,7 @@
 # 常用推荐
 
 ## 近期常用网站
+- [生产力](https://idx.google.com/)
 - [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou789.top/)
 - [小青科学网](https://www.youtube.com/@XQKXW)
 - [Google](https://www.google.com/) 
