@@ -1,4 +1,9 @@
 # Docker 安装
+国内地址 https://docker.aityp.com/s/docker.io
+
+
+
+
 ```
 https://www.jb51.net/server/326814ypd.htm
 VM 配置网络NET 模式
