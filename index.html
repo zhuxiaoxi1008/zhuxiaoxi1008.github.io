@@ -11,6 +11,11 @@
 
   <link rel="shortcut icon" href="_media/favicon.ico">
   
+  
+  <script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+  </script>
 </head>
 <body>
   <div data-app id="main">Please wait...</div>
@@ -31,6 +36,17 @@
       repo: '',
       notFoundPage: 'my404.md',
       repo: 'https://github.com/zhuxiaoxi1008/zhuxiaoxi1008.github.io',
+      
+      markdown: {
+        renderer: {
+          code: function (code, lang) {
+            if (lang === 'mermaid') {
+              return '<div class="mermaid">' + code + '</div>';
+            }
+            return this.origin.code.apply(this, arguments);
+          }
+        }
+      }
     }
   </script>
   <!-- Docsify v4 -->

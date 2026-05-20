@@ -1,4 +1,12 @@
+
+
+## 常用软件工具
+  obsidian obsidian 笔记软件 
+  noteDiscovery 笔记软件
+
 # js 插件
+- [codeMirror](https://codemirror.net/docs/ref/) codeMirror代码编辑器
+- [chart.js](https://chartjs.cn/) chart.js 图表库
 - [xicon](https://xicons.org/#/zh-CN)   图标库
 - [fontawesome](https://fontawesome.com.cn/) fontawesome 图标库
 - [Ant Design of Vue](https://www.antdv.com/docs/vue/introduce-cn) Ant Design of Vue 的官方文档
@@ -6,15 +14,16 @@
 - [轮播图](https://www.swiper.com.cn/) vue-awesome-swiper 封装工具
 - [vue-tour](https://pulsar.gitbooks.io/vue-tour/content/) vue-tour 用户指引
 - [vue 插件](https://madewith.cn/157) vue 插件库搜索
+- [floatingUi](https://floating-ui.com/) 
 
 
 # 在线工具
-
 - [Vector Magic](https://vectormagic.com/) png 2 svg    
 - [png-ico](https://cdkm.com/cn/png-to-ico) png 转ico
 - [pdf 编辑](https://smallpdf.com/cn/edit-pdf)pdf 编辑
 
 # 软件
+- [ideaJ](https://www.jetbrains.com/zh-cn/idea/download/other.html) ideaJ 下载地址
 - [nvm](https://github.com/coreybutler/nvm-windows/releases) nvm 下载地址
 - [choco](https://community.chocolatey.org/) choco 包管理工具 
 - [andorid studio](https://developer.android.com/studio?hl=zh-cn) android studio 下载地址
@@ -84,6 +93,7 @@
     React Native Tools
     JavaScript (ES6) code snippets
     Tailwind CSS IntelliSense
+    color-highlight
 ## Git 集成
     GitLens
     Git History

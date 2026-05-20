@@ -8,6 +8,7 @@
 
     2 CTRL + SHIFT + A --> 查找Registry
     勾选  compiler.automake.allow.when.app.running
+    （或者 File -> settings -> Advanced Settings  搜索 allow 勾选上）
 
     3 pom.xml加入springboot开发者包
 

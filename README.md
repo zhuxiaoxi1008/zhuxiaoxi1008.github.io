@@ -1,40 +1,38 @@
 # 常用推荐
 
 ## 近期常用网站
-- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou66.cc)
+- [ai_build](https://aistudio.google.com/apps) [new_chart](https://aistudio.google.com/prompts/new_chat)
+- [生产力](https://idx.google.com/)
+- [youtube](https://www.youtube.com/@yudou) [yudou freenode](https://www.yudou789.top/)
+- [小青科学网](https://www.youtube.com/@XQKXW)
+- [Google](https://www.google.com/) 
+- [金屋电子书](https://pdfs.top/)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
-- [deepseek](https://chat.deepseek.com/)
-- [豆包](https://www.doubao.com/)
-- [Fine report](https://www.fanruan.com/finereport/success?key=6eae3841-ac321eef3-313c-66e66cc60721) 
-- [Fine report 文档](https://help.fanruan.com/finereport/)
-- [fine local](http://localhost:8075/webroot/decision#?activeTab=171aa67f-f564-4812-a43e-c951a0add595)
-- [面试题](https://www.chaojimake.cn/question_17_297.html/p4)
 - [springboot](https://www.chaojimake.cn/question_1_138.html)
 - [MDN](https://developer.mozilla.org/zh-CN/)
 - [JAVA API](https://www.matools.com/api/java8)
 - [在线工具](https://www.matools.com/)
-
-## 找工作
-- [BOSS 直聘](https://www.zhipin.com/)
-- [拉勾](https://www.lagou.com/)
-- [智联招聘](https://www.zhaopin.com/)
-- [前程无忧](https://www.51job.com/)
-- [猎聘](https://www.liepin.com/)
-- [AWS](https://mytodo.vip/)
+- [网络安全](https://www.freebuf.com/)
+- [布鲁盖尔研究所](https://www.bruegel.org/)
+- [英为财情](hk.investing.com)
+- [维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)
 
 ## 读书
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
 - [文档](https://github.com/itzhanglg/java-notes/tree/master/docs/highConcurrency/redis)
 - [码农电子书](https://www.manongbook.com/)
+- [白菜](https://cmsblogs.cn/?cat=&s=Kubernetes)
+- [台词](https://www.taicishe.com/)
+- [古登堡计划](https://www.gutenberg.org/)
 
 ## AI
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
+- [deepseek](https://chat.deepseek.com/)
 - [豆包](https://www.doubao.com/)
 - [kimi](https://kimi.moonshot.cn/) 
-- [秘塔](https://metaso.cn/)  
+- [秘塔](https://metaso.cn/)
 - [文心一言](https://yiyan.baidu.com/)
-- [Google](https://www.google.com/) 
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
 - [面试刷题](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=196&rp=1&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)
@@ -58,7 +56,7 @@
 - [W3Schools](https://www.w3schools.com) - 提供详细的 HTML、CSS、JavaScript 等 Web 技术教程和实例。
 - [GitHub Learning Lab](https://lab.github.com) - GitHub 提供的互动式 Git 和 GitHub 教程。
 - [freeCodeCamp](https://www.freecodecamp.org) - 免费的编程课程和项目实践平台。
-- [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 让您轻松地了解所有与重构、设计模式、SOLID 原则以及其他智能编程主题相关的知识。
+- [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 让您轻松地了解所有与重构、设计模式
 
 ## 文档社区
 - [掘金](https://juejin.cn/) 
@@ -78,16 +76,6 @@
 - [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/) 
 - [10web](https://10web.io/blog/)
 
-## 搜索
-- [百度](https://www.baidu.com/) 
-- [抖音搜索](https://www.douyin.com/search)
-- [俄罗斯:Yandex:](https://yandex.com) 
-- [韩国:Naver:](https://www.naver.com) 
-- [日本:Yahoo](https://www.yahoo.co.jp) 
-- [捷克:Seznam:](https://www.seznam.cz) 
-- [法国:Qwant:](https://www.qwant.com) 
-- [德国:Ecosia:](https://www.ecosia.org) 
-- [印度:Bing:](https://www.bing.com)
 
 
 

@@ -2,6 +2,18 @@
 <!-- docsify-ignore -->
 学习笔记
 
+# docsify
+[docsify](https://docsify.js.org/#/zh-cn/quickstart)
+
+# docsify 安装
+```
+// 安装
+npm i docsify-cli -g
+
+// 初始化
+docsify init ./docs
+```
+
 # docsify 快速开始
 
 ```
