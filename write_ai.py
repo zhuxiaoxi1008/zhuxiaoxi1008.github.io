@@ -1,4 +1,7 @@
-# GitHub 发现热门项目指南
+# -*- coding: utf-8 -*-
+import os
+
+content = r"""# GitHub 发现热门项目指南
 
 ## 快捷入口
 
@@ -137,3 +140,9 @@ https://github.com/trending/python?since=weekly
 ---
 
 *基于 GitHub 官方文档整理，更新于 2026 年 5 月*
+"""
+
+filepath = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'pages', 'ai.md')
+with open(filepath, 'w', encoding='utf-8') as f:
+    f.write(content)
+print(f'Written to {filepath}')
