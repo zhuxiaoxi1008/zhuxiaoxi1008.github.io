@@ -6,13 +6,9 @@
   * [emjoi](https://gist.github.com/rxaviers/7360908 "emoji 表情")
   * [GitHub Docs](https://docs.github.com/en "github docs 文档")
 
-* AI 笔记
-  * [mcp 笔记](/pages/notes/mcp.md)
-
 * 学习笔记
+  * [ai 笔记](/pages/notes/mcp.md)
   * [OAuth 2.0](/pages/notes/auth2.0.md)
-
-* 学习笔记
   * [休闲时间](/pages/notes/funny_web.md "freedome time")   
   * [其他资料](/pages/notes/resource.md "学习资料")
   * [kotlin 笔记](/pages/notes/kotlin.md)
