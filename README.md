@@ -18,7 +18,7 @@
 - [文心一言](https://yiyan.baidu.com/)
 
 ## 近期常用网站
-- [youtube](https://www.youtube.com)  **[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
+- [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
 - [小青科学网](https://www.youtube.com/@XQKXW)
 - [Google](https://www.google.com/) 
