@@ -1,3 +1,10 @@
+## LangChain LLM
+- [langchain 文档](https://langchain-doc.cn/v1/python/langchain/quickstart.html)
+
+langchain
+dify
+flowise
+
 ## github 资料
 https://github.com/fighting41love/funNLP
 
