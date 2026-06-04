@@ -1,7 +1,10 @@
 # 常用推荐
 
 ## AI工具
+- [claude](https://claude.ai/new)
 - [豆包](https://www.doubao.com/)
+- [grok](https://grok.com/)
+- [chatgpt](https://chatgpt.com/)
 - [deepseek](https://chat.deepseek.com/sign_in)
 - [kimi](https://www.kimi.com/)
 - [metaso](https://metaso.cn/)
@@ -9,14 +12,12 @@
 - [openrouter](https://openrouter.ai/fusion/2)
 - [groq](https://console.groq.com/playground?model=qwen/qwen3-32b)
 - [claude](https://claude.ai/chat/)
-- [chatgpt](https://chatgpt.com/)
 - [gemini](https://gemini.google.com/)
-- 
-
-## 近期常用网站
-- [claude](https://claude.ai/new)
 - [ai_build](https://aistudio.google.com/apps) [new_chart](https://aistudio.google.com/prompts/new_chat)
 - [生产力](https://idx.google.com/)
+- [文心一言](https://yiyan.baidu.com/)
+
+## 近期常用网站
 - [youtube](https://www.youtube.com)  **[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
 - [小青科学网](https://www.youtube.com/@XQKXW)
@@ -43,11 +44,6 @@
 ## AI
 - [AI 工具推荐](https://openi.cn/) 
 - [biemoyu ai 工具](https://biemoyu.com/)
-- [deepseek](https://chat.deepseek.com/)
-- [豆包](https://www.doubao.com/)
-- [kimi](https://kimi.moonshot.cn/) 
-- [秘塔](https://metaso.cn/)
-- [文心一言](https://yiyan.baidu.com/)
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
 - [面试刷题](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=196&rp=1&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)
