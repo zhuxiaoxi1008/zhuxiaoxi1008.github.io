@@ -1,5 +1,18 @@
 # 常用推荐
 
+## AI工具
+- [豆包](https://www.doubao.com/)
+- [deepseek](https://chat.deepseek.com/sign_in)
+- [kimi](https://www.kimi.com/)
+- [metaso](https://metaso.cn/)
+- [mistral](https://chat.mistral.ai/chat)
+- [openrouter](https://openrouter.ai/fusion/2)
+- [groq](https://console.groq.com/playground?model=qwen/qwen3-32b)
+- [claude](https://claude.ai/chat/)
+- [chatgpt](https://chatgpt.com/)
+- [gemini](https://gemini.google.com/)
+- 
+
 ## 近期常用网站
 - [claude](https://claude.ai/new)
 - [ai_build](https://aistudio.google.com/apps) [new_chart](https://aistudio.google.com/prompts/new_chat)
