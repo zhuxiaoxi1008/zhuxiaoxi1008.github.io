@@ -1,3 +1,56 @@
+# 移动端 UI 设计资源汇总
+
+> 本文整理了移动端开发中实用的 UI 灵感、组件库、图标库和插画库等免费资源，助力高效设计与开发。
+
+---
+
+## 🎨 灵感 & 设计系统
+
+| 名称 | 简介 | 地址 |
+| :--- | :--- | :--- |
+| Mobbin | 海量真实上架 App 的界面截图库，支持精细筛选（平台、设计模式等），设计灵感必备。 | [mobbin.com](https://mobbin.com/) |
+| Awesome Shadcn UI | 包含组件库、模板等 13 个类别的资源合集，适合基于 Shadcn UI 快速开发的团队。 | [shadcn.io/template/birobirobiro-awesome-shadcn-ui](https://www.shadcn.io/template/birobirobiro-awesome-shadcn-ui) |
+
+---
+
+## 🧩 免费 UI 组件库
+
+| 名称 | 简介 | 地址 |
+| :--- | :--- | :--- |
+| uView Pro | 专为 uni-app Vue3 生态打造的 UI 框架，70+ 组件开箱即用，国内生态完善。 | [uviewpro.cn](https://uviewpro.cn/) / [GitHub](https://github.com/anyup/uView-Pro) |
+| Vant Mobile | 轻量、可靠的移动端组件库，60+ 高可用组件，社区成熟稳定，适合电商类应用。 | [vant-ui.github.io/vant](https://vant-ui.github.io/vant/) |
+| Touch UI | 基于 Vue.js 的移动端 UI 组件库，提供上百种组件，适合 WebApp 和微信公众号开发。 | [GitHub](https://github.com/uileo/touchui)（原官网已迁移） |
+
+---
+
+## ✨ 精美图标库
+
+| 名称 | 简介 | 地址 |
+| :--- | :--- | :--- |
+| Lucide | 社区驱动的热门开源图标库，2000+ 统一风格的极简 SVG 图标，支持树摇优化。 | [lucide.dev](https://lucide.dev/) |
+| Ionicons | 1300+ 原生风格图标，同时提供 iOS 和 Material Design 两种风格，适合跨平台项目。 | [ionic.io/ionicons](https://ionic.io/ionicons) |
+| Zappicon | 2000+ 免费图标（400+ 基础图标 × 5 种样式），统一尺寸网格，视觉风格高度一致。 | [ui8.net/zappicon](https://ui8.net/zappicon) 或 Figma Community 搜索 “Zappicon” |
+
+---
+
+## 🎭 插画库
+
+| 名称 | 简介 | 地址 |
+| :--- | :--- | :--- |
+| unDraw | 开源 SVG 插图库，支持在线自定义主色，可免费商用。 | [undraw.co/illustrations](https://undraw.co/illustrations) |
+| CocoMaterial | 3000+ 开源手绘风格插图，支持自定义颜色和多格式下载。 | [cocomaterial.com](https://cocomaterial.com/) |
+| illlustrations | 120+ 高质量开源插画，支持 AI、SVG、PNG、EPS 和 Figma 格式。 | [illlustrations.co](https://illlustrations.co/) |
+
+---
+
+## 💡 使用建议
+
+- **uni-app 开发者**：优先选用 **uView Pro**，深度适配 Vue3 生态。
+- **React 技术栈**：**Ant Design Mobile** 或 **Vant** 都是极佳选择。
+- **图标需求**：**Lucide** 支持按需加载，性能友好；**Ionicons** 提供多风格适配。
+- **插画定制**：**unDraw** 可在线换色，快速匹配品牌视觉。
+
+
 # 前端好逛的网站
 - [Can I use](https://caniuse.com/) Can I use - Web 技术兼容性查询
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。

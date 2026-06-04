@@ -12,6 +12,11 @@ docker search docker.1ms.run/nginx    ### 搜索镜像前要加一个前缀
 https://www.mliev.com/docs/1ms.run/config-mirror/Windows/Mac  ### 1ms.run 镜像加速
 
 # Docker 安装
+国内地址 https://docker.aityp.com/s/docker.io
+
+
+
+
 ```
 https://www.jb51.net/server/326814ypd.htm
 VM 配置网络NET 模式
