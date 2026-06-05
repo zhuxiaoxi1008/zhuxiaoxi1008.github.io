@@ -1,5 +1,33 @@
 # 常用推荐
 
+## 近期常用网站
+- [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
+- [spotify](https://open.spotify.com/)
+
+## **10大翻墙宝藏网站**
+- [Snopes](https://www.snopes.com) 终极辟谣神器，查证网络谣言与阴谋论真假
+- [Wikipedia（英文版）](https://en.wikipedia.org) 内容更全面、更客观的中立知识百科
+- [Foreign Affairs](https://www.foreignaffairs.com) 国际政治与地缘战略顶级评论杂志
+- [Brookings Institution](https://www.brookings.edu) 全球顶级智库，提供高质量PDF研究报告
+- [Open Yale Courses](https://oyc.yale.edu) 耶鲁大学免费公开课（视频+字幕）
+- [Khan Academy](https://www.khanacademy.org) 游戏化免费在线教育平台（数学、编程、经济等）
+- [Project Gutenberg](https://www.gutenberg.org) 海量免费无删减经典电子书
+- [Internet Archive](https://archive.org) Wayback Machine + 借阅绝版书与历史档案
+- [Pixabay](https://pixabay.com) 海量高清无版权图片、视频、音频素材（商业可用）
+- [Pexels](https://www.pexels.com) 高质量免费图片与视频素材库
+- [小青科学网](https://www.youtube.com/@XQKXW)
+- [Google](https://www.google.com/) 
+- [金屋电子书](https://pdfs.top/)
+- [印象笔记](https://app.yinxiang.com/Home.action?login=true)
+- [springboot](https://www.chaojimake.cn/question_1_138.html)
+- [MDN](https://developer.mozilla.org/zh-CN/)
+- [JAVA API](https://www.matools.com/api/java8)
+- [在线工具](https://www.matools.com/)
+- [网络安全](https://www.freebuf.com/)
+- [布鲁盖尔研究所](https://www.bruegel.org/)
+- [英为财情](hk.investing.com)
+- [维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)
+
 ## AI工具
 - [claude](https://claude.ai/new)
 - [豆包](https://www.doubao.com/)
@@ -16,22 +44,6 @@
 - [ai_build](https://aistudio.google.com/apps) [new_chart](https://aistudio.google.com/prompts/new_chat)
 - [生产力](https://idx.google.com/)
 - [文心一言](https://yiyan.baidu.com/)
-
-## 近期常用网站
-- [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
-- [spotify](https://open.spotify.com/)
-- [小青科学网](https://www.youtube.com/@XQKXW)
-- [Google](https://www.google.com/) 
-- [金屋电子书](https://pdfs.top/)
-- [印象笔记](https://app.yinxiang.com/Home.action?login=true)
-- [springboot](https://www.chaojimake.cn/question_1_138.html)
-- [MDN](https://developer.mozilla.org/zh-CN/)
-- [JAVA API](https://www.matools.com/api/java8)
-- [在线工具](https://www.matools.com/)
-- [网络安全](https://www.freebuf.com/)
-- [布鲁盖尔研究所](https://www.bruegel.org/)
-- [英为财情](hk.investing.com)
-- [维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)
 
 ## 读书
 - [东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
