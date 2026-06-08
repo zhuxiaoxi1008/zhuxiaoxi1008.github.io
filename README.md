@@ -4,7 +4,7 @@
 - [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
 
-## **10大翻墙宝藏网站**
+## 10大翻墙宝藏网站
 - [Snopes](https://www.snopes.com) 终极辟谣神器，查证网络谣言与阴谋论真假
 - [Wikipedia（英文版）](https://en.wikipedia.org) 内容更全面、更客观的中立知识百科
 - [Foreign Affairs](https://www.foreignaffairs.com) 国际政治与地缘战略顶级评论杂志
