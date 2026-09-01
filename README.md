@@ -3,6 +3,9 @@
 ## 近期常用网站
 - [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
+- [react 19](https://www.bilibili.com/video/BV1xukkBvEVb?spm_id_from=333.788.player.switch&vd_source=f11c86be9940ac960280b4b14f1a1e9a&p=21)
+- [react Api](https://zh-hans.react.dev/reference/react/useState)
+
 
 ## 10大翻墙宝藏网站
 - [Snopes](https://www.snopes.com) 终极辟谣神器，查证网络谣言与阴谋论真假
