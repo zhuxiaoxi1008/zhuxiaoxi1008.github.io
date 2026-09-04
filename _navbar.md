@@ -29,4 +29,5 @@
   * [ai 笔记](/pages/notes/ai-blog.md)
   * [game 笔记](/pages/notes/game.md)
   * [费曼学习法](/pages/notes/feiman.md "费曼学习法")
+  * [uni-app 开发:](pages/uniapp.md "万功不减，学无止境")
 
