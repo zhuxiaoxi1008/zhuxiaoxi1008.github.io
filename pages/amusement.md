@@ -21,6 +21,8 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
+- [纽约时报中文](cn.nytimes.com) [英文](nytimes.com)
+- [文学城](wenxuecity.com)
 - [华尔街日报](https://www.wsj.com/)
 - [路透社](https://www.reuters.com/)
 - [AP_news](https://apnews.com/) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
