@@ -103,6 +103,10 @@
 - [10web](https://10web.io/blog/)
 
 
+## 下载资源
+- [清华镜像源](https://mirrors.tuna.tsinghua.edu.cn/)
+
+
 
 
 
