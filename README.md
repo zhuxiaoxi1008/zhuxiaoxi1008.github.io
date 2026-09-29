@@ -5,6 +5,7 @@
 - [spotify](https://open.spotify.com/)
 - [react 19](https://www.bilibili.com/video/BV1xukkBvEVb?spm_id_from=333.788.player.switch&vd_source=f11c86be9940ac960280b4b14f1a1e9a&p=21)
 - [react Api](https://zh-hans.react.dev/reference/react/useState)
+- [ts learn](https://jkchao.github.io/typescript-book-chinese/typings/overview.html#%E5%86%85%E8%81%94%E7%B1%BB%E5%9E%8B%E6%B3%A8%E8%A7%A3)
 
 
 ## 10大翻墙宝藏网站
