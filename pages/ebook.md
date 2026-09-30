@@ -2,7 +2,7 @@
 - [金屋电子书](https://pdfs.top/)
 - [鹿鸣川](https://lunarora.com/page/1)
 - [科学文库在线电子书](https://book.sciencereading.cn/)
-- [Z-Library](https://zh.z-lib.gd/) 
+- [Z-Library](https://zh.z-lib.gd/)
 - [鸠摩搜书](https://www.jiumodiary.com/)
 - [古登堡计划](https://www.gutenberg.org/)
 - [libgen](https://libgen.ee/)
