@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## LangChain LLM
 - [langchain 文档](https://langchain-doc.cn/v1/python/langchain/quickstart.html)
 
@@ -8,9 +7,6 @@ flowise
 
 ## github 资料
 https://github.com/fighting41love/funNLP
-=======
-# GitHub 发现热门项目指南
->>>>>>> 70e4c14732ef20a4e0b46e4dee09466a577f50b7
 
 ## 快捷入口
 
@@ -148,4 +144,3 @@ https://github.com/trending/python?since=weekly
 
 ---
 
-*基于 GitHub 官方文档整理，更新于 2026 年 5 月*
