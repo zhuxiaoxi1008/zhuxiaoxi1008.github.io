@@ -26,9 +26,8 @@
 - [电子工业国外计算机教材丛书](https://github.com/apachecn/phei-cs-book)
 - [github dev book](https://github.com/daichangya/book/blob/master/android/%E7%96%AF%E7%8B%82Android%E8%AE%B2%E4%B9%89_%E6%9D%8E%E5%88%9A.pdf)
 
----
-
 ## git资料
+
 - [git ebook](https://github.com/suyongsheng/ebooks/tree/master/linux)
 
 
