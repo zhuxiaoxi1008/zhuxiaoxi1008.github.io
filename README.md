@@ -1,15 +1,17 @@
 # 常用推荐
 
+> 链接像抽屉：常用的摊在桌面上，其余关进格子里，免得每天都在翻垃圾堆。
+
+----
+
 ## 近期常用网站
 - [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
-
 
 ## 教程
 - [react 19](https://www.bilibili.com/video/BV1xukkBvEVb?spm_id_from=333.788.player.switch&vd_source=f11c86be9940ac960280b4b14f1a1e9a&p=21)
 - [react Api](https://zh-hans.react.dev/reference/react/useState)
 - [ts learn](https://jkchao.github.io/typescript-book-chinese/typings/overview.html#%E5%86%85%E8%81%94%E7%B1%BB%E5%9E%8B%E6%B3%A8%E8%A7%A3)
-
 
 ## 10大翻墙宝藏网站
 - [Snopes](https://www.snopes.com) 终极辟谣神器，查证网络谣言与阴谋论真假
@@ -23,7 +25,7 @@
 - [Pixabay](https://pixabay.com) 海量高清无版权图片、视频、音频素材（商业可用）
 - [Pexels](https://www.pexels.com) 高质量免费图片与视频素材库
 - [小青科学网](https://www.youtube.com/@XQKXW)
-- [Google](https://www.google.com/) 
+- [Google](https://www.google.com/)
 - [金屋电子书](https://pdfs.top/)
 - [印象笔记](https://app.yinxiang.com/Home.action?login=true)
 - [springboot](https://www.chaojimake.cn/question_1_138.html)
@@ -32,7 +34,7 @@
 - [在线工具](https://www.matools.com/)
 - [网络安全](https://www.freebuf.com/)
 - [布鲁盖尔研究所](https://www.bruegel.org/)
-- [英为财情](hk.investing.com)
+- [英为财情](https://hk.investing.com)
 - [维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)
 
 ## AI工具
@@ -61,151 +63,48 @@
 - [古登堡计划](https://www.gutenberg.org/)
 
 ## AI
-- [AI 工具推荐](https://openi.cn/) 
+- [AI 工具推荐](https://openi.cn/)
 - [biemoyu ai 工具](https://biemoyu.com/)
 - [my_resume](https://zhuxiaoxi1008.github.io/resume/)
 - [CodePen](https://codepen.io/) 前端开发人员的社交平台，有大量开发者分享的各种 canvas 特效代码及演示。
 - [面试刷题](https://www.nowcoder.com/practice/20ef0972485e41019e39543e8e895b7f?tpId=196&rp=1&sourceUrl=%2Fexam%2Foj%2Fta%3FtpId%3D37&difficulty=&judgeStatus=&tags=&title=&gioEnter=menu)
-- [CodePen](https://codepen.io/) 前端开发人员大量开发者分享的各种 canvas 特效
 - [时代音乐](http://www.78497.com/) or (http://music.2t58.com/)
 
 ## 代码
 - [Element Plus](https://element-plus.org/) - Element Plus 的官方文档，提供丰富的 Vue 3 组件库。
-- [Github](https://github.com/)  https://github.com/search 
+- [Github](https://github.com/)  https://github.com/search
 - [emoji](https://emojicopy.com/) emoji 表情
-- [Gitee](https://gitee.com/zhuxiaoxi1008) 
-- [npm](www.npmjs.com) [NPM 官方文档](https://docs.npmjs.com/)
+- [Gitee](https://gitee.com/zhuxiaoxi1008)
+- [npm](https://www.npmjs.com) [NPM 官方文档](https://docs.npmjs.com/)
 
 ## 教程网站
-- [git上一些文档](https://github.com/doocs) 
+- [git上一些文档](https://github.com/doocs)
 - [design](https://design.dev/) - 设计师和开发者的设计资源、教程和灵感。
 - [laracasts](https://laracasts.com/) Laravel的教学视频和文章
 - [MDN Web Docs](https://developer.mozilla.org) - Mozilla 提供的全面的 Web 开发文档。
 - [W3Schools](https://www.w3schools.com) - 提供 HTML、CSS 和 JavaScript 等 Web 技术的教程和实例。
 - [菜鸟教程](https://www.runoob.com) - 包含多种编程语言和技术的入门教程。
-- [W3Schools](https://www.w3schools.com) - 提供详细的 HTML、CSS、JavaScript 等 Web 技术教程和实例。
 - [GitHub Learning Lab](https://lab.github.com) - GitHub 提供的互动式 Git 和 GitHub 教程。
 - [freeCodeCamp](https://www.freecodecamp.org) - 免费的编程课程和项目实践平台。
-- [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 让您轻松地了解所有与重构、设计模式
+- [refactoring](https://refactoring.guru/design-patterns/catalog) Refactoring.Guru 设计模式与重构
 
 ## 文档社区
-- [掘金](https://juejin.cn/) 
+- [掘金](https://juejin.cn/)
 - [语雀](https://www.yuque.com/dashboard)
 
 ## 娱乐
-- [facebook](https://www.facebook.com/)  
+- [facebook](https://www.facebook.com/)
 - [reddit](https://www.reddit.com/?rdt=52024)
 
 ## 工具
 - [163邮箱](https://mail.163.com/)
-- [有道云](https://note.youdao.com/web) 
-- [有道翻译](https://mobile.youdao.com/) 
+- [有道云](https://note.youdao.com/web)
+- [有道翻译](https://mobile.youdao.com/)
 - [bookstack](https://www.bookstack.cn/)
 - [TED](https://www.ted.com/)
 - [Gmail](https://mail.google.com/mail/u/0/#inbox)
-- [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/) 
+- [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/)
 - [10web](https://10web.io/blog/)
-
 
 ## 下载资源
 - [清华镜像源](https://mirrors.tuna.tsinghua.edu.cn/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
