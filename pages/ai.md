@@ -1,3 +1,16 @@
+## AI 备选
+- [豆包](https://www.doubao.com/)
+- [文心一言](https://yiyan.baidu.com/)
+- [Kimi](https://www.kimi.com/)
+- [Mistral](https://chat.mistral.ai/chat)
+- [OpenRouter](https://openrouter.ai/)
+- [Groq](https://console.groq.com/playground)
+- [Metaso](https://metaso.cn/)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat) · [Apps](https://aistudio.google.com/apps)
+- [Project IDX](https://idx.google.com/)
+- [AI 导航 openi](https://openi.cn/)
+- [biemoyu AI](https://biemoyu.com/)
+
 ## LangChain LLM
 - [langchain 文档](https://langchain-doc.cn/v1/python/langchain/quickstart.html)
 

@@ -83,3 +83,17 @@
 ## 五、已剔除（不建议当主信源）
 
 文学城、creaders、热搜榜、随机油管频道、LINE 娱乐入口、GitHub issue 等社区/热度/非新闻链接。
+
+
+## 知识 · 百科 · 研究
+- [Wikipedia 英文](https://en.wikipedia.org/)
+- [维基百科 中文](https://zh.wikipedia.org/)
+- [Snopes](https://www.snopes.com/)
+- [Foreign Affairs](https://www.foreignaffairs.com/)
+- [Brookings](https://www.brookings.edu/)
+- [Bruegel](https://www.bruegel.org/)
+- [Open Yale Courses](https://oyc.yale.edu/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [Internet Archive](https://archive.org/)
+- [小青科学网](https://www.youtube.com/@XQKXW)
+- [英为财情](https://hk.investing.com/)

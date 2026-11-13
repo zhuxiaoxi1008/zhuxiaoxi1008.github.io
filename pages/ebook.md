@@ -31,6 +31,16 @@
 - [git ebook](https://github.com/suyongsheng/ebooks/tree/master/linux)
 
 
+## 读书 · 文档
+- [Project Gutenberg](https://www.gutenberg.org/)
+- [古诗文网·东京梦华录](https://www.gushiwen.cn/guwen/book_171.aspx)
+- [码农电子书](https://www.manongbook.com/)
+- [金屋电子书](https://pdfs.top/)
+- [BookStack](https://www.bookstack.cn/)
+- [白菜 / K8s](https://cmsblogs.cn/?s=Kubernetes)
+- [台词社](https://www.taicishe.com/)
+
+
 ## 前言
 
 免费书籍汇总。

@@ -20,7 +20,12 @@
 - [大地永存](https://www.tianlang6.cc/vod-detail-id-431433.html)
 - [小霸王游戏合集]()
 
-## 新闻站
+## 娱乐
+- [Facebook](https://www.facebook.com/)
+- [Reddit](https://www.reddit.com/)
+- [TED](https://www.ted.com/)
+- [yudou](https://www.youtube.com/@yudou) · [freenode](https://www.yudou789.top/)
+- [时代音乐](http://www.78497.com/) · [备用](http://music.2t58.com/)
 
 
 

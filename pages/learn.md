@@ -19,6 +19,21 @@
 - [Spring-security](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)
 - [cap theorem](https://www.julianbrowne.com/article/brewers-cap-theorem/) (https://www.creativebloq.com/)
 
+- [React 19 视频（B 站）](https://www.bilibili.com/video/BV1xukkBvEVb)
+- [TypeScript 中文书](https://jkchao.github.io/typescript-book-chinese/typings/overview.html)
+- [W3Schools](https://www.w3schools.com/)
+- [菜鸟教程](https://www.runoob.com/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Laracasts](https://laracasts.com/)
+- [Refactoring Guru 设计模式](https://refactoring.guru/design-patterns/catalog)
+- [design.dev](https://design.dev/)
+- [doocs](https://github.com/doocs)
+- [Java 笔记](https://github.com/itzhanglg/java-notes/tree/master/docs/highConcurrency/redis)
+- [Spring Boot 相关](https://www.chaojimake.cn/question_1_138.html)
+- [Java 8 API](https://www.matools.com/api/java8)
+- [牛客面试](https://www.nowcoder.com/)
+- [CodePen](https://codepen.io/)
+
 
 
 
