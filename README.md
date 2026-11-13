@@ -7,6 +7,7 @@
 ## 近期常用网站
 - [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
+- [3D viewer](https://3dviewer.net/)
 
 ## 教程
 - [react 19](https://www.bilibili.com/video/BV1xukkBvEVb?spm_id_from=333.788.player.switch&vd_source=f11c86be9940ac960280b4b14f1a1e9a&p=21)
