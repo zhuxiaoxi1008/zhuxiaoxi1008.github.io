@@ -7,12 +7,14 @@
 ## 近期常用网站
 - [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
-- [3D viewer](https://3dviewer.net/)
+
 
 ## 教程
 - [react 19](https://www.bilibili.com/video/BV1xukkBvEVb?spm_id_from=333.788.player.switch&vd_source=f11c86be9940ac960280b4b14f1a1e9a&p=21)
 - [react Api](https://zh-hans.react.dev/reference/react/useState)
 - [ts learn](https://jkchao.github.io/typescript-book-chinese/typings/overview.html#%E5%86%85%E8%81%94%E7%B1%BB%E5%9E%8B%E6%B3%A8%E8%A7%A3)
+- [demo](https://mrdoob.com/#/131/clouds)
+- [3D viewer](https://3dviewer.net/)
 
 ## 10大翻墙宝藏网站
 - [Snopes](https://www.snopes.com) 终极辟谣神器，查证网络谣言与阴谋论真假
