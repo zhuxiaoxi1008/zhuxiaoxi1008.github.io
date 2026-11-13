@@ -21,48 +21,7 @@
 - [小霸王游戏合集]()
 
 ## 新闻站
-- [纽约时报](https://www.nytimes.com/) [中文]](https://cn.nytimes.com/)
-- [BBC](https://www.bbc.com/news) / [中文](https://www.bbc.com/zhongwen)
-- [AP_news](https://apnews.com/) - 独立的全球新闻组织，致力于事实报道，是世界最可信赖的新闻来源之一。
-- [文学城](wenxuecity.com)
-- [华尔街日报](https://www.wsj.com/)
-- [路透社](https://www.reuters.com/)
-- [布鲁盖尔研究所](https://www.bruegel.org/)
-- [英为财情](hk.investing.com)
-- [VOA News](https://www.voanews.com/)
-- [光明日报](https://www.gmw.cn/)
-- [Google 新闻](https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN:zh-Hans) 
-- [法广](https://www.rfi.fr/cn/)
-- [自由亚洲电台](https://www.rfa.org/)
-- [news](https://news.creaders.net/)
-- [热搜榜](https://www.rebang.today/) 
-- [globaltimes](https://www.globaltimes.cn/)
-- [chinadaily](https://www.chinadaily.com.cn/)
-- [油管看世界](https://www.youtube.com/@LINETODAYWORLD)
-- [line](https://today.line.me/tw/v3/tab/anime)
-- [line_news](https://today.line.me/tw/v2/publisher/101508)
-- [韩联社](https://cn.yna.co.kr/) or [韩联社_韩文](https://www.yna.co.kr/)
-- [The Korea Times](https://www.koreatimes.co.kr/ )
-- [俄](https://www.rt.com/)
-- [美联社（Associated Press)](http://www.ap.org/)
-- [法新社（Agence France-Presse, AFP)](http://www.afp.com/)
-- [英国广播公司（British Broadcasting Corporation, BBC)](https://www.bbc.com/)
-- [纽约时报（The New York Times)](https://www.nytimes.com/)
-- [华盛顿邮报（The Washington Post)](https://www.washingtonpost.com/)
-- [卫报（The Guardian)](https://www.theguardian.com/)
-- [生意网](https://www.100ppi.com/ppi/)  - 专注于提供中国和国际市场行情的网站，提供各种商品的价格、库存、交易量等信息。
-- [latest-news](https://therealnews.com/latest-news) - 最新新闻
-- [msn 新闻](https://www.msn.cn/zh-cn)
-- [The New York Times](https://www.nytimes.com) - 美国最具声誉的报纸之一，以其深入的报道和高质量的新闻分析而闻名。
-- [CNN](https://www.cnn.com) - 美国第一个提供24小时新闻报道的电视频道，以其快速报道重大新闻事件而著称。
-- [Reuters](https://www.reuters.com) - 全球最大的国际新闻机构之一，提供广播新闻和印刷报纸，以迅速和准确享誉国际。
-- [The Wall Street Journal](https://www.wsj.com) - 美国一家报道商业和经济新闻的国际日报，以其深入的财经报道和分析而知名。
-- [The Guardian](https://www.theguardian.com) - 英国全国性综合报纸，以严肃、可信、独立著称，读者多是知识分子和年轻人。
-- [Bloomberg News](https://www.bloomberg.com) - 全球最大的财经资讯公司之一，提供全球经济和商业新闻。
-- [Xinhua Net](http://www.xinhuanet.com/world/) - 新华网国际版块，提供中国和世界各地的新闻报道。
-- [美国商务部]( https://www.bis.doc.gov/) - 美国商务部下属的国际贸易局，提供国际贸易相关的新闻和信息。
-- [越南](https://cn.nhandan.vn/)
-- [git](https://github.com/Tyaoo/picker/issues/945)
+
 
 
 ## 娱乐网站
