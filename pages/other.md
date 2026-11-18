@@ -1,4 +1,5 @@
 # 科学上网
+- [v2rayN](https://github.com/2dust/v2rayN/releases) v2rayN Releases
 - [玉豆分享](https://www.yudou66.com/)
 - [由零开始分析](https://blues2022.blogspot.com/)
 - [freeNodes](https://github.com/Barabama/FreeNodes)
@@ -6,15 +7,14 @@
 - [lovetoshare](https://lovetoshare.top/archives/5.html) v2rayNvpn
 - [免费节点更新地址](https://github.com/Barabama/FreeNodes?tab=readme-ov-file) 
 - [Free server](https://github.com/Pawdroid/Free-servers) 免费服务订阅地址
->上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
->
->上方节点（部分）永久订阅地址2：https://mirror.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 - [serv00](https://www.serv00.com/offer) 免费服务器
 - [infinityfree](https://dash.infinityfree.com/accounts/if0_37076589/) 免费服务器
 - [sockets](https://github.com/shadowso/Shadowsocks)https://github.com/shadowso/Shadowsocks
 - [sockets 下载地址](https://rixiacloud.github.io/blog/downloads.html)
 - [Lantern](https://github.com/getlantern/download) 科学上网
 - [freeNode](https://www.gaofumei.net/) 免费节点
+>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
+>上方节点（部分）永久订阅地址2：https://mirror.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub
 ---
 
 # 其他资料
