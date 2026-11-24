@@ -8,6 +8,7 @@
 - [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
 - [supabase](https://supabase.com/)
+- [个人主页](https://devstart-worker.devstartzxx.workers.dev/)
 
 
 ## 教程
