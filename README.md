@@ -10,6 +10,34 @@
 - [supabase](https://supabase.com/)
 - [个人主页](https://devstart-worker.devstartzxx.workers.dev/)
 
+# 英语学习外刊网站清单
+## 🌱 入门级（中等偏易）
+- [The Conversation](https://theconversation.com/) - 学者写给公众，免费有据，最推荐入门
+- [Pew Research Center](https://www.pewresearch.org/) - 民意与人口数据，图表多、句式规范
+- [BBC Future / Science](https://www.bbc.com/future) - 科技与生活方式，听力+阅读双练
+- [NPR](https://www.npr.org/) - 新闻与文化，可听可读
+## 📗 日常级（中等）
+- [Nature News](https://www.nature.com/news) - 自然科学与科研政策，有邮件摘要
+- [Science News](https://www.sciencenews.org/) - 专业科学新闻
+- [Our World in Data](https://ourworldindata.org/) - 用数据讲贫困、健康、环境等社会问题
+- [Scientific American](https://www.scientificamerican.com/) - 科学普及长文，词汇练习佳
+- [MIT Technology Review](https://www.technologyreview.com/) - 技术如何改变社会与产业
+- [The Guardian](https://www.theguardian.com/) - 综合深度报道，免费无硬墙
+- [AP News](https://apnews.com/) - 通讯社硬新闻，句子短、客观
+- [Reuters](https://www.reuters.com/) - 通讯社硬新闻，国际视角
+- [Smithsonian Magazine](https://www.smithsonianmag.com/) - 历史、文化、科学，有趣好读
+- [National Geographic](https://www.nationalgeographic.com/) - 自然人文，图文并茂
+- [Ars Technica](https://arstechnica.com/) - 科技深度报道
+## 📘 进阶级（中等偏难）
+- [Quanta Magazine](https://www.quantamagazine.org/) - 数学、物理、计算机，文笔最佳
+- [The Atlantic](https://www.theatlantic.com/) - 政治、文化、教育长文
+- [Aeon](https://aeon.co/) - 哲学、心理、文化，英语漂亮
+- [Brookings](https://www.brookings.edu/) - 智库政策研究，美国视角
+- [Vox](https://www.vox.com/) - 解释型新闻，好读但注意立场
+- [The Economist](https://www.economist.com/) - 全球政经，文风独特，部分免费
+## ⚠️ 不建议当主食
+- [ScienceDaily](https://www.sciencedaily.com/) - 新闻稿改写，深度和把关一般
+- [Phys.org](https://phys.org/) - 同上，更新快但质量一般
 
 ## 教程
 - [react 19](https://www.bilibili.com/video/BV1xukkBvEVb?spm_id_from=333.788.player.switch&vd_source=f11c86be9940ac960280b4b14f1a1e9a&p=21)
