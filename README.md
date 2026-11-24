@@ -7,6 +7,7 @@
 ## 近期常用网站
 - [youtube](https://www.youtube.com)  *[yudou](https://www.youtube.com/@yudou)*  *[freenode](https://www.yudou789.top/)*
 - [spotify](https://open.spotify.com/)
+- [supabase](https://supabase.com/)
 
 
 ## 教程
